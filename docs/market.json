@@ -1,0 +1,40 @@
+{
+  "markets": [
+    {
+      "key": "kospi",
+      "label": "코스피",
+      "value": "6,475.63",
+      "change": "-0.18 (-0.00%)",
+      "up": false
+    },
+    {
+      "key": "kosdaq",
+      "label": "코스닥",
+      "value": "1,203.84",
+      "change": "+22.72 (+1.92%)",
+      "up": true
+    },
+    {
+      "key": "usdkrw",
+      "label": "원/달러 환율",
+      "value": "1,475.43",
+      "change": "-5.00 (-0.34%)",
+      "up": false
+    },
+    {
+      "key": "nasdaq",
+      "label": "나스닥",
+      "value": "24,788.47",
+      "change": "+349.96 (+1.43%)",
+      "up": true
+    },
+    {
+      "key": "btc",
+      "label": "비트코인",
+      "value": "77,624.49",
+      "change": "-654.17 (-0.84%)",
+      "up": false
+    }
+  ],
+  "updated_at": "2026-04-24T17:26:13.102Z"
+}
