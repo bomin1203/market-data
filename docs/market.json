@@ -3,16 +3,16 @@
     {
       "key": "kospi",
       "label": "코스피",
-      "value": "6,598.87",
-      "change": "-92.03 (-1.38%)",
-      "up": false
+      "value": "6,881.01",
+      "change": "+282.14 (+4.28%)",
+      "up": true
     },
     {
       "key": "kosdaq",
       "label": "코스닥",
-      "value": "1,192.35",
-      "change": "-27.91 (-2.29%)",
-      "up": false
+      "value": "1,214.23",
+      "change": "+21.88 (+1.84%)",
+      "up": true
     },
     {
       "key": "usdkrw",
@@ -31,10 +31,10 @@
     {
       "key": "btc",
       "label": "비트코인",
-      "value": "78,550",
-      "change": "-119.55 (-0.15%)",
-      "up": false
+      "value": "80,368.87",
+      "change": "+1825.44 (+2.32%)",
+      "up": true
     }
   ],
-  "updated_at": "2026-05-03T23:59:04.209Z"
+  "updated_at": "2026-05-04T04:01:59.252Z"
 }
