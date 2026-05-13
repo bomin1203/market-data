@@ -4265,9 +4265,9 @@
     },
     "016710.KS": {
       "ticker": "016710.KS",
-      "price": 8030,
-      "change": "+0.4%",
-      "change_pct": 0.38,
+      "price": 8730,
+      "change": "+9.1%",
+      "change_pct": 9.13,
       "up": true
     },
     "019680.KS": {
@@ -6134,9 +6134,9 @@
     },
     "069640.KS": {
       "ticker": "069640.KS",
-      "price": 1290,
-      "change": "+93.7%",
-      "change_pct": 93.69,
+      "price": 1235,
+      "change": "+85.4%",
+      "change_pct": 85.44,
       "up": true
     },
     "071950.KS": {
@@ -6337,9 +6337,9 @@
     },
     "002070.KS": {
       "ticker": "002070.KS",
-      "price": 10600,
-      "change": "+6.0%",
-      "change_pct": 6,
+      "price": 10120,
+      "change": "+1.2%",
+      "change_pct": 1.2,
       "up": true
     },
     "003075.KS": {
@@ -6658,5 +6658,5 @@
       "up": true
     }
   },
-  "updated_at": "2026-05-13T06:51:53.949Z"
+  "updated_at": "2026-05-13T09:48:14.120Z"
 }
