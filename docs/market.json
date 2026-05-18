@@ -17,24 +17,24 @@
     {
       "key": "usdkrw",
       "label": "원/달러 환율",
-      "value": "1,500.1",
-      "change": "+2.34 (+0.16%)",
-      "up": true
+      "value": "1,494.38",
+      "change": "-3.38 (-0.23%)",
+      "up": false
     },
     {
       "key": "nasdaq",
       "label": "나스닥",
-      "value": "26,225.15",
-      "change": "-410.06 (-1.54%)",
-      "up": false
+      "value": "26,227.32",
+      "change": "+2.18 (+0.01%)",
+      "up": true
     },
     {
       "key": "btc",
       "label": "비트코인",
-      "value": "76,803.44",
-      "change": "-611.47 (-0.79%)",
+      "value": "76,849.47",
+      "change": "-565.44 (-0.73%)",
       "up": false
     }
   ],
-  "updated_at": "2026-05-18T10:10:31.160Z"
+  "updated_at": "2026-05-18T14:01:16.877Z"
 }
