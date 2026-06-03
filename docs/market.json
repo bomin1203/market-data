@@ -11,15 +11,15 @@
       "key": "kosdaq",
       "label": "코스닥",
       "value": "1,026.03",
-      "change": "-48.77 (-4.54%)",
+      "change": "-24.00 (-2.29%)",
       "up": false
     },
     {
       "key": "usdkrw",
       "label": "원/달러 환율",
-      "value": "1,515.3",
-      "change": "-0.91 (-0.06%)",
-      "up": false
+      "value": "1,518.48",
+      "change": "+2.27 (+0.15%)",
+      "up": true
     },
     {
       "key": "nasdaq",
@@ -31,10 +31,10 @@
     {
       "key": "btc",
       "label": "비트코인",
-      "value": "66,654.4",
-      "change": "-4666.09 (-6.54%)",
-      "up": false
+      "value": "66,824.01",
+      "change": "+156.40 (+0.23%)",
+      "up": true
     }
   ],
-  "updated_at": "2026-06-02T23:59:30.189Z"
+  "updated_at": "2026-06-03T05:06:02.062Z"
 }
