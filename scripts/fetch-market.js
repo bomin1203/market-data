@@ -3,7 +3,6 @@ const TICKERS = [
   { key: "kosdaq", label: "코스닥",       symbol: "^KQ11" },
   { key: "usdkrw", label: "원/달러 환율", symbol: "KRW=X" },
   { key: "nasdaq", label: "나스닥",       symbol: "^IXIC" },
-  { key: "btc",    label: "비트코인",     symbol: "BTC-USD" },
 ];
 
 async function fetchOne(t) {
