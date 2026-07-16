@@ -3,23 +3,23 @@
     {
       "key": "kospi",
       "label": "코스피",
-      "value": "7,284.41",
-      "change": "+427.58 (+6.24%)",
-      "up": true
+      "value": "6,872.27",
+      "change": "-412.14 (-5.66%)",
+      "up": false
     },
     {
       "key": "kosdaq",
       "label": "코스닥",
-      "value": "829.43",
-      "change": "+30.07 (+3.76%)",
+      "value": "798.05",
+      "change": "+14.07 (+1.79%)",
       "up": true
     },
     {
       "key": "usdkrw",
       "label": "원/달러 환율",
-      "value": "1,486.28",
-      "change": "+0.24 (+0.02%)",
-      "up": true
+      "value": "1,482.68",
+      "change": "-3.36 (-0.23%)",
+      "up": false
     },
     {
       "key": "nasdaq",
@@ -29,5 +29,5 @@
       "up": true
     }
   ],
-  "updated_at": "2026-07-16T00:05:01.733Z"
+  "updated_at": "2026-07-16T03:32:57.549Z"
 }
