@@ -18,8 +18,8 @@
       "key": "usdkrw",
       "label": "원/달러 환율",
       "value": "1,459.42",
-      "change": "-14.71 (-1.00%)",
-      "up": false
+      "change": "+0.00 (+0.00%)",
+      "up": true
     },
     {
       "key": "nasdaq",
@@ -29,5 +29,5 @@
       "up": false
     }
   ],
-  "updated_at": "2026-07-26T22:40:55.954Z"
+  "updated_at": "2026-07-26T23:43:05.703Z"
 }
