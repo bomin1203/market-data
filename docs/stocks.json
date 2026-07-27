@@ -3803,10 +3803,10 @@
     },
     "003830.KS": {
       "ticker": "003830.KS",
-      "price": 108100,
-      "change": "-3.5%",
-      "change_pct": -3.48,
-      "up": false
+      "price": 112600,
+      "change": "+0.5%",
+      "change_pct": 0.54,
+      "up": true
     },
     "005430.KS": {
       "ticker": "005430.KS",
@@ -5875,10 +5875,10 @@
     },
     "357430.KS": {
       "ticker": "357430.KS",
-      "price": 668,
-      "change": "-0.6%",
-      "change_pct": -0.6,
-      "up": false
+      "price": 724,
+      "change": "+7.7%",
+      "change_pct": 7.74,
+      "up": true
     },
     "000040.KS": {
       "ticker": "000040.KS",
@@ -6658,5 +6658,5 @@
       "up": false
     }
   },
-  "updated_at": "2026-07-27T06:51:40.890Z"
+  "updated_at": "2026-07-27T10:47:14.863Z"
 }
