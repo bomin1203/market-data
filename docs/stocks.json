@@ -2,170 +2,170 @@
   "stocks": {
     "000270.KS": {
       "ticker": "000270.KS",
-      "price": 138900,
-      "change": "-2.0%",
-      "change_pct": -1.98,
+      "price": 138100,
+      "change": "-2.5%",
+      "change_pct": -2.54,
       "up": false
     },
     "000660.KS": {
       "ticker": "000660.KS",
-      "price": 1678000,
-      "change": "+2.0%",
-      "change_pct": 2.01,
+      "price": 1667000,
+      "change": "+1.3%",
+      "change_pct": 1.34,
       "up": true
     },
     "005380.KS": {
       "ticker": "005380.KS",
-      "price": 440500,
-      "change": "-2.8%",
-      "change_pct": -2.76,
+      "price": 439000,
+      "change": "-3.1%",
+      "change_pct": -3.09,
       "up": false
     },
     "005930.KS": {
       "ticker": "005930.KS",
-      "price": 271000,
-      "change": "-1.3%",
-      "change_pct": -1.28,
+      "price": 270750,
+      "change": "-1.4%",
+      "change_pct": -1.37,
       "up": false
     },
     "005935.KS": {
       "ticker": "005935.KS",
-      "price": 190700,
-      "change": "-2.5%",
-      "change_pct": -2.51,
+      "price": 190950,
+      "change": "-2.4%",
+      "change_pct": -2.38,
       "up": false
     },
     "006800.KS": {
       "ticker": "006800.KS",
-      "price": 36650,
-      "change": "-2.7%",
-      "change_pct": -2.66,
+      "price": 36550,
+      "change": "-2.9%",
+      "change_pct": -2.92,
       "up": false
     },
     "012330.KS": {
       "ticker": "012330.KS",
-      "price": 530000,
-      "change": "-3.1%",
-      "change_pct": -3.11,
+      "price": 526000,
+      "change": "-3.8%",
+      "change_pct": -3.84,
       "up": false
     },
     "012450.KS": {
       "ticker": "012450.KS",
-      "price": 1140000,
-      "change": "-1.7%",
-      "change_pct": -1.72,
+      "price": 1136000,
+      "change": "-2.1%",
+      "change_pct": -2.07,
       "up": false
     },
     "028260.KS": {
       "ticker": "028260.KS",
-      "price": 372000,
-      "change": "+0.8%",
-      "change_pct": 0.81,
+      "price": 369000,
+      "change": "+0.0%",
+      "change_pct": 0,
       "up": true
     },
     "032830.KS": {
       "ticker": "032830.KS",
-      "price": 315000,
-      "change": "+4.7%",
-      "change_pct": 4.65,
+      "price": 312500,
+      "change": "+3.8%",
+      "change_pct": 3.82,
       "up": true
     },
     "034020.KS": {
       "ticker": "034020.KS",
-      "price": 80100,
-      "change": "-3.0%",
-      "change_pct": -3.03,
+      "price": 79400,
+      "change": "-3.9%",
+      "change_pct": -3.87,
       "up": false
     },
     "035420.KS": {
       "ticker": "035420.KS",
-      "price": 219000,
-      "change": "-3.9%",
-      "change_pct": -3.95,
+      "price": 218500,
+      "change": "-4.2%",
+      "change_pct": -4.17,
       "up": false
     },
     "042660.KS": {
       "ticker": "042660.KS",
-      "price": 92400,
-      "change": "-3.5%",
-      "change_pct": -3.55,
+      "price": 92100,
+      "change": "-3.9%",
+      "change_pct": -3.86,
       "up": false
     },
     "055550.KS": {
       "ticker": "055550.KS",
-      "price": 105600,
-      "change": "-1.7%",
-      "change_pct": -1.68,
+      "price": 105800,
+      "change": "-1.5%",
+      "change_pct": -1.49,
       "up": false
     },
     "068270.KS": {
       "ticker": "068270.KS",
-      "price": 195700,
-      "change": "-2.6%",
-      "change_pct": -2.64,
+      "price": 195300,
+      "change": "-2.8%",
+      "change_pct": -2.84,
       "up": false
     },
     "105560.KS": {
       "ticker": "105560.KS",
-      "price": 167800,
-      "change": "-0.4%",
-      "change_pct": -0.42,
+      "price": 167400,
+      "change": "-0.7%",
+      "change_pct": -0.65,
       "up": false
     },
     "207940.KS": {
       "ticker": "207940.KS",
-      "price": 1537000,
-      "change": "-0.7%",
-      "change_pct": -0.71,
+      "price": 1536000,
+      "change": "-0.8%",
+      "change_pct": -0.78,
       "up": false
     },
     "329180.KS": {
       "ticker": "329180.KS",
-      "price": 490500,
-      "change": "-3.8%",
-      "change_pct": -3.82,
+      "price": 489000,
+      "change": "-4.1%",
+      "change_pct": -4.12,
       "up": false
     },
     "373220.KS": {
       "ticker": "373220.KS",
-      "price": 355000,
-      "change": "-3.9%",
-      "change_pct": -3.92,
+      "price": 354000,
+      "change": "-4.2%",
+      "change_pct": -4.19,
       "up": false
     },
     "402340.KS": {
       "ticker": "402340.KS",
-      "price": 1168000,
-      "change": "+1.2%",
-      "change_pct": 1.21,
+      "price": 1158000,
+      "change": "+0.3%",
+      "change_pct": 0.35,
       "up": true
     },
     "000810.KS": {
       "ticker": "000810.KS",
-      "price": 619000,
-      "change": "+0.7%",
-      "change_pct": 0.65,
+      "price": 624000,
+      "change": "+1.5%",
+      "change_pct": 1.46,
       "up": true
     },
     "005490.KS": {
       "ticker": "005490.KS",
-      "price": 326500,
-      "change": "-2.2%",
-      "change_pct": -2.25,
+      "price": 325000,
+      "change": "-2.7%",
+      "change_pct": -2.69,
       "up": false
     },
     "006400.KS": {
       "ticker": "006400.KS",
-      "price": 500000,
-      "change": "-3.1%",
-      "change_pct": -3.1,
+      "price": 498500,
+      "change": "-3.4%",
+      "change_pct": -3.39,
       "up": false
     },
     "009150.KS": {
       "ticker": "009150.KS",
-      "price": 1485000,
-      "change": "-4.7%",
-      "change_pct": -4.69,
+      "price": 1469000,
+      "change": "-5.7%",
+      "change_pct": -5.71,
       "up": false
     },
     "009540.KS": {
@@ -177,23 +177,23 @@
     },
     "010120.KS": {
       "ticker": "010120.KS",
-      "price": 210500,
-      "change": "+1.9%",
-      "change_pct": 1.94,
+      "price": 210000,
+      "change": "+1.7%",
+      "change_pct": 1.69,
       "up": true
     },
     "010130.KS": {
       "ticker": "010130.KS",
-      "price": 1226000,
-      "change": "+2.5%",
-      "change_pct": 2.51,
+      "price": 1214000,
+      "change": "+1.5%",
+      "change_pct": 1.51,
       "up": true
     },
     "010140.KS": {
       "ticker": "010140.KS",
-      "price": 21500,
-      "change": "-3.6%",
-      "change_pct": -3.59,
+      "price": 21350,
+      "change": "-4.3%",
+      "change_pct": -4.26,
       "up": false
     },
     "011200.KS": {
@@ -205,51 +205,51 @@
     },
     "015760.KS": {
       "ticker": "015760.KS",
-      "price": 32550,
-      "change": "-2.1%",
-      "change_pct": -2.11,
+      "price": 32450,
+      "change": "-2.4%",
+      "change_pct": -2.41,
       "up": false
     },
     "034730.KS": {
       "ticker": "034730.KS",
-      "price": 597000,
-      "change": "+2.1%",
-      "change_pct": 2.05,
+      "price": 592000,
+      "change": "+1.2%",
+      "change_pct": 1.2,
       "up": true
     },
     "035720.KS": {
       "ticker": "035720.KS",
-      "price": 38400,
-      "change": "-4.0%",
-      "change_pct": -4,
+      "price": 38225,
+      "change": "-4.4%",
+      "change_pct": -4.44,
       "up": false
     },
     "042700.KS": {
       "ticker": "042700.KS",
-      "price": 233000,
-      "change": "+1.7%",
-      "change_pct": 1.75,
+      "price": 232500,
+      "change": "+1.5%",
+      "change_pct": 1.53,
       "up": true
     },
     "051910.KS": {
       "ticker": "051910.KS",
-      "price": 274500,
-      "change": "-2.1%",
-      "change_pct": -2.14,
+      "price": 272500,
+      "change": "-2.9%",
+      "change_pct": -2.85,
       "up": false
     },
     "086790.KS": {
       "ticker": "086790.KS",
-      "price": 131700,
-      "change": "-1.0%",
-      "change_pct": -0.98,
+      "price": 131400,
+      "change": "-1.2%",
+      "change_pct": -1.2,
       "up": false
     },
     "267250.KS": {
       "ticker": "267250.KS",
-      "price": 234000,
-      "change": "-0.6%",
-      "change_pct": -0.64,
+      "price": 234500,
+      "change": "-0.4%",
+      "change_pct": -0.42,
       "up": false
     },
     "267260.KS": {
@@ -261,16 +261,16 @@
     },
     "272210.KS": {
       "ticker": "272210.KS",
-      "price": 81200,
-      "change": "+1.1%",
-      "change_pct": 1.12,
+      "price": 80600,
+      "change": "+0.4%",
+      "change_pct": 0.37,
       "up": true
     },
     "298040.KS": {
       "ticker": "298040.KS",
-      "price": 2994000,
-      "change": "+1.4%",
-      "change_pct": 1.35,
+      "price": 2979000,
+      "change": "+0.8%",
+      "change_pct": 0.85,
       "up": true
     },
     "316140.KS": {
@@ -282,44 +282,44 @@
     },
     "000150.KS": {
       "ticker": "000150.KS",
-      "price": 1279000,
-      "change": "+0.2%",
-      "change_pct": 0.24,
-      "up": true
+      "price": 1269000,
+      "change": "-0.5%",
+      "change_pct": -0.55,
+      "up": false
     },
     "000720.KS": {
       "ticker": "000720.KS",
-      "price": 112000,
-      "change": "-3.3%",
-      "change_pct": -3.28,
+      "price": 110800,
+      "change": "-4.3%",
+      "change_pct": -4.32,
       "up": false
     },
     "003550.KS": {
       "ticker": "003550.KS",
-      "price": 114200,
-      "change": "-4.8%",
-      "change_pct": -4.83,
+      "price": 113800,
+      "change": "-5.2%",
+      "change_pct": -5.17,
       "up": false
     },
     "003670.KS": {
       "ticker": "003670.KS",
-      "price": 165200,
-      "change": "-3.1%",
-      "change_pct": -3.11,
+      "price": 164300,
+      "change": "-3.6%",
+      "change_pct": -3.64,
       "up": false
     },
     "0126Z0.KS": {
       "ticker": "0126Z0.KS",
-      "price": 398000,
-      "change": "-8.2%",
-      "change_pct": -8.19,
+      "price": 402500,
+      "change": "-7.2%",
+      "change_pct": -7.15,
       "up": false
     },
     "017670.KS": {
       "ticker": "017670.KS",
-      "price": 100200,
-      "change": "-0.3%",
-      "change_pct": -0.3,
+      "price": 99500,
+      "change": "-1.0%",
+      "change_pct": -1,
       "up": false
     },
     "024110.KS": {
@@ -331,9 +331,9 @@
     },
     "030200.KS": {
       "ticker": "030200.KS",
-      "price": 54000,
-      "change": "+1.1%",
-      "change_pct": 1.12,
+      "price": 53900,
+      "change": "+0.9%",
+      "change_pct": 0.94,
       "up": true
     },
     "033780.KS": {
@@ -345,79 +345,79 @@
     },
     "047050.KS": {
       "ticker": "047050.KS",
-      "price": 52700,
-      "change": "-1.1%",
-      "change_pct": -1.13,
+      "price": 52400,
+      "change": "-1.7%",
+      "change_pct": -1.69,
       "up": false
     },
     "047810.KS": {
       "ticker": "047810.KS",
-      "price": 142100,
-      "change": "-2.9%",
-      "change_pct": -2.94,
+      "price": 141400,
+      "change": "-3.4%",
+      "change_pct": -3.42,
       "up": false
     },
     "064350.KS": {
       "ticker": "064350.KS",
-      "price": 144900,
-      "change": "-1.4%",
-      "change_pct": -1.36,
+      "price": 143800,
+      "change": "-2.1%",
+      "change_pct": -2.11,
       "up": false
     },
     "066570.KS": {
       "ticker": "066570.KS",
-      "price": 213500,
-      "change": "-0.7%",
-      "change_pct": -0.7,
+      "price": 212500,
+      "change": "-1.2%",
+      "change_pct": -1.16,
       "up": false
     },
     "071050.KS": {
       "ticker": "071050.KS",
-      "price": 196500,
-      "change": "-3.7%",
-      "change_pct": -3.68,
+      "price": 195900,
+      "change": "-4.0%",
+      "change_pct": -3.97,
       "up": false
     },
     "079550.KS": {
       "ticker": "079550.KS",
-      "price": 813000,
-      "change": "-0.2%",
-      "change_pct": -0.25,
+      "price": 806000,
+      "change": "-1.1%",
+      "change_pct": -1.1,
       "up": false
     },
     "086280.KS": {
       "ticker": "086280.KS",
-      "price": 205500,
-      "change": "-2.6%",
-      "change_pct": -2.61,
+      "price": 204000,
+      "change": "-3.3%",
+      "change_pct": -3.32,
       "up": false
     },
     "096770.KS": {
       "ticker": "096770.KS",
-      "price": 132500,
-      "change": "+3.0%",
-      "change_pct": 2.95,
+      "price": 131000,
+      "change": "+1.8%",
+      "change_pct": 1.79,
       "up": true
     },
     "138040.KS": {
       "ticker": "138040.KS",
-      "price": 117000,
-      "change": "+0.3%",
-      "change_pct": 0.26,
+      "price": 117500,
+      "change": "+0.7%",
+      "change_pct": 0.69,
       "up": true
     },
     "278470.KS": {
       "ticker": "278470.KS",
-      "price": 388500,
-      "change": "-0.5%",
-      "change_pct": -0.51,
+      "price": 390250,
+      "change": "-0.1%",
+      "change_pct": -0.06,
       "up": false
     },
     "352820.KS": {
       "ticker": "352820.KS",
-      "price": 174300,
-      "change": "-2.8%",
-      "change_pct": -2.84,
+      "price": 173000,
+      "change": "-3.6%",
+      "change_pct": -3.57,
       "up": false
     },
     "000880.KS": {
@@ -429,9 +429,9 @@
     },
     "003230.KS": {
       "ticker": "003230.KS",
-      "price": 1347000,
-      "change": "+6.1%",
-      "change_pct": 6.06,
+      "price": 1349000,
+      "change": "+6.2%",
+      "change_pct": 6.22,
       "up": true
     },
     "003490.KS": {
@@ -443,65 +443,65 @@
     },
     "005387.KS": {
       "ticker": "005387.KS",
-      "price": 209500,
-      "change": "-1.6%",
-      "change_pct": -1.64,
+      "price": 208500,
+      "change": "-2.1%",
+      "change_pct": -2.11,
       "up": false
     },
     "005830.KS": {
       "ticker": "005830.KS",
-      "price": 182000,
-      "change": "+2.9%",
-      "change_pct": 2.94,
+      "price": 181600,
+      "change": "+2.7%",
+      "change_pct": 2.71,
       "up": true
     },
     "005940.KS": {
       "ticker": "005940.KS",
-      "price": 27800,
-      "change": "-3.3%",
-      "change_pct": -3.3,
+      "price": 27700,
+      "change": "-3.7%",
+      "change_pct": -3.65,
       "up": false
     },
     "006260.KS": {
       "ticker": "006260.KS",
-      "price": 341500,
-      "change": "+5.6%",
-      "change_pct": 5.56,
+      "price": 336000,
+      "change": "+3.9%",
+      "change_pct": 3.86,
       "up": true
     },
     "007660.KS": {
       "ticker": "007660.KS",
-      "price": 103300,
-      "change": "+8.1%",
-      "change_pct": 8.05,
+      "price": 103700,
+      "change": "+8.5%",
+      "change_pct": 8.47,
       "up": true
     },
     "009830.KS": {
       "ticker": "009830.KS",
-      "price": 34400,
-      "change": "-2.8%",
-      "change_pct": -2.82,
+      "price": 34100,
+      "change": "-3.7%",
+      "change_pct": -3.67,
       "up": false
     },
     "010950.KS": {
       "ticker": "010950.KS",
-      "price": 152700,
-      "change": "+3.5%",
-      "change_pct": 3.46,
+      "price": 151900,
+      "change": "+2.9%",
+      "change_pct": 2.91,
       "up": true
     },
     "016360.KS": {
       "ticker": "016360.KS",
-      "price": 90400,
-      "change": "-2.8%",
-      "change_pct": -2.8,
+      "price": 90100,
+      "change": "-3.1%",
+      "change_pct": -3.12,
       "up": false
     },
     "018260.KS": {
       "ticker": "018260.KS",
-      "price": 235000,
-      "change": "-3.5%",
-      "change_pct": -3.49,
+      "price": 233500,
+      "change": "-4.1%",
+      "change_pct": -4.11,
       "up": false
     },
     "039490.KS": {
@@ -513,86 +513,86 @@
     },
     "090430.KS": {
       "ticker": "090430.KS",
-      "price": 132500,
-      "change": "-2.4%",
-      "change_pct": -2.36,
+      "price": 131800,
+      "change": "-2.9%",
+      "change_pct": -2.87,
       "up": false
     },
     "180640.KS": {
       "ticker": "180640.KS",
-      "price": 116400,
-      "change": "-3.0%",
-      "change_pct": -3,
+      "price": 115300,
+      "change": "-3.9%",
+      "change_pct": -3.92,
       "up": false
     },
     "259960.KS": {
       "ticker": "259960.KS",
-      "price": 229000,
-      "change": "-3.8%",
-      "change_pct": -3.78,
+      "price": 228000,
+      "change": "-4.2%",
+      "change_pct": -4.2,
       "up": false
     },
     "307950.KS": {
       "ticker": "307950.KS",
-      "price": 467500,
-      "change": "-4.5%",
-      "change_pct": -4.49,
+      "price": 464000,
+      "change": "-5.2%",
+      "change_pct": -5.21,
       "up": false
     },
     "323410.KS": {
       "ticker": "323410.KS",
-      "price": 21900,
-      "change": "-1.4%",
-      "change_pct": -1.35,
+      "price": 21800,
+      "change": "-1.8%",
+      "change_pct": -1.8,
       "up": false
     },
     "377300.KS": {
       "ticker": "377300.KS",
-      "price": 43400,
-      "change": "-3.9%",
-      "change_pct": -3.88,
+      "price": 43100,
+      "change": "-4.5%",
+      "change_pct": -4.54,
       "up": false
     },
     "443060.KS": {
       "ticker": "443060.KS",
-      "price": 206000,
-      "change": "+4.7%",
-      "change_pct": 4.67,
+      "price": 205500,
+      "change": "+4.4%",
+      "change_pct": 4.42,
       "up": true
     },
     "000100.KS": {
       "ticker": "000100.KS",
-      "price": 80800,
-      "change": "-3.5%",
-      "change_pct": -3.46,
+      "price": 80300,
+      "change": "-4.1%",
+      "change_pct": -4.06,
       "up": false
     },
     "001040.KS": {
       "ticker": "001040.KS",
-      "price": 128800,
-      "change": "-6.7%",
-      "change_pct": -6.73,
+      "price": 129100,
+      "change": "-6.5%",
+      "change_pct": -6.52,
       "up": false
     },
     "005385.KS": {
       "ticker": "005385.KS",
-      "price": 207500,
-      "change": "-1.7%",
-      "change_pct": -1.66,
+      "price": 206500,
+      "change": "-2.1%",
+      "change_pct": -2.13,
       "up": false
     },
     "011070.KS": {
       "ticker": "011070.KS",
-      "price": 651000,
-      "change": "-0.5%",
-      "change_pct": -0.46,
+      "price": 645000,
+      "change": "-1.4%",
+      "change_pct": -1.38,
       "up": false
     },
     "028050.KS": {
       "ticker": "028050.KS",
-      "price": 48400,
-      "change": "-2.8%",
-      "change_pct": -2.81,
+      "price": 48050,
+      "change": "-3.5%",
+      "change_pct": -3.51,
       "up": false
     },
     "029780.KS": {
@@ -611,296 +611,296 @@
     },
     "034220.KS": {
       "ticker": "034220.KS",
-      "price": 9900,
-      "change": "-3.6%",
-      "change_pct": -3.6,
+      "price": 9880,
+      "change": "-3.8%",
+      "change_pct": -3.8,
       "up": false
     },
     "047040.KS": {
       "ticker": "047040.KS",
-      "price": 17380,
-      "change": "-3.5%",
-      "change_pct": -3.5,
+      "price": 17250,
+      "change": "-4.2%",
+      "change_pct": -4.22,
       "up": false
     },
     "052690.KS": {
       "ticker": "052690.KS",
-      "price": 97900,
-      "change": "-3.1%",
-      "change_pct": -3.07,
+      "price": 97400,
+      "change": "-3.6%",
+      "change_pct": -3.56,
       "up": false
     },
     "064400.KS": {
       "ticker": "064400.KS",
-      "price": 75600,
-      "change": "-5.4%",
-      "change_pct": -5.38,
+      "price": 75100,
+      "change": "-6.0%",
+      "change_pct": -6.01,
       "up": false
     },
     "078930.KS": {
       "ticker": "078930.KS",
-      "price": 117600,
-      "change": "+0.5%",
-      "change_pct": 0.51,
+      "price": 117100,
+      "change": "+0.1%",
+      "change_pct": 0.09,
       "up": true
     },
     "128940.KS": {
       "ticker": "128940.KS",
-      "price": 393000,
-      "change": "-1.4%",
-      "change_pct": -1.38,
+      "price": 391500,
+      "change": "-1.8%",
+      "change_pct": -1.76,
       "up": false
     },
     "138930.KS": {
       "ticker": "138930.KS",
-      "price": 14810,
-      "change": "-2.1%",
-      "change_pct": -2.12,
+      "price": 14760,
+      "change": "-2.4%",
+      "change_pct": -2.45,
       "up": false
     },
     "161390.KS": {
       "ticker": "161390.KS",
-      "price": 68450,
-      "change": "-4.4%",
-      "change_pct": -4.4,
+      "price": 68200,
+      "change": "-4.7%",
+      "change_pct": -4.75,
       "up": false
     },
     "175330.KS": {
       "ticker": "175330.KS",
-      "price": 27800,
-      "change": "-0.7%",
-      "change_pct": -0.71,
+      "price": 27750,
+      "change": "-0.9%",
+      "change_pct": -0.89,
       "up": false
     },
     "241560.KS": {
       "ticker": "241560.KS",
-      "price": 64400,
-      "change": "-2.6%",
-      "change_pct": -2.57,
+      "price": 64200,
+      "change": "-2.9%",
+      "change_pct": -2.87,
       "up": false
     },
     "267270.KS": {
       "ticker": "267270.KS",
-      "price": 134600,
-      "change": "-2.9%",
-      "change_pct": -2.89,
+      "price": 134100,
+      "change": "-3.2%",
+      "change_pct": -3.25,
       "up": false
     },
     "326030.KS": {
       "ticker": "326030.KS",
-      "price": 85800,
-      "change": "-1.7%",
-      "change_pct": -1.72,
+      "price": 85400,
+      "change": "-2.2%",
+      "change_pct": -2.18,
       "up": false
     },
     "454910.KS": {
       "ticker": "454910.KS",
-      "price": 76300,
-      "change": "-3.7%",
-      "change_pct": -3.66,
+      "price": 75600,
+      "change": "-4.5%",
+      "change_pct": -4.55,
       "up": false
     },
     "001440.KS": {
       "ticker": "001440.KS",
-      "price": 29350,
-      "change": "-2.0%",
-      "change_pct": -2,
+      "price": 29100,
+      "change": "-2.8%",
+      "change_pct": -2.84,
       "up": false
     },
     "002380.KS": {
       "ticker": "002380.KS",
-      "price": 454000,
-      "change": "-2.5%",
-      "change_pct": -2.47,
-      "up": false
-    },
-    "004020.KS": {
-      "ticker": "004020.KS",
-      "price": 29000,
+      "price": 451500,
       "change": "-3.0%",
       "change_pct": -3.01,
       "up": false
     },
+    "004020.KS": {
+      "ticker": "004020.KS",
+      "price": 28800,
+      "change": "-3.7%",
+      "change_pct": -3.68,
+      "up": false
+    },
     "018880.KS": {
       "ticker": "018880.KS",
-      "price": 3680,
-      "change": "-3.7%",
-      "change_pct": -3.66,
+      "price": 3665,
+      "change": "-4.1%",
+      "change_pct": -4.06,
       "up": false
     },
     "021240.KS": {
       "ticker": "021240.KS",
-      "price": 96400,
-      "change": "-1.8%",
-      "change_pct": -1.83,
-      "up": false
-    },
-    "022100.KS": {
-      "ticker": "022100.KS",
-      "price": 20800,
-      "change": "-4.4%",
-      "change_pct": -4.37,
-      "up": false
-    },
-    "035250.KS": {
-      "ticker": "035250.KS",
-      "price": 14420,
-      "change": "-1.2%",
-      "change_pct": -1.17,
-      "up": false
-    },
-    "036570.KS": {
-      "ticker": "036570.KS",
-      "price": 233000,
-      "change": "-5.9%",
-      "change_pct": -5.86,
-      "up": false
-    },
-    "051900.KS": {
-      "ticker": "051900.KS",
-      "price": 298000,
-      "change": "-3.1%",
-      "change_pct": -3.09,
-      "up": false
-    },
-    "062040.KS": {
-      "ticker": "062040.KS",
-      "price": 181100,
-      "change": "-0.8%",
-      "change_pct": -0.77,
-      "up": false
-    },
-    "066970.KS": {
-      "ticker": "066970.KS",
-      "price": 107600,
-      "change": "-1.9%",
-      "change_pct": -1.91,
-      "up": false
-    },
-    "082740.KS": {
-      "ticker": "082740.KS",
-      "price": 47900,
+      "price": 95900,
       "change": "-2.3%",
       "change_pct": -2.34,
       "up": false
     },
+    "022100.KS": {
+      "ticker": "022100.KS",
+      "price": 20700,
+      "change": "-4.8%",
+      "change_pct": -4.83,
+      "up": false
+    },
+    "035250.KS": {
+      "ticker": "035250.KS",
+      "price": 14390,
+      "change": "-1.4%",
+      "change_pct": -1.37,
+      "up": false
+    },
+    "036570.KS": {
+      "ticker": "036570.KS",
+      "price": 231000,
+      "change": "-6.7%",
+      "change_pct": -6.67,
+      "up": false
+    },
+    "051900.KS": {
+      "ticker": "051900.KS",
+      "price": 296500,
+      "change": "-3.6%",
+      "change_pct": -3.58,
+      "up": false
+    },
+    "062040.KS": {
+      "ticker": "062040.KS",
+      "price": 180000,
+      "change": "-1.4%",
+      "change_pct": -1.37,
+      "up": false
+    },
+    "066970.KS": {
+      "ticker": "066970.KS",
+      "price": 107100,
+      "change": "-2.4%",
+      "change_pct": -2.37,
+      "up": false
+    },
+    "082740.KS": {
+      "ticker": "082740.KS",
+      "price": 47600,
+      "change": "-3.0%",
+      "change_pct": -2.96,
+      "up": false
+    },
     "088350.KS": {
       "ticker": "088350.KS",
-      "price": 5430,
-      "change": "-3.6%",
-      "change_pct": -3.55,
+      "price": 5390,
+      "change": "-4.3%",
+      "change_pct": -4.26,
       "up": false
     },
     "088980.KS": {
       "ticker": "088980.KS",
-      "price": 9500,
-      "change": "-2.0%",
-      "change_pct": -1.96,
+      "price": 9520,
+      "change": "-1.8%",
+      "change_pct": -1.75,
       "up": false
     },
     "103590.KS": {
       "ticker": "103590.KS",
-      "price": 72850,
-      "change": "-2.0%",
-      "change_pct": -1.95,
+      "price": 72200,
+      "change": "-2.8%",
+      "change_pct": -2.83,
       "up": false
     },
     "251270.KS": {
       "ticker": "251270.KS",
-      "price": 38000,
-      "change": "-2.8%",
-      "change_pct": -2.81,
+      "price": 37950,
+      "change": "-2.9%",
+      "change_pct": -2.94,
       "up": false
     },
     "271560.KS": {
       "ticker": "271560.KS",
-      "price": 126300,
-      "change": "-5.7%",
-      "change_pct": -5.75,
+      "price": 125900,
+      "change": "-6.0%",
+      "change_pct": -6.04,
       "up": false
     },
     "353200.KS": {
       "ticker": "353200.KS",
-      "price": 120500,
-      "change": "+1.2%",
-      "change_pct": 1.18,
+      "price": 120000,
+      "change": "+0.8%",
+      "change_pct": 0.76,
       "up": true
     },
     "450080.KS": {
       "ticker": "450080.KS",
-      "price": 38100,
-      "change": "-4.5%",
-      "change_pct": -4.51,
+      "price": 37950,
+      "change": "-4.9%",
+      "change_pct": -4.89,
       "up": false
     },
     "489790.KS": {
       "ticker": "489790.KS",
-      "price": 56200,
-      "change": "+5.4%",
-      "change_pct": 5.44,
+      "price": 56100,
+      "change": "+5.3%",
+      "change_pct": 5.25,
       "up": true
     },
     "000990.KS": {
       "ticker": "000990.KS",
-      "price": 99300,
-      "change": "-3.4%",
-      "change_pct": -3.4,
+      "price": 99000,
+      "change": "-3.7%",
+      "change_pct": -3.7,
       "up": false
     },
     "001720.KS": {
       "ticker": "001720.KS",
-      "price": 163000,
-      "change": "-1.9%",
-      "change_pct": -1.87,
+      "price": 162200,
+      "change": "-2.3%",
+      "change_pct": -2.35,
       "up": false
     },
     "004170.KS": {
       "ticker": "004170.KS",
-      "price": 425500,
-      "change": "-0.4%",
-      "change_pct": -0.35,
+      "price": 422500,
+      "change": "-1.1%",
+      "change_pct": -1.05,
       "up": false
     },
     "004990.KS": {
       "ticker": "004990.KS",
-      "price": 23450,
-      "change": "-3.5%",
-      "change_pct": -3.5,
+      "price": 23350,
+      "change": "-3.9%",
+      "change_pct": -3.91,
       "up": false
     },
     "009970.KS": {
       "ticker": "009970.KS",
-      "price": 182300,
-      "change": "-3.7%",
-      "change_pct": -3.75,
+      "price": 181200,
+      "change": "-4.3%",
+      "change_pct": -4.33,
       "up": false
     },
     "010060.KS": {
       "ticker": "010060.KS",
-      "price": 279000,
-      "change": "+0.0%",
-      "change_pct": 0,
-      "up": true
+      "price": 276000,
+      "change": "-1.1%",
+      "change_pct": -1.08,
+      "up": false
     },
     "011170.KS": {
       "ticker": "011170.KS",
-      "price": 56500,
-      "change": "-1.2%",
-      "change_pct": -1.22,
+      "price": 55800,
+      "change": "-2.4%",
+      "change_pct": -2.45,
       "up": false
     },
     "011780.KS": {
       "ticker": "011780.KS",
-      "price": 126000,
-      "change": "-3.5%",
-      "change_pct": -3.52,
+      "price": 125300,
+      "change": "-4.1%",
+      "change_pct": -4.06,
       "up": false
     },
     "011790.KS": {
       "ticker": "011790.KS",
-      "price": 87900,
-      "change": "-2.1%",
-      "change_pct": -2.12,
+      "price": 87400,
+      "change": "-2.7%",
+      "change_pct": -2.67,
       "up": false
     },
     "012510.KS": {
@@ -912,170 +912,170 @@
     },
     "012750.KS": {
       "ticker": "012750.KS",
-      "price": 76600,
-      "change": "-1.4%",
-      "change_pct": -1.42,
+      "price": 76700,
+      "change": "-1.3%",
+      "change_pct": -1.29,
       "up": false
     },
     "014680.KS": {
       "ticker": "014680.KS",
-      "price": 211000,
-      "change": "-3.4%",
-      "change_pct": -3.43,
+      "price": 209000,
+      "change": "-4.3%",
+      "change_pct": -4.35,
       "up": false
     },
     "017800.KS": {
       "ticker": "017800.KS",
-      "price": 75400,
-      "change": "+4.0%",
-      "change_pct": 4,
+      "price": 75100,
+      "change": "+3.6%",
+      "change_pct": 3.59,
       "up": true
     },
     "023530.KS": {
       "ticker": "023530.KS",
-      "price": 103700,
-      "change": "+0.8%",
-      "change_pct": 0.78,
+      "price": 103000,
+      "change": "+0.1%",
+      "change_pct": 0.1,
       "up": true
     },
     "031210.KS": {
       "ticker": "031210.KS",
-      "price": 43900,
-      "change": "-2.2%",
-      "change_pct": -2.23,
+      "price": 43850,
+      "change": "-2.3%",
+      "change_pct": -2.34,
       "up": false
     },
     "036460.KS": {
       "ticker": "036460.KS",
-      "price": 36550,
-      "change": "-0.1%",
-      "change_pct": -0.14,
+      "price": 36400,
+      "change": "-0.5%",
+      "change_pct": -0.55,
       "up": false
     },
     "097950.KS": {
       "ticker": "097950.KS",
-      "price": 184600,
-      "change": "-0.4%",
-      "change_pct": -0.43,
+      "price": 184000,
+      "change": "-0.8%",
+      "change_pct": -0.76,
       "up": false
     },
     "111770.KS": {
       "ticker": "111770.KS",
-      "price": 80900,
-      "change": "-5.8%",
-      "change_pct": -5.82,
+      "price": 80100,
+      "change": "-6.8%",
+      "change_pct": -6.75,
       "up": false
     },
     "302440.KS": {
       "ticker": "302440.KS",
-      "price": 36900,
-      "change": "-2.0%",
-      "change_pct": -1.99,
+      "price": 36600,
+      "change": "-2.8%",
+      "change_pct": -2.79,
       "up": false
     },
     "439260.KS": {
       "ticker": "439260.KS",
-      "price": 52400,
-      "change": "-4.2%",
-      "change_pct": -4.2,
+      "price": 52000,
+      "change": "-4.9%",
+      "change_pct": -4.94,
       "up": false
     },
     "000120.KS": {
       "ticker": "000120.KS",
-      "price": 74400,
-      "change": "-3.6%",
-      "change_pct": -3.63,
+      "price": 74600,
+      "change": "-3.4%",
+      "change_pct": -3.37,
       "up": false
     },
     "001450.KS": {
       "ticker": "001450.KS",
-      "price": 49950,
-      "change": "+10.1%",
-      "change_pct": 10.14,
+      "price": 49750,
+      "change": "+9.7%",
+      "change_pct": 9.7,
       "up": true
     },
     "005850.KS": {
       "ticker": "005850.KS",
-      "price": 59400,
-      "change": "-3.6%",
-      "change_pct": -3.57,
+      "price": 59000,
+      "change": "-4.2%",
+      "change_pct": -4.22,
       "up": false
     },
     "006360.KS": {
       "ticker": "006360.KS",
-      "price": 34550,
-      "change": "-2.3%",
-      "change_pct": -2.26,
+      "price": 34250,
+      "change": "-3.1%",
+      "change_pct": -3.11,
       "up": false
     },
     "00680K.KS": {
       "ticker": "00680K.KS",
-      "price": 11580,
-      "change": "-5.4%",
-      "change_pct": -5.39,
+      "price": 11640,
+      "change": "-4.9%",
+      "change_pct": -4.9,
       "up": false
     },
     "008930.KS": {
       "ticker": "008930.KS",
-      "price": 43250,
-      "change": "-2.4%",
-      "change_pct": -2.37,
+      "price": 43400,
+      "change": "-2.0%",
+      "change_pct": -2.03,
       "up": false
     },
     "009420.KS": {
       "ticker": "009420.KS",
-      "price": 61000,
-      "change": "+2.2%",
-      "change_pct": 2.18,
+      "price": 60300,
+      "change": "+1.0%",
+      "change_pct": 1.01,
       "up": true
     },
     "026960.KS": {
       "ticker": "026960.KS",
-      "price": 25650,
-      "change": "-2.5%",
-      "change_pct": -2.47,
+      "price": 25500,
+      "change": "-3.0%",
+      "change_pct": -3.04,
       "up": false
     },
     "028670.KS": {
       "ticker": "028670.KS",
-      "price": 5950,
-      "change": "+2.8%",
-      "change_pct": 2.76,
+      "price": 5940,
+      "change": "+2.6%",
+      "change_pct": 2.59,
       "up": true
     },
     "051600.KS": {
       "ticker": "051600.KS",
-      "price": 45300,
-      "change": "-2.3%",
-      "change_pct": -2.27,
+      "price": 45100,
+      "change": "-2.7%",
+      "change_pct": -2.7,
       "up": false
     },
     "071970.KS": {
       "ticker": "071970.KS",
-      "price": 56000,
-      "change": "-3.8%",
-      "change_pct": -3.78,
+      "price": 55700,
+      "change": "-4.3%",
+      "change_pct": -4.3,
       "up": false
     },
     "085620.KS": {
       "ticker": "085620.KS",
-      "price": 21350,
-      "change": "+2.4%",
-      "change_pct": 2.4,
+      "price": 21200,
+      "change": "+1.7%",
+      "change_pct": 1.68,
       "up": true
     },
     "103140.KS": {
       "ticker": "103140.KS",
-      "price": 81200,
-      "change": "-1.0%",
-      "change_pct": -0.98,
+      "price": 80700,
+      "change": "-1.6%",
+      "change_pct": -1.59,
       "up": false
     },
     "112610.KS": {
       "ticker": "112610.KS",
-      "price": 45600,
-      "change": "-2.7%",
-      "change_pct": -2.67,
+      "price": 45550,
+      "change": "-2.8%",
+      "change_pct": -2.77,
       "up": false
     },
     "139130.KS": {
@@ -1087,30 +1087,30 @@
     },
     "139480.KS": {
       "ticker": "139480.KS",
-      "price": 76700,
-      "change": "-2.8%",
-      "change_pct": -2.79,
-      "up": false
-    },
-    "279570.KS": {
-      "ticker": "279570.KS",
-      "price": 5580,
-      "change": "-2.4%",
-      "change_pct": -2.45,
-      "up": false
-    },
-    "336260.KS": {
-      "ticker": "336260.KS",
-      "price": 36650,
+      "price": 76400,
       "change": "-3.2%",
       "change_pct": -3.17,
       "up": false
     },
+    "279570.KS": {
+      "ticker": "279570.KS",
+      "price": 5590,
+      "change": "-2.3%",
+      "change_pct": -2.27,
+      "up": false
+    },
+    "336260.KS": {
+      "ticker": "336260.KS",
+      "price": 36600,
+      "change": "-3.3%",
+      "change_pct": -3.3,
+      "up": false
+    },
     "375500.KS": {
       "ticker": "375500.KS",
-      "price": 71900,
-      "change": "-2.6%",
-      "change_pct": -2.57,
+      "price": 71300,
+      "change": "-3.4%",
+      "change_pct": -3.39,
       "up": false
     },
     "457190.KS": {
@@ -1122,177 +1122,177 @@
     },
     "000240.KS": {
       "ticker": "000240.KS",
-      "price": 25250,
-      "change": "-3.8%",
-      "change_pct": -3.81,
+      "price": 25100,
+      "change": "-4.4%",
+      "change_pct": -4.38,
       "up": false
     },
     "001430.KS": {
       "ticker": "001430.KS",
-      "price": 43800,
-      "change": "-2.7%",
-      "change_pct": -2.67,
+      "price": 43550,
+      "change": "-3.2%",
+      "change_pct": -3.22,
       "up": false
     },
     "002790.KS": {
       "ticker": "002790.KS",
-      "price": 25100,
-      "change": "-4.7%",
-      "change_pct": -4.74,
+      "price": 25000,
+      "change": "-5.1%",
+      "change_pct": -5.12,
       "up": false
     },
     "003690.KS": {
       "ticker": "003690.KS",
-      "price": 14910,
-      "change": "-2.5%",
-      "change_pct": -2.49,
+      "price": 14920,
+      "change": "-2.4%",
+      "change_pct": -2.42,
       "up": false
     },
     "004370.KS": {
       "ticker": "004370.KS",
-      "price": 432500,
-      "change": "-1.1%",
-      "change_pct": -1.14,
+      "price": 429500,
+      "change": "-1.8%",
+      "change_pct": -1.83,
       "up": false
     },
     "004800.KS": {
       "ticker": "004800.KS",
-      "price": 169100,
-      "change": "-0.4%",
-      "change_pct": -0.35,
+      "price": 169400,
+      "change": "-0.2%",
+      "change_pct": -0.18,
       "up": false
     },
     "005440.KS": {
       "ticker": "005440.KS",
-      "price": 11550,
-      "change": "-3.1%",
-      "change_pct": -3.1,
+      "price": 11500,
+      "change": "-3.5%",
+      "change_pct": -3.52,
       "up": false
     },
     "007340.KS": {
       "ticker": "007340.KS",
-      "price": 63800,
-      "change": "+8.3%",
-      "change_pct": 8.32,
+      "price": 63700,
+      "change": "+8.1%",
+      "change_pct": 8.15,
       "up": true
     },
     "011210.KS": {
       "ticker": "011210.KS",
-      "price": 64400,
-      "change": "-5.0%",
-      "change_pct": -5.01,
+      "price": 63800,
+      "change": "-5.9%",
+      "change_pct": -5.9,
       "up": false
     },
     "017960.KS": {
       "ticker": "017960.KS",
-      "price": 24500,
-      "change": "-2.6%",
-      "change_pct": -2.58,
+      "price": 24400,
+      "change": "-3.0%",
+      "change_pct": -2.98,
       "up": false
     },
     "018670.KS": {
       "ticker": "018670.KS",
-      "price": 243500,
-      "change": "-0.2%",
-      "change_pct": -0.2,
+      "price": 241000,
+      "change": "-1.2%",
+      "change_pct": -1.23,
       "up": false
     },
     "020150.KS": {
       "ticker": "020150.KS",
-      "price": 33050,
-      "change": "-4.1%",
-      "change_pct": -4.06,
+      "price": 32850,
+      "change": "-4.6%",
+      "change_pct": -4.64,
       "up": false
     },
     "023590.KS": {
       "ticker": "023590.KS",
-      "price": 39500,
-      "change": "-1.9%",
-      "change_pct": -1.86,
+      "price": 39250,
+      "change": "-2.5%",
+      "change_pct": -2.48,
       "up": false
     },
     "030000.KS": {
       "ticker": "030000.KS",
-      "price": 18840,
-      "change": "-0.7%",
-      "change_pct": -0.74,
+      "price": 18750,
+      "change": "-1.2%",
+      "change_pct": -1.21,
       "up": false
     },
     "081660.KS": {
       "ticker": "081660.KS",
-      "price": 42400,
-      "change": "-0.2%",
-      "change_pct": -0.24,
+      "price": 42350,
+      "change": "-0.4%",
+      "change_pct": -0.35,
       "up": false
     },
     "097230.KS": {
       "ticker": "097230.KS",
-      "price": 17660,
-      "change": "-1.3%",
-      "change_pct": -1.34,
+      "price": 17560,
+      "change": "-1.9%",
+      "change_pct": -1.9,
       "up": false
     },
     "192820.KS": {
       "ticker": "192820.KS",
-      "price": 233000,
-      "change": "-5.9%",
-      "change_pct": -5.86,
+      "price": 233500,
+      "change": "-5.7%",
+      "change_pct": -5.66,
       "up": false
     },
     "204320.KS": {
       "ticker": "204320.KS",
-      "price": 53900,
-      "change": "-5.6%",
-      "change_pct": -5.6,
+      "price": 53600,
+      "change": "-6.1%",
+      "change_pct": -6.13,
       "up": false
     },
     "282330.KS": {
       "ticker": "282330.KS",
-      "price": 143700,
-      "change": "-1.0%",
-      "change_pct": -1.03,
+      "price": 142400,
+      "change": "-1.9%",
+      "change_pct": -1.93,
       "up": false
     },
     "383220.KS": {
       "ticker": "383220.KS",
-      "price": 64400,
-      "change": "-3.9%",
-      "change_pct": -3.88,
+      "price": 64300,
+      "change": "-4.0%",
+      "change_pct": -4.03,
       "up": false
     },
     "000155.KS": {
       "ticker": "000155.KS",
-      "price": 438000,
-      "change": "-0.3%",
-      "change_pct": -0.34,
+      "price": 432500,
+      "change": "-1.6%",
+      "change_pct": -1.59,
       "up": false
     },
     "000500.KS": {
       "ticker": "000500.KS",
-      "price": 167100,
+      "price": 165200,
+      "change": "-1.1%",
+      "change_pct": -1.14,
+      "up": false
+    },
+    "001120.KS": {
+      "ticker": "001120.KS",
+      "price": 37800,
       "change": "+0.0%",
       "change_pct": 0,
       "up": true
     },
-    "001120.KS": {
-      "ticker": "001120.KS",
-      "price": 37900,
-      "change": "+0.3%",
-      "change_pct": 0.26,
-      "up": true
-    },
     "003530.KS": {
       "ticker": "003530.KS",
-      "price": 4630,
-      "change": "-3.1%",
-      "change_pct": -3.14,
+      "price": 4600,
+      "change": "-3.8%",
+      "change_pct": -3.77,
       "up": false
     },
     "003540.KS": {
       "ticker": "003540.KS",
-      "price": 26400,
-      "change": "-2.9%",
-      "change_pct": -2.94,
+      "price": 26350,
+      "change": "-3.1%",
+      "change_pct": -3.12,
       "up": false
     },
     "006040.KS": {
@@ -1304,30 +1304,30 @@
     },
     "006280.KS": {
       "ticker": "006280.KS",
-      "price": 123000,
-      "change": "-4.8%",
-      "change_pct": -4.8,
+      "price": 122600,
+      "change": "-5.1%",
+      "change_pct": -5.11,
       "up": false
     },
     "007070.KS": {
       "ticker": "007070.KS",
-      "price": 26950,
-      "change": "-2.7%",
-      "change_pct": -2.71,
+      "price": 26850,
+      "change": "-3.1%",
+      "change_pct": -3.07,
       "up": false
     },
     "008770.KS": {
       "ticker": "008770.KS",
-      "price": 44150,
-      "change": "-2.8%",
-      "change_pct": -2.75,
+      "price": 43950,
+      "change": "-3.2%",
+      "change_pct": -3.19,
       "up": false
     },
     "032350.KS": {
       "ticker": "032350.KS",
-      "price": 13380,
-      "change": "-2.8%",
-      "change_pct": -2.76,
+      "price": 13390,
+      "change": "-2.7%",
+      "change_pct": -2.69,
       "up": false
     },
     "069620.KS": {
@@ -1339,58 +1339,58 @@
     },
     "069960.KS": {
       "ticker": "069960.KS",
-      "price": 100900,
-      "change": "-1.3%",
-      "change_pct": -1.27,
+      "price": 100000,
+      "change": "-2.2%",
+      "change_pct": -2.15,
       "up": false
     },
     "073240.KS": {
       "ticker": "073240.KS",
-      "price": 7730,
-      "change": "-5.0%",
-      "change_pct": -5.04,
+      "price": 7710,
+      "change": "-5.3%",
+      "change_pct": -5.28,
       "up": false
     },
     "120110.KS": {
       "ticker": "120110.KS",
-      "price": 56300,
-      "change": "+1.8%",
-      "change_pct": 1.81,
+      "price": 55700,
+      "change": "+0.7%",
+      "change_pct": 0.72,
       "up": true
     },
     "161890.KS": {
       "ticker": "161890.KS",
-      "price": 128800,
-      "change": "-5.8%",
-      "change_pct": -5.78,
+      "price": 129100,
+      "change": "-5.6%",
+      "change_pct": -5.56,
       "up": false
     },
     "361610.KS": {
       "ticker": "361610.KS",
-      "price": 14820,
-      "change": "-4.7%",
-      "change_pct": -4.69,
+      "price": 14730,
+      "change": "-5.3%",
+      "change_pct": -5.27,
       "up": false
     },
     "395400.KS": {
       "ticker": "395400.KS",
-      "price": 5690,
-      "change": "-3.2%",
-      "change_pct": -3.23,
+      "price": 5680,
+      "change": "-3.4%",
+      "change_pct": -3.4,
       "up": false
     },
     "462870.KS": {
       "ticker": "462870.KS",
-      "price": 31050,
-      "change": "-2.1%",
-      "change_pct": -2.05,
+      "price": 31100,
+      "change": "-1.9%",
+      "change_pct": -1.89,
       "up": false
     },
     "475150.KS": {
       "ticker": "475150.KS",
-      "price": 59000,
-      "change": "+1.2%",
-      "change_pct": 1.2,
+      "price": 58300,
+      "change": "+0.0%",
+      "change_pct": 0,
       "up": true
     },
     "483650.KS": {
@@ -1402,93 +1402,93 @@
     },
     "000210.KS": {
       "ticker": "000210.KS",
-      "price": 50400,
-      "change": "-2.9%",
-      "change_pct": -2.89,
+      "price": 50100,
+      "change": "-3.5%",
+      "change_pct": -3.47,
       "up": false
     },
     "001800.KS": {
       "ticker": "001800.KS",
-      "price": 25900,
-      "change": "-3.4%",
-      "change_pct": -3.36,
+      "price": 25700,
+      "change": "-4.1%",
+      "change_pct": -4.1,
       "up": false
     },
     "003090.KS": {
       "ticker": "003090.KS",
-      "price": 17260,
-      "change": "-4.7%",
-      "change_pct": -4.69,
+      "price": 17230,
+      "change": "-4.9%",
+      "change_pct": -4.86,
       "up": false
     },
     "003240.KS": {
       "ticker": "003240.KS",
-      "price": 904000,
-      "change": "-2.8%",
-      "change_pct": -2.8,
+      "price": 896000,
+      "change": "-3.7%",
+      "change_pct": -3.66,
       "up": false
     },
     "003570.KS": {
       "ticker": "003570.KS",
-      "price": 31750,
-      "change": "-2.6%",
-      "change_pct": -2.61,
+      "price": 31650,
+      "change": "-2.9%",
+      "change_pct": -2.91,
       "up": false
     },
     "005070.KS": {
       "ticker": "005070.KS",
-      "price": 40050,
-      "change": "-5.1%",
-      "change_pct": -5.09,
+      "price": 39750,
+      "change": "-5.8%",
+      "change_pct": -5.81,
       "up": false
     },
     "007310.KS": {
       "ticker": "007310.KS",
-      "price": 326500,
-      "change": "-3.1%",
-      "change_pct": -3.12,
+      "price": 325500,
+      "change": "-3.4%",
+      "change_pct": -3.41,
       "up": false
     },
     "007810.KS": {
       "ticker": "007810.KS",
-      "price": 66100,
-      "change": "+4.8%",
-      "change_pct": 4.75,
+      "price": 66300,
+      "change": "+5.1%",
+      "change_pct": 5.07,
       "up": true
     },
     "012630.KS": {
       "ticker": "012630.KS",
-      "price": 21600,
-      "change": "-3.1%",
-      "change_pct": -3.14,
+      "price": 21550,
+      "change": "-3.4%",
+      "change_pct": -3.36,
       "up": false
     },
     "020560.KS": {
       "ticker": "020560.KS",
-      "price": 6930,
-      "change": "-3.6%",
-      "change_pct": -3.62,
+      "price": 6910,
+      "change": "-3.9%",
+      "change_pct": -3.89,
       "up": false
     },
     "030610.KS": {
       "ticker": "030610.KS",
-      "price": 10100,
-      "change": "-4.1%",
-      "change_pct": -4.08,
+      "price": 10070,
+      "change": "-4.4%",
+      "change_pct": -4.37,
       "up": false
     },
     "034230.KS": {
       "ticker": "034230.KS",
-      "price": 9710,
-      "change": "-1.8%",
-      "change_pct": -1.82,
+      "price": 9650,
+      "change": "-2.4%",
+      "change_pct": -2.43,
       "up": false
     },
     "077970.KS": {
       "ticker": "077970.KS",
-      "price": 26450,
-      "change": "-6.9%",
-      "change_pct": -6.87,
+      "price": 26300,
+      "change": "-7.4%",
+      "change_pct": -7.39,
       "up": false
     },
     "082640.KS": {
@@ -1500,59 +1500,59 @@
     },
     "100090.KS": {
       "ticker": "100090.KS",
-      "price": 13850,
-      "change": "-4.1%",
-      "change_pct": -4.09,
+      "price": 13710,
+      "change": "-5.1%",
+      "change_pct": -5.06,
       "up": false
     },
     "229640.KS": {
       "ticker": "229640.KS",
-      "price": 47650,
-      "change": "-1.3%",
-      "change_pct": -1.35,
+      "price": 47400,
+      "change": "-1.9%",
+      "change_pct": -1.86,
       "up": false
     },
     "294870.KS": {
       "ticker": "294870.KS",
-      "price": 22400,
-      "change": "+1.4%",
-      "change_pct": 1.36,
+      "price": 22250,
+      "change": "+0.7%",
+      "change_pct": 0.68,
       "up": true
     },
     "298020.KS": {
       "ticker": "298020.KS",
-      "price": 321500,
-      "change": "-2.7%",
-      "change_pct": -2.72,
+      "price": 318500,
+      "change": "-3.6%",
+      "change_pct": -3.63,
       "up": false
     },
     "322000.KS": {
       "ticker": "322000.KS",
-      "price": 126400,
-      "change": "+2.5%",
-      "change_pct": 2.51,
+      "price": 125000,
+      "change": "+1.4%",
+      "change_pct": 1.38,
       "up": true
     },
     "330590.KS": {
       "ticker": "330590.KS",
-      "price": 3885,
-      "change": "-2.0%",
-      "change_pct": -2.02,
+      "price": 3900,
+      "change": "-1.6%",
+      "change_pct": -1.64,
       "up": false
     },
     "000080.KS": {
       "ticker": "000080.KS",
-      "price": 15410,
-      "change": "-2.8%",
-      "change_pct": -2.78,
+      "price": 15360,
+      "change": "-3.1%",
+      "change_pct": -3.09,
       "up": false
     },
     "000670.KS": {
       "ticker": "000670.KS",
-      "price": 38350,
-      "change": "+0.7%",
-      "change_pct": 0.66,
-      "up": true
+      "price": 38000,
+      "change": "-0.3%",
+      "change_pct": -0.26,
+      "up": false
     },
     "000815.KS": {
       "ticker": "000815.KS",
@@ -1563,16 +1563,16 @@
     },
     "001510.KS": {
       "ticker": "001510.KS",
-      "price": 2310,
-      "change": "-4.3%",
-      "change_pct": -4.35,
+      "price": 2290,
+      "change": "-5.2%",
+      "change_pct": -5.18,
       "up": false
     },
     "001740.KS": {
       "ticker": "001740.KS",
-      "price": 7520,
-      "change": "-0.9%",
-      "change_pct": -0.92,
+      "price": 7420,
+      "change": "-2.2%",
+      "change_pct": -2.24,
       "up": false
     },
     "003160.KS": {
@@ -1584,23 +1584,23 @@
     },
     "004000.KS": {
       "ticker": "004000.KS",
-      "price": 46700,
-      "change": "-0.8%",
-      "change_pct": -0.85,
+      "price": 46350,
+      "change": "-1.6%",
+      "change_pct": -1.59,
       "up": false
     },
     "005300.KS": {
       "ticker": "005300.KS",
-      "price": 98600,
-      "change": "-3.0%",
-      "change_pct": -3.05,
+      "price": 98000,
+      "change": "-3.6%",
+      "change_pct": -3.64,
       "up": false
     },
     "006120.KS": {
       "ticker": "006120.KS",
-      "price": 53300,
-      "change": "+1.1%",
-      "change_pct": 1.14,
+      "price": 53600,
+      "change": "+1.7%",
+      "change_pct": 1.71,
       "up": true
     },
     "036530.KS": {
@@ -1612,44 +1612,44 @@
     },
     "051915.KS": {
       "ticker": "051915.KS",
-      "price": 124400,
-      "change": "-1.5%",
-      "change_pct": -1.5,
+      "price": 123300,
+      "change": "-2.4%",
+      "change_pct": -2.38,
       "up": false
     },
     "071320.KS": {
       "ticker": "071320.KS",
-      "price": 73900,
-      "change": "-3.3%",
-      "change_pct": -3.27,
+      "price": 73400,
+      "change": "-3.9%",
+      "change_pct": -3.93,
       "up": false
     },
     "089860.KS": {
       "ticker": "089860.KS",
-      "price": 44300,
-      "change": "-1.6%",
-      "change_pct": -1.56,
+      "price": 44050,
+      "change": "-2.1%",
+      "change_pct": -2.11,
       "up": false
     },
     "100840.KS": {
       "ticker": "100840.KS",
-      "price": 27700,
-      "change": "-2.6%",
-      "change_pct": -2.64,
+      "price": 27500,
+      "change": "-3.3%",
+      "change_pct": -3.34,
       "up": false
     },
     "181710.KS": {
       "ticker": "181710.KS",
-      "price": 71700,
-      "change": "-4.0%",
-      "change_pct": -4.02,
+      "price": 70900,
+      "change": "-5.1%",
+      "change_pct": -5.09,
       "up": false
     },
     "185750.KS": {
       "ticker": "185750.KS",
-      "price": 66900,
-      "change": "-2.0%",
-      "change_pct": -2.05,
+      "price": 66700,
+      "change": "-2.3%",
+      "change_pct": -2.34,
       "up": false
     },
     "192080.KS": {
@@ -1661,23 +1661,23 @@
     },
     "300720.KS": {
       "ticker": "300720.KS",
-      "price": 15030,
-      "change": "+0.9%",
-      "change_pct": 0.87,
+      "price": 14970,
+      "change": "+0.5%",
+      "change_pct": 0.47,
       "up": true
     },
     "415640.KS": {
       "ticker": "415640.KS",
-      "price": 10290,
-      "change": "-0.1%",
-      "change_pct": -0.1,
+      "price": 10260,
+      "change": "-0.4%",
+      "change_pct": -0.39,
       "up": false
     },
     "484870.KS": {
       "ticker": "484870.KS",
-      "price": 16780,
+      "price": 16790,
       "change": "-5.8%",
-      "change_pct": -5.84,
+      "change_pct": -5.78,
       "up": false
     },
     "00088K.KS": {
@@ -1689,44 +1689,44 @@
     },
     "003470.KS": {
       "ticker": "003470.KS",
-      "price": 4610,
-      "change": "-3.0%",
-      "change_pct": -3.05,
+      "price": 4575,
+      "change": "-3.8%",
+      "change_pct": -3.79,
       "up": false
     },
     "005690.KS": {
       "ticker": "005690.KS",
-      "price": 11840,
-      "change": "-0.6%",
-      "change_pct": -0.59,
+      "price": 11850,
+      "change": "-0.5%",
+      "change_pct": -0.5,
       "up": false
     },
     "009240.KS": {
       "ticker": "009240.KS",
-      "price": 40550,
-      "change": "+0.1%",
-      "change_pct": 0.12,
-      "up": true
+      "price": 40150,
+      "change": "-0.9%",
+      "change_pct": -0.86,
+      "up": false
     },
     "009450.KS": {
       "ticker": "009450.KS",
-      "price": 67000,
-      "change": "-1.6%",
-      "change_pct": -1.62,
+      "price": 66600,
+      "change": "-2.2%",
+      "change_pct": -2.2,
       "up": false
     },
     "010780.KS": {
       "ticker": "010780.KS",
-      "price": 15920,
-      "change": "-4.8%",
-      "change_pct": -4.84,
+      "price": 15850,
+      "change": "-5.3%",
+      "change_pct": -5.26,
       "up": false
     },
     "030190.KS": {
       "ticker": "030190.KS",
-      "price": 15430,
-      "change": "-2.8%",
-      "change_pct": -2.77,
+      "price": 15400,
+      "change": "-3.0%",
+      "change_pct": -2.96,
       "up": false
     },
     "057050.KS": {
@@ -1745,135 +1745,135 @@
     },
     "075580.KS": {
       "ticker": "075580.KS",
-      "price": 11320,
-      "change": "-5.4%",
-      "change_pct": -5.35,
+      "price": 11280,
+      "change": "-5.7%",
+      "change_pct": -5.69,
       "up": false
     },
     "137310.KS": {
       "ticker": "137310.KS",
-      "price": 6140,
-      "change": "-6.3%",
-      "change_pct": -6.26,
+      "price": 6160,
+      "change": "-6.0%",
+      "change_pct": -5.95,
       "up": false
     },
     "192400.KS": {
       "ticker": "192400.KS",
-      "price": 27550,
-      "change": "+4.6%",
-      "change_pct": 4.55,
+      "price": 27400,
+      "change": "+4.0%",
+      "change_pct": 3.98,
       "up": true
     },
     "195870.KS": {
       "ticker": "195870.KS",
-      "price": 57800,
-      "change": "-1.9%",
-      "change_pct": -1.87,
+      "price": 57600,
+      "change": "-2.2%",
+      "change_pct": -2.21,
       "up": false
     },
     "249420.KS": {
       "ticker": "249420.KS",
-      "price": 14500,
-      "change": "-4.6%",
-      "change_pct": -4.61,
+      "price": 14420,
+      "change": "-5.1%",
+      "change_pct": -5.13,
       "up": false
     },
     "280360.KS": {
       "ticker": "280360.KS",
-      "price": 122800,
-      "change": "-5.0%",
-      "change_pct": -5.03,
+      "price": 122100,
+      "change": "-5.6%",
+      "change_pct": -5.57,
       "up": false
     },
     "281820.KS": {
       "ticker": "281820.KS",
-      "price": 70300,
-      "change": "-2.2%",
-      "change_pct": -2.23,
+      "price": 69900,
+      "change": "-2.8%",
+      "change_pct": -2.78,
       "up": false
     },
     "285130.KS": {
       "ticker": "285130.KS",
-      "price": 48700,
-      "change": "-2.6%",
-      "change_pct": -2.6,
+      "price": 48350,
+      "change": "-3.3%",
+      "change_pct": -3.3,
       "up": false
     },
     "298050.KS": {
       "ticker": "298050.KS",
-      "price": 170300,
-      "change": "-4.2%",
-      "change_pct": -4.16,
+      "price": 169100,
+      "change": "-4.8%",
+      "change_pct": -4.84,
       "up": false
     },
     "365550.KS": {
       "ticker": "365550.KS",
-      "price": 3125,
-      "change": "-5.0%",
-      "change_pct": -5.02,
+      "price": 3095,
+      "change": "-5.9%",
+      "change_pct": -5.93,
       "up": false
     },
     "499790.KS": {
       "ticker": "499790.KS",
-      "price": 41300,
-      "change": "-2.4%",
-      "change_pct": -2.36,
+      "price": 41000,
+      "change": "-3.1%",
+      "change_pct": -3.07,
       "up": false
     },
     "000370.KS": {
       "ticker": "000370.KS",
-      "price": 6990,
-      "change": "+0.0%",
-      "change_pct": 0,
-      "up": true
+      "price": 6950,
+      "change": "-0.6%",
+      "change_pct": -0.57,
+      "up": false
     },
     "001270.KS": {
       "ticker": "001270.KS",
-      "price": 55700,
-      "change": "-3.0%",
-      "change_pct": -2.96,
+      "price": 55000,
+      "change": "-4.2%",
+      "change_pct": -4.18,
       "up": false
     },
     "003030.KS": {
       "ticker": "003030.KS",
-      "price": 100000,
-      "change": "-7.4%",
-      "change_pct": -7.41,
+      "price": 99800,
+      "change": "-7.6%",
+      "change_pct": -7.59,
       "up": false
     },
     "003850.KS": {
       "ticker": "003850.KS",
-      "price": 8910,
-      "change": "-2.8%",
-      "change_pct": -2.84,
+      "price": 8950,
+      "change": "-2.4%",
+      "change_pct": -2.4,
       "up": false
     },
     "004490.KS": {
       "ticker": "004490.KS",
-      "price": 55900,
-      "change": "-3.6%",
-      "change_pct": -3.62,
+      "price": 55800,
+      "change": "-3.8%",
+      "change_pct": -3.79,
       "up": false
     },
     "005090.KS": {
       "ticker": "005090.KS",
-      "price": 62000,
-      "change": "-3.0%",
-      "change_pct": -2.97,
+      "price": 61800,
+      "change": "-3.3%",
+      "change_pct": -3.29,
       "up": false
     },
     "006650.KS": {
       "ticker": "006650.KS",
-      "price": 87000,
-      "change": "-4.8%",
-      "change_pct": -4.81,
+      "price": 86300,
+      "change": "-5.6%",
+      "change_pct": -5.58,
       "up": false
     },
     "007700.KS": {
       "ticker": "007700.KS",
-      "price": 14200,
-      "change": "-5.0%",
-      "change_pct": -4.95,
+      "price": 14140,
+      "change": "-5.4%",
+      "change_pct": -5.35,
       "up": false
     },
     "025540.KS": {
@@ -1885,79 +1885,79 @@
     },
     "033240.KS": {
       "ticker": "033240.KS",
-      "price": 29750,
-      "change": "-3.4%",
-      "change_pct": -3.41,
+      "price": 29550,
+      "change": "-4.1%",
+      "change_pct": -4.06,
       "up": false
     },
     "064960.KS": {
       "ticker": "064960.KS",
-      "price": 28300,
-      "change": "-0.5%",
-      "change_pct": -0.53,
+      "price": 28250,
+      "change": "-0.7%",
+      "change_pct": -0.7,
       "up": false
     },
     "066575.KS": {
       "ticker": "066575.KS",
-      "price": 74500,
-      "change": "-0.4%",
-      "change_pct": -0.4,
+      "price": 74100,
+      "change": "-0.9%",
+      "change_pct": -0.94,
       "up": false
     },
     "079160.KS": {
       "ticker": "079160.KS",
-      "price": 5200,
-      "change": "-4.4%",
-      "change_pct": -4.41,
+      "price": 5230,
+      "change": "-3.9%",
+      "change_pct": -3.86,
       "up": false
     },
     "079900.KS": {
       "ticker": "079900.KS",
-      "price": 34350,
-      "change": "-3.0%",
-      "change_pct": -2.97,
+      "price": 34000,
+      "change": "-4.0%",
+      "change_pct": -3.95,
       "up": false
     },
     "108320.KS": {
       "ticker": "108320.KS",
-      "price": 40000,
-      "change": "-3.6%",
-      "change_pct": -3.61,
+      "price": 39800,
+      "change": "-4.1%",
+      "change_pct": -4.1,
       "up": false
     },
     "214320.KS": {
       "ticker": "214320.KS",
-      "price": 18820,
-      "change": "-2.6%",
-      "change_pct": -2.64,
+      "price": 18770,
+      "change": "-2.9%",
+      "change_pct": -2.9,
       "up": false
     },
     "248070.KS": {
       "ticker": "248070.KS",
-      "price": 13610,
-      "change": "-7.9%",
-      "change_pct": -7.85,
+      "price": 13570,
+      "change": "-8.1%",
+      "change_pct": -8.12,
       "up": false
     },
     "317450.KS": {
       "ticker": "317450.KS",
-      "price": 45250,
-      "change": "-5.0%",
-      "change_pct": -5.04,
+      "price": 45050,
+      "change": "-5.5%",
+      "change_pct": -5.46,
       "up": false
     },
     "451800.KS": {
       "ticker": "451800.KS",
-      "price": 5560,
-      "change": "+0.0%",
-      "change_pct": 0,
-      "up": true
+      "price": 5550,
+      "change": "-0.2%",
+      "change_pct": -0.18,
+      "up": false
     },
     "456040.KS": {
       "ticker": "456040.KS",
-      "price": 80100,
-      "change": "-1.0%",
-      "change_pct": -0.99,
+      "price": 79600,
+      "change": "-1.6%",
+      "change_pct": -1.61,
       "up": false
     },
     "00104K.KS": {
@@ -1969,44 +1969,44 @@
     },
     "001060.KS": {
       "ticker": "001060.KS",
-      "price": 27600,
-      "change": "-4.3%",
-      "change_pct": -4.33,
+      "price": 27500,
+      "change": "-4.7%",
+      "change_pct": -4.68,
       "up": false
     },
     "001500.KS": {
       "ticker": "001500.KS",
-      "price": 7950,
-      "change": "-3.6%",
-      "change_pct": -3.64,
+      "price": 7940,
+      "change": "-3.8%",
+      "change_pct": -3.76,
       "up": false
     },
     "001680.KS": {
       "ticker": "001680.KS",
-      "price": 17580,
-      "change": "-4.3%",
-      "change_pct": -4.3,
+      "price": 17540,
+      "change": "-4.5%",
+      "change_pct": -4.52,
       "up": false
     },
     "002020.KS": {
       "ticker": "002020.KS",
-      "price": 28600,
-      "change": "+1.2%",
-      "change_pct": 1.24,
+      "price": 28300,
+      "change": "+0.2%",
+      "change_pct": 0.18,
       "up": true
     },
     "002350.KS": {
       "ticker": "002350.KS",
-      "price": 6490,
-      "change": "-3.6%",
-      "change_pct": -3.57,
+      "price": 6470,
+      "change": "-3.9%",
+      "change_pct": -3.86,
       "up": false
     },
     "003280.KS": {
       "ticker": "003280.KS",
-      "price": 1837,
-      "change": "+7.2%",
-      "change_pct": 7.24,
+      "price": 1904,
+      "change": "+11.2%",
+      "change_pct": 11.15,
       "up": true
     },
     "003545.KS": {
@@ -2018,16 +2018,16 @@
     },
     "003620.KS": {
       "ticker": "003620.KS",
-      "price": 2820,
-      "change": "-3.3%",
-      "change_pct": -3.26,
+      "price": 2805,
+      "change": "-3.8%",
+      "change_pct": -3.77,
       "up": false
     },
     "005180.KS": {
       "ticker": "005180.KS",
-      "price": 78100,
-      "change": "-5.2%",
-      "change_pct": -5.22,
+      "price": 77700,
+      "change": "-5.7%",
+      "change_pct": -5.7,
       "up": false
     },
     "005880.KS": {
@@ -2039,58 +2039,58 @@
     },
     "0120G0.KS": {
       "ticker": "0120G0.KS",
-      "price": 45850,
-      "change": "-4.4%",
-      "change_pct": -4.38,
+      "price": 45500,
+      "change": "-5.1%",
+      "change_pct": -5.11,
       "up": false
     },
     "014820.KS": {
       "ticker": "014820.KS",
-      "price": 21450,
-      "change": "-2.7%",
-      "change_pct": -2.72,
+      "price": 21350,
+      "change": "-3.2%",
+      "change_pct": -3.17,
       "up": false
     },
     "017940.KS": {
       "ticker": "017940.KS",
-      "price": 92200,
-      "change": "+3.0%",
-      "change_pct": 3.02,
+      "price": 92300,
+      "change": "+3.1%",
+      "change_pct": 3.13,
       "up": true
     },
     "069260.KS": {
       "ticker": "069260.KS",
-      "price": 16130,
-      "change": "-1.3%",
-      "change_pct": -1.35,
+      "price": 16090,
+      "change": "-1.6%",
+      "change_pct": -1.59,
       "up": false
     },
     "090460.KS": {
       "ticker": "090460.KS",
-      "price": 18540,
-      "change": "+0.8%",
-      "change_pct": 0.76,
+      "price": 18460,
+      "change": "+0.3%",
+      "change_pct": 0.33,
       "up": true
     },
     "093370.KS": {
       "ticker": "093370.KS",
-      "price": 12870,
-      "change": "+3.8%",
-      "change_pct": 3.79,
+      "price": 12920,
+      "change": "+4.2%",
+      "change_pct": 4.19,
       "up": true
     },
     "114090.KS": {
       "ticker": "114090.KS",
-      "price": 9300,
-      "change": "-1.1%",
-      "change_pct": -1.06,
+      "price": 9290,
+      "change": "-1.2%",
+      "change_pct": -1.17,
       "up": false
     },
     "130660.KS": {
       "ticker": "130660.KS",
-      "price": 11580,
-      "change": "-3.3%",
-      "change_pct": -3.34,
+      "price": 11480,
+      "change": "-4.2%",
+      "change_pct": -4.17,
       "up": false
     },
     "293940.KS": {
@@ -2102,16 +2102,16 @@
     },
     "000400.KS": {
       "ticker": "000400.KS",
-      "price": 2025,
-      "change": "-1.0%",
-      "change_pct": -0.98,
+      "price": 2020,
+      "change": "-1.2%",
+      "change_pct": -1.22,
       "up": false
     },
     "000640.KS": {
       "ticker": "000640.KS",
-      "price": 90500,
-      "change": "-2.7%",
-      "change_pct": -2.69,
+      "price": 90900,
+      "change": "-2.3%",
+      "change_pct": -2.26,
       "up": false
     },
     "001570.KS": {
@@ -2123,9 +2123,9 @@
     },
     "002840.KS": {
       "ticker": "002840.KS",
-      "price": 127300,
-      "change": "-1.6%",
-      "change_pct": -1.62,
+      "price": 126300,
+      "change": "-2.4%",
+      "change_pct": -2.4,
       "up": false
     },
     "002960.KS": {
@@ -2137,16 +2137,16 @@
     },
     "004690.KS": {
       "ticker": "004690.KS",
-      "price": 122900,
-      "change": "-1.4%",
-      "change_pct": -1.44,
+      "price": 122600,
+      "change": "-1.7%",
+      "change_pct": -1.68,
       "up": false
     },
     "005250.KS": {
       "ticker": "005250.KS",
-      "price": 10180,
-      "change": "-5.3%",
-      "change_pct": -5.3,
+      "price": 10140,
+      "change": "-5.7%",
+      "change_pct": -5.67,
       "up": false
     },
     "006380.KS": {
@@ -2158,30 +2158,30 @@
     },
     "011930.KS": {
       "ticker": "011930.KS",
-      "price": 16940,
-      "change": "+0.3%",
-      "change_pct": 0.3,
-      "up": true
+      "price": 16790,
+      "change": "-0.6%",
+      "change_pct": -0.59,
+      "up": false
     },
     "039130.KS": {
       "ticker": "039130.KS",
-      "price": 31500,
-      "change": "-3.7%",
-      "change_pct": -3.67,
+      "price": 31250,
+      "change": "-4.4%",
+      "change_pct": -4.43,
       "up": false
     },
     "058650.KS": {
       "ticker": "058650.KS",
-      "price": 124700,
-      "change": "-2.6%",
-      "change_pct": -2.58,
+      "price": 123200,
+      "change": "-3.8%",
+      "change_pct": -3.75,
       "up": false
     },
     "093050.KS": {
       "ticker": "093050.KS",
-      "price": 22400,
-      "change": "-2.2%",
-      "change_pct": -2.18,
+      "price": 22350,
+      "change": "-2.4%",
+      "change_pct": -2.4,
       "up": false
     },
     "094800.KS": {
@@ -2193,170 +2193,170 @@
     },
     "105840.KS": {
       "ticker": "105840.KS",
-      "price": 13780,
-      "change": "-4.5%",
-      "change_pct": -4.5,
+      "price": 13710,
+      "change": "-5.0%",
+      "change_pct": -4.99,
       "up": false
     },
     "178920.KS": {
       "ticker": "178920.KS",
-      "price": 19690,
-      "change": "-1.1%",
-      "change_pct": -1.06,
-      "up": false
-    },
-    "268280.KS": {
-      "ticker": "268280.KS",
-      "price": 127400,
-      "change": "-3.8%",
-      "change_pct": -3.85,
-      "up": false
-    },
-    "271940.KS": {
-      "ticker": "271940.KS",
-      "price": 11110,
-      "change": "-3.4%",
-      "change_pct": -3.39,
-      "up": false
-    },
-    "336370.KS": {
-      "ticker": "336370.KS",
-      "price": 7580,
-      "change": "-5.6%",
-      "change_pct": -5.6,
-      "up": false
-    },
-    "381970.KS": {
-      "ticker": "381970.KS",
-      "price": 6530,
-      "change": "-15.9%",
-      "change_pct": -15.85,
-      "up": false
-    },
-    "383800.KS": {
-      "ticker": "383800.KS",
-      "price": 8140,
+      "price": 19540,
       "change": "-1.8%",
       "change_pct": -1.81,
       "up": false
     },
+    "268280.KS": {
+      "ticker": "268280.KS",
+      "price": 127000,
+      "change": "-4.2%",
+      "change_pct": -4.15,
+      "up": false
+    },
+    "271940.KS": {
+      "ticker": "271940.KS",
+      "price": 11100,
+      "change": "-3.5%",
+      "change_pct": -3.48,
+      "up": false
+    },
+    "336370.KS": {
+      "ticker": "336370.KS",
+      "price": 7560,
+      "change": "-5.9%",
+      "change_pct": -5.85,
+      "up": false
+    },
+    "381970.KS": {
+      "ticker": "381970.KS",
+      "price": 6590,
+      "change": "-15.1%",
+      "change_pct": -15.08,
+      "up": false
+    },
+    "383800.KS": {
+      "ticker": "383800.KS",
+      "price": 8115,
+      "change": "-2.1%",
+      "change_pct": -2.11,
+      "up": false
+    },
     "000070.KS": {
       "ticker": "000070.KS",
-      "price": 60800,
-      "change": "+1.0%",
-      "change_pct": 1,
+      "price": 60600,
+      "change": "+0.7%",
+      "change_pct": 0.66,
       "up": true
     },
     "001820.KS": {
       "ticker": "001820.KS",
-      "price": 100400,
-      "change": "-2.5%",
-      "change_pct": -2.52,
+      "price": 99600,
+      "change": "-3.3%",
+      "change_pct": -3.3,
       "up": false
     },
     "002030.KS": {
       "ticker": "002030.KS",
-      "price": 182200,
-      "change": "-2.4%",
-      "change_pct": -2.41,
+      "price": 182100,
+      "change": "-2.5%",
+      "change_pct": -2.46,
       "up": false
     },
     "002240.KS": {
       "ticker": "002240.KS",
-      "price": 17140,
-      "change": "-3.1%",
-      "change_pct": -3.11,
+      "price": 17060,
+      "change": "-3.6%",
+      "change_pct": -3.56,
       "up": false
     },
     "003000.KS": {
       "ticker": "003000.KS",
-      "price": 4280,
-      "change": "-3.1%",
-      "change_pct": -3.06,
+      "price": 4265,
+      "change": "-3.4%",
+      "change_pct": -3.4,
       "up": false
     },
     "003300.KS": {
       "ticker": "003300.KS",
-      "price": 17240,
-      "change": "+0.1%",
-      "change_pct": 0.12,
+      "price": 17220,
+      "change": "+0.0%",
+      "change_pct": 0,
       "up": true
     },
     "005389.KS": {
       "ticker": "005389.KS",
-      "price": 201500,
-      "change": "-1.2%",
-      "change_pct": -1.23,
+      "price": 200000,
+      "change": "-2.0%",
+      "change_pct": -1.96,
       "up": false
     },
     "005420.KS": {
       "ticker": "005420.KS",
-      "price": 10710,
-      "change": "-0.5%",
-      "change_pct": -0.46,
+      "price": 10610,
+      "change": "-1.4%",
+      "change_pct": -1.39,
       "up": false
     },
     "008730.KS": {
       "ticker": "008730.KS",
-      "price": 15950,
-      "change": "+5.7%",
-      "change_pct": 5.7,
+      "price": 15800,
+      "change": "+4.7%",
+      "change_pct": 4.71,
       "up": true
     },
     "009410.KS": {
       "ticker": "009410.KS",
-      "price": 1622,
-      "change": "-0.9%",
-      "change_pct": -0.86,
-      "up": false
-    },
-    "014830.KS": {
-      "ticker": "014830.KS",
-      "price": 63200,
+      "price": 1618,
       "change": "-1.1%",
       "change_pct": -1.1,
       "up": false
     },
+    "014830.KS": {
+      "ticker": "014830.KS",
+      "price": 63000,
+      "change": "-1.4%",
+      "change_pct": -1.41,
+      "up": false
+    },
     "016380.KS": {
       "ticker": "016380.KS",
-      "price": 5440,
-      "change": "-4.4%",
-      "change_pct": -4.39,
+      "price": 5430,
+      "change": "-4.6%",
+      "change_pct": -4.57,
       "up": false
     },
     "016610.KS": {
       "ticker": "016610.KS",
-      "price": 9480,
-      "change": "-4.4%",
-      "change_pct": -4.44,
+      "price": 9460,
+      "change": "-4.6%",
+      "change_pct": -4.64,
       "up": false
     },
     "019170.KS": {
       "ticker": "019170.KS",
-      "price": 8460,
-      "change": "-3.8%",
-      "change_pct": -3.75,
+      "price": 8430,
+      "change": "-4.1%",
+      "change_pct": -4.1,
       "up": false
     },
     "020000.KS": {
       "ticker": "020000.KS",
-      "price": 16070,
-      "change": "-1.7%",
-      "change_pct": -1.71,
+      "price": 16090,
+      "change": "-1.6%",
+      "change_pct": -1.59,
       "up": false
     },
     "029530.KS": {
       "ticker": "029530.KS",
-      "price": 41450,
-      "change": "-3.9%",
-      "change_pct": -3.94,
+      "price": 41075,
+      "change": "-4.8%",
+      "change_pct": -4.81,
       "up": false
     },
     "217590.KS": {
       "ticker": "217590.KS",
-      "price": 13230,
-      "change": "-2.4%",
-      "change_pct": -2.43,
+      "price": 13170,
+      "change": "-2.9%",
+      "change_pct": -2.88,
       "up": false
     },
     "284740.KS": {
@@ -2368,30 +2368,30 @@
     },
     "377740.KS": {
       "ticker": "377740.KS",
-      "price": 4860,
-      "change": "-1.4%",
-      "change_pct": -1.42,
+      "price": 4820,
+      "change": "-2.2%",
+      "change_pct": -2.23,
       "up": false
     },
     "950210.KS": {
       "ticker": "950210.KS",
-      "price": 6670,
-      "change": "-7.4%",
-      "change_pct": -7.36,
+      "price": 6690,
+      "change": "-7.1%",
+      "change_pct": -7.08,
       "up": false
     },
     "001200.KS": {
       "ticker": "001200.KS",
-      "price": 4365,
-      "change": "-3.2%",
-      "change_pct": -3.22,
+      "price": 4340,
+      "change": "-3.8%",
+      "change_pct": -3.77,
       "up": false
     },
     "005810.KS": {
       "ticker": "005810.KS",
-      "price": 37500,
-      "change": "-4.9%",
-      "change_pct": -4.94,
+      "price": 37200,
+      "change": "-5.7%",
+      "change_pct": -5.7,
       "up": false
     },
     "005945.KS": {
@@ -2403,44 +2403,44 @@
     },
     "006110.KS": {
       "ticker": "006110.KS",
-      "price": 59700,
-      "change": "+12.9%",
-      "change_pct": 12.85,
+      "price": 56500,
+      "change": "+6.8%",
+      "change_pct": 6.81,
       "up": true
     },
     "006220.KS": {
       "ticker": "006220.KS",
-      "price": 9250,
-      "change": "-1.0%",
-      "change_pct": -0.96,
+      "price": 9210,
+      "change": "-1.4%",
+      "change_pct": -1.39,
       "up": false
     },
     "006340.KS": {
       "ticker": "006340.KS",
-      "price": 14420,
-      "change": "-2.0%",
-      "change_pct": -1.97,
+      "price": 14230,
+      "change": "-3.3%",
+      "change_pct": -3.26,
       "up": false
     },
     "009155.KS": {
       "ticker": "009155.KS",
-      "price": 529000,
-      "change": "-4.5%",
-      "change_pct": -4.51,
+      "price": 523000,
+      "change": "-5.6%",
+      "change_pct": -5.6,
       "up": false
     },
     "009900.KS": {
       "ticker": "009900.KS",
-      "price": 8170,
-      "change": "+0.6%",
-      "change_pct": 0.62,
+      "price": 8160,
+      "change": "+0.5%",
+      "change_pct": 0.49,
       "up": true
     },
     "016590.KS": {
       "ticker": "016590.KS",
-      "price": 9900,
-      "change": "-1.7%",
-      "change_pct": -1.69,
+      "price": 9850,
+      "change": "-2.2%",
+      "change_pct": -2.18,
       "up": false
     },
     "034310.KS": {
@@ -2452,16 +2452,16 @@
     },
     "090435.KS": {
       "ticker": "090435.KS",
-      "price": 44100,
-      "change": "-1.2%",
-      "change_pct": -1.23,
+      "price": 43950,
+      "change": "-1.6%",
+      "change_pct": -1.57,
       "up": false
     },
     "105630.KS": {
       "ticker": "105630.KS",
-      "price": 9770,
-      "change": "+6.9%",
-      "change_pct": 6.89,
+      "price": 9780,
+      "change": "+7.0%",
+      "change_pct": 7,
       "up": true
     },
     "138490.KS": {
@@ -2473,30 +2473,30 @@
     },
     "145720.KS": {
       "ticker": "145720.KS",
-      "price": 39100,
-      "change": "-3.9%",
-      "change_pct": -3.93,
+      "price": 38700,
+      "change": "-4.9%",
+      "change_pct": -4.91,
       "up": false
     },
     "145990.KS": {
       "ticker": "145990.KS",
-      "price": 45100,
-      "change": "-1.0%",
-      "change_pct": -0.99,
+      "price": 44950,
+      "change": "-1.3%",
+      "change_pct": -1.32,
       "up": false
     },
     "192650.KS": {
       "ticker": "192650.KS",
-      "price": 4985,
-      "change": "-4.1%",
-      "change_pct": -4.13,
+      "price": 4960,
+      "change": "-4.6%",
+      "change_pct": -4.62,
       "up": false
     },
     "448730.KS": {
       "ticker": "448730.KS",
-      "price": 5350,
-      "change": "-1.8%",
-      "change_pct": -1.83,
+      "price": 5360,
+      "change": "-1.7%",
+      "change_pct": -1.65,
       "up": false
     },
     "452260.KS": {
@@ -2508,107 +2508,107 @@
     },
     "453340.KS": {
       "ticker": "453340.KS",
-      "price": 18160,
-      "change": "-2.3%",
-      "change_pct": -2.26,
+      "price": 18170,
+      "change": "-2.2%",
+      "change_pct": -2.21,
       "up": false
     },
     "460860.KS": {
       "ticker": "460860.KS",
-      "price": 9700,
-      "change": "-1.6%",
-      "change_pct": -1.62,
+      "price": 9640,
+      "change": "-2.2%",
+      "change_pct": -2.23,
       "up": false
     },
     "001530.KS": {
       "ticker": "001530.KS",
-      "price": 24000,
-      "change": "-5.9%",
-      "change_pct": -5.88,
+      "price": 23950,
+      "change": "-6.1%",
+      "change_pct": -6.08,
       "up": false
     },
     "004700.KS": {
       "ticker": "004700.KS",
-      "price": 64500,
-      "change": "-1.5%",
-      "change_pct": -1.53,
+      "price": 64700,
+      "change": "-1.2%",
+      "change_pct": -1.22,
       "up": false
     },
     "005610.KS": {
       "ticker": "005610.KS",
-      "price": 39850,
-      "change": "-3.9%",
-      "change_pct": -3.86,
+      "price": 39700,
+      "change": "-4.2%",
+      "change_pct": -4.22,
       "up": false
     },
     "008060.KS": {
       "ticker": "008060.KS",
-      "price": 16050,
-      "change": "-5.6%",
-      "change_pct": -5.59,
+      "price": 15890,
+      "change": "-6.5%",
+      "change_pct": -6.53,
       "up": false
     },
     "009290.KS": {
       "ticker": "009290.KS",
-      "price": 6140,
-      "change": "-2.8%",
-      "change_pct": -2.85,
+      "price": 6130,
+      "change": "-3.0%",
+      "change_pct": -3.01,
       "up": false
     },
     "010690.KS": {
       "ticker": "010690.KS",
-      "price": 8600,
-      "change": "-5.2%",
-      "change_pct": -5.18,
+      "price": 8510,
+      "change": "-6.2%",
+      "change_pct": -6.17,
       "up": false
     },
     "015360.KS": {
       "ticker": "015360.KS",
-      "price": 14150,
-      "change": "-1.5%",
-      "change_pct": -1.53,
+      "price": 14100,
+      "change": "-1.9%",
+      "change_pct": -1.88,
       "up": false
     },
     "016800.KS": {
       "ticker": "016800.KS",
-      "price": 26900,
-      "change": "-1.8%",
-      "change_pct": -1.82,
+      "price": 27150,
+      "change": "-0.9%",
+      "change_pct": -0.91,
       "up": false
     },
     "017810.KS": {
       "ticker": "017810.KS",
-      "price": 9320,
-      "change": "-4.9%",
-      "change_pct": -4.9,
+      "price": 9270,
+      "change": "-5.4%",
+      "change_pct": -5.41,
       "up": false
     },
     "027410.KS": {
       "ticker": "027410.KS",
-      "price": 4130,
-      "change": "-1.5%",
-      "change_pct": -1.55,
+      "price": 4095,
+      "change": "-2.4%",
+      "change_pct": -2.38,
       "up": false
     },
     "029460.KS": {
       "ticker": "029460.KS",
-      "price": 34750,
-      "change": "+0.3%",
-      "change_pct": 0.29,
-      "up": true
+      "price": 34450,
+      "change": "-0.6%",
+      "change_pct": -0.58,
+      "up": false
     },
     "031430.KS": {
       "ticker": "031430.KS",
-      "price": 10710,
-      "change": "-2.7%",
-      "change_pct": -2.72,
+      "price": 10680,
+      "change": "-3.0%",
+      "change_pct": -3,
       "up": false
     },
     "034830.KS": {
       "ticker": "034830.KS",
-      "price": 1142,
-      "change": "-1.8%",
-      "change_pct": -1.81,
+      "price": 1141,
+      "change": "-1.9%",
+      "change_pct": -1.89,
       "up": false
     },
     "072710.KS": {
@@ -2620,51 +2620,51 @@
     },
     "089590.KS": {
       "ticker": "089590.KS",
-      "price": 4150,
-      "change": "-3.3%",
-      "change_pct": -3.26,
+      "price": 4145,
+      "change": "-3.4%",
+      "change_pct": -3.38,
       "up": false
     },
     "126720.KS": {
       "ticker": "126720.KS",
-      "price": 22200,
-      "change": "-2.6%",
-      "change_pct": -2.63,
+      "price": 22100,
+      "change": "-3.1%",
+      "change_pct": -3.07,
       "up": false
     },
     "161000.KS": {
       "ticker": "161000.KS",
-      "price": 9830,
-      "change": "+2.9%",
-      "change_pct": 2.93,
+      "price": 9790,
+      "change": "+2.5%",
+      "change_pct": 2.51,
       "up": true
     },
     "183190.KS": {
       "ticker": "183190.KS",
-      "price": 9810,
-      "change": "-1.4%",
-      "change_pct": -1.41,
+      "price": 9800,
+      "change": "-1.5%",
+      "change_pct": -1.51,
       "up": false
     },
     "306200.KS": {
       "ticker": "306200.KS",
-      "price": 133700,
-      "change": "+0.7%",
-      "change_pct": 0.68,
+      "price": 133300,
+      "change": "+0.4%",
+      "change_pct": 0.38,
       "up": true
     },
     "357120.KS": {
       "ticker": "357120.KS",
-      "price": 4320,
-      "change": "-0.9%",
-      "change_pct": -0.92,
+      "price": 4345,
+      "change": "-0.3%",
+      "change_pct": -0.34,
       "up": false
     },
     "000157.KS": {
       "ticker": "000157.KS",
-      "price": 360000,
-      "change": "+1.4%",
-      "change_pct": 1.41,
+      "price": 359500,
+      "change": "+1.3%",
+      "change_pct": 1.27,
       "up": true
     },
     "001390.KS": {
@@ -2676,86 +2676,86 @@
     },
     "001940.KS": {
       "ticker": "001940.KS",
-      "price": 27200,
-      "change": "-2.5%",
-      "change_pct": -2.51,
+      "price": 27300,
+      "change": "-2.2%",
+      "change_pct": -2.15,
       "up": false
     },
     "002310.KS": {
       "ticker": "002310.KS",
-      "price": 7740,
-      "change": "-0.6%",
-      "change_pct": -0.64,
+      "price": 7700,
+      "change": "-1.2%",
+      "change_pct": -1.16,
       "up": false
     },
     "002810.KS": {
       "ticker": "002810.KS",
-      "price": 23250,
-      "change": "-1.3%",
-      "change_pct": -1.27,
+      "price": 23150,
+      "change": "-1.7%",
+      "change_pct": -1.7,
       "up": false
     },
     "005720.KS": {
       "ticker": "005720.KS",
-      "price": 6110,
-      "change": "-2.6%",
-      "change_pct": -2.55,
+      "price": 6070,
+      "change": "-3.2%",
+      "change_pct": -3.19,
       "up": false
     },
     "012030.KS": {
       "ticker": "012030.KS",
-      "price": 1505,
-      "change": "-1.0%",
-      "change_pct": -0.99,
+      "price": 1477,
+      "change": "-2.8%",
+      "change_pct": -2.83,
       "up": false
     },
     "015860.KS": {
       "ticker": "015860.KS",
-      "price": 6750,
-      "change": "-2.9%",
-      "change_pct": -2.88,
+      "price": 6710,
+      "change": "-3.5%",
+      "change_pct": -3.45,
       "up": false
     },
     "018250.KS": {
       "ticker": "018250.KS",
-      "price": 11650,
-      "change": "-2.3%",
-      "change_pct": -2.35,
+      "price": 11630,
+      "change": "-2.5%",
+      "change_pct": -2.51,
       "up": false
     },
     "025860.KS": {
       "ticker": "025860.KS",
-      "price": 6020,
-      "change": "+2.6%",
-      "change_pct": 2.56,
+      "price": 6040,
+      "change": "+2.9%",
+      "change_pct": 2.9,
       "up": true
     },
     "026890.KS": {
       "ticker": "026890.KS",
-      "price": 8590,
-      "change": "-0.8%",
-      "change_pct": -0.81,
+      "price": 8510,
+      "change": "-1.7%",
+      "change_pct": -1.73,
       "up": false
     },
     "037270.KS": {
       "ticker": "037270.KS",
-      "price": 3370,
-      "change": "-3.0%",
-      "change_pct": -3.02,
+      "price": 3355,
+      "change": "-3.5%",
+      "change_pct": -3.45,
       "up": false
     },
     "060980.KS": {
       "ticker": "060980.KS",
-      "price": 39450,
-      "change": "-4.0%",
-      "change_pct": -4.01,
+      "price": 39350,
+      "change": "-4.3%",
+      "change_pct": -4.26,
       "up": false
     },
     "084010.KS": {
       "ticker": "084010.KS",
-      "price": 8170,
-      "change": "-5.9%",
-      "change_pct": -5.88,
+      "price": 8150,
+      "change": "-6.1%",
+      "change_pct": -6.11,
       "up": false
     },
     "091810.KS": {
@@ -2767,23 +2767,23 @@
     },
     "097520.KS": {
       "ticker": "097520.KS",
-      "price": 20300,
-      "change": "-2.9%",
-      "change_pct": -2.87,
+      "price": 20450,
+      "change": "-2.2%",
+      "change_pct": -2.15,
       "up": false
     },
     "170900.KS": {
       "ticker": "170900.KS",
-      "price": 37450,
-      "change": "-2.7%",
-      "change_pct": -2.73,
+      "price": 37350,
+      "change": "-3.0%",
+      "change_pct": -2.99,
       "up": false
     },
     "200880.KS": {
       "ticker": "200880.KS",
-      "price": 12520,
-      "change": "-4.1%",
-      "change_pct": -4.06,
+      "price": 12430,
+      "change": "-4.8%",
+      "change_pct": -4.75,
       "up": false
     },
     "344820.KS": {
@@ -2795,30 +2795,30 @@
     },
     "417310.KS": {
       "ticker": "417310.KS",
-      "price": 10870,
+      "price": 10880,
       "change": "-0.5%",
-      "change_pct": -0.55,
+      "change_pct": -0.46,
       "up": false
     },
     "000650.KS": {
       "ticker": "000650.KS",
-      "price": 156900,
-      "change": "-2.6%",
-      "change_pct": -2.61,
+      "price": 156600,
+      "change": "-2.8%",
+      "change_pct": -2.79,
       "up": false
     },
     "001230.KS": {
       "ticker": "001230.KS",
-      "price": 1952,
-      "change": "+0.1%",
-      "change_pct": 0.05,
-      "up": true
+      "price": 1941,
+      "change": "-0.5%",
+      "change_pct": -0.51,
+      "up": false
     },
     "002710.KS": {
       "ticker": "002710.KS",
-      "price": 10100,
-      "change": "-3.3%",
-      "change_pct": -3.35,
+      "price": 10000,
+      "change": "-4.3%",
+      "change_pct": -4.31,
       "up": false
     },
     "006405.KS": {
@@ -2830,58 +2830,58 @@
     },
     "007690.KS": {
       "ticker": "007690.KS",
-      "price": 38850,
-      "change": "+3.3%",
-      "change_pct": 3.32,
+      "price": 38550,
+      "change": "+2.5%",
+      "change_pct": 2.53,
       "up": true
     },
     "010820.KS": {
       "ticker": "010820.KS",
-      "price": 6560,
-      "change": "-0.5%",
-      "change_pct": -0.46,
+      "price": 6550,
+      "change": "-0.6%",
+      "change_pct": -0.61,
       "up": false
     },
     "011760.KS": {
       "ticker": "011760.KS",
-      "price": 26950,
-      "change": "-2.0%",
-      "change_pct": -2,
+      "price": 26900,
+      "change": "-2.2%",
+      "change_pct": -2.18,
       "up": false
     },
     "017390.KS": {
       "ticker": "017390.KS",
-      "price": 55300,
-      "change": "-1.3%",
-      "change_pct": -1.25,
+      "price": 55200,
+      "change": "-1.4%",
+      "change_pct": -1.43,
       "up": false
     },
     "017860.KS": {
       "ticker": "017860.KS",
-      "price": 12400,
-      "change": "-0.3%",
-      "change_pct": -0.32,
+      "price": 12340,
+      "change": "-0.8%",
+      "change_pct": -0.8,
       "up": false
     },
     "084690.KS": {
       "ticker": "084690.KS",
-      "price": 7820,
-      "change": "-2.4%",
-      "change_pct": -2.37,
+      "price": 7790,
+      "change": "-2.7%",
+      "change_pct": -2.75,
       "up": false
     },
     "092200.KS": {
       "ticker": "092200.KS",
-      "price": 6590,
-      "change": "+0.2%",
-      "change_pct": 0.15,
-      "up": true
+      "price": 6510,
+      "change": "-1.1%",
+      "change_pct": -1.06,
+      "up": false
     },
     "092230.KS": {
       "ticker": "092230.KS",
-      "price": 96400,
-      "change": "+3.7%",
-      "change_pct": 3.66,
+      "price": 96600,
+      "change": "+3.9%",
+      "change_pct": 3.87,
       "up": true
     },
     "104700.KS": {
@@ -2893,23 +2893,23 @@
     },
     "123890.KS": {
       "ticker": "123890.KS",
-      "price": 2390,
-      "change": "-0.6%",
-      "change_pct": -0.62,
+      "price": 2385,
+      "change": "-0.8%",
+      "change_pct": -0.83,
       "up": false
     },
     "126560.KS": {
       "ticker": "126560.KS",
-      "price": 3240,
-      "change": "-1.2%",
-      "change_pct": -1.22,
+      "price": 3245,
+      "change": "-1.1%",
+      "change_pct": -1.07,
       "up": false
     },
     "128820.KS": {
       "ticker": "128820.KS",
-      "price": 4310,
-      "change": "-2.0%",
-      "change_pct": -2.05,
+      "price": 4285,
+      "change": "-2.6%",
+      "change_pct": -2.61,
       "up": false
     },
     "194370.KS": {
@@ -2921,149 +2921,149 @@
     },
     "272450.KS": {
       "ticker": "272450.KS",
-      "price": 5170,
-      "change": "-2.8%",
-      "change_pct": -2.82,
+      "price": 5140,
+      "change": "-3.4%",
+      "change_pct": -3.38,
       "up": false
     },
     "286940.KS": {
       "ticker": "286940.KS",
-      "price": 18770,
-      "change": "-1.5%",
-      "change_pct": -1.47,
+      "price": 18740,
+      "change": "-1.6%",
+      "change_pct": -1.63,
       "up": false
     },
     "403550.KS": {
       "ticker": "403550.KS",
-      "price": 10560,
-      "change": "-2.3%",
-      "change_pct": -2.31,
+      "price": 10490,
+      "change": "-3.0%",
+      "change_pct": -2.96,
       "up": false
     },
     "000320.KS": {
       "ticker": "000320.KS",
-      "price": 17080,
-      "change": "+0.4%",
-      "change_pct": 0.35,
-      "up": true
+      "price": 16970,
+      "change": "-0.3%",
+      "change_pct": -0.29,
+      "up": false
     },
     "000540.KS": {
       "ticker": "000540.KS",
-      "price": 3425,
-      "change": "-1.0%",
-      "change_pct": -1.01,
+      "price": 3402,
+      "change": "-1.7%",
+      "change_pct": -1.68,
       "up": false
     },
     "001460.KS": {
       "ticker": "001460.KS",
-      "price": 37350,
-      "change": "-2.7%",
-      "change_pct": -2.73,
+      "price": 37500,
+      "change": "-2.3%",
+      "change_pct": -2.34,
       "up": false
     },
     "001750.KS": {
       "ticker": "001750.KS",
-      "price": 19550,
-      "change": "-1.3%",
-      "change_pct": -1.31,
+      "price": 19510,
+      "change": "-1.5%",
+      "change_pct": -1.51,
       "up": false
     },
     "003120.KS": {
       "ticker": "003120.KS",
-      "price": 20050,
-      "change": "-2.4%",
-      "change_pct": -2.43,
+      "price": 20100,
+      "change": "-2.2%",
+      "change_pct": -2.19,
       "up": false
     },
     "003520.KS": {
       "ticker": "003520.KS",
-      "price": 1250,
-      "change": "-4.4%",
-      "change_pct": -4.43,
+      "price": 1247,
+      "change": "-4.7%",
+      "change_pct": -4.66,
       "up": false
     },
     "003920.KS": {
       "ticker": "003920.KS",
-      "price": 43700,
-      "change": "-1.6%",
-      "change_pct": -1.58,
+      "price": 43500,
+      "change": "-2.0%",
+      "change_pct": -2.03,
       "up": false
     },
     "003960.KS": {
       "ticker": "003960.KS",
-      "price": 29750,
-      "change": "-6.0%",
-      "change_pct": -6,
+      "price": 29550,
+      "change": "-6.6%",
+      "change_pct": -6.64,
       "up": false
     },
     "005680.KS": {
       "ticker": "005680.KS",
-      "price": 13550,
-      "change": "-5.5%",
-      "change_pct": -5.51,
+      "price": 13310,
+      "change": "-7.2%",
+      "change_pct": -7.18,
       "up": false
     },
     "006805.KS": {
       "ticker": "006805.KS",
-      "price": 12820,
+      "price": 12810,
       "change": "-4.5%",
-      "change_pct": -4.47,
+      "change_pct": -4.55,
       "up": false
     },
     "009160.KS": {
       "ticker": "009160.KS",
-      "price": 4880,
-      "change": "-2.4%",
-      "change_pct": -2.4,
+      "price": 4850,
+      "change": "-3.0%",
+      "change_pct": -3,
       "up": false
     },
     "011500.KS": {
       "ticker": "011500.KS",
-      "price": 13650,
-      "change": "-2.2%",
-      "change_pct": -2.22,
+      "price": 13660,
+      "change": "-2.1%",
+      "change_pct": -2.15,
       "up": false
     },
     "024720.KS": {
       "ticker": "024720.KS",
-      "price": 9860,
-      "change": "-3.8%",
-      "change_pct": -3.8,
+      "price": 9830,
+      "change": "-4.1%",
+      "change_pct": -4.1,
       "up": false
     },
     "033270.KS": {
       "ticker": "033270.KS",
-      "price": 18200,
-      "change": "-0.9%",
-      "change_pct": -0.87,
+      "price": 18180,
+      "change": "-1.0%",
+      "change_pct": -0.98,
       "up": false
     },
     "034120.KS": {
       "ticker": "034120.KS",
-      "price": 12640,
-      "change": "+5.2%",
-      "change_pct": 5.16,
+      "price": 12660,
+      "change": "+5.3%",
+      "change_pct": 5.32,
       "up": true
     },
     "037710.KS": {
       "ticker": "037710.KS",
-      "price": 38900,
-      "change": "-2.3%",
-      "change_pct": -2.26,
+      "price": 38750,
+      "change": "-2.6%",
+      "change_pct": -2.64,
       "up": false
     },
     "078520.KS": {
       "ticker": "078520.KS",
-      "price": 11440,
-      "change": "-3.5%",
-      "change_pct": -3.54,
+      "price": 11400,
+      "change": "-3.9%",
+      "change_pct": -3.88,
       "up": false
     },
     "092790.KS": {
       "ticker": "092790.KS",
-      "price": 11900,
-      "change": "-7.9%",
-      "change_pct": -7.89,
+      "price": 11910,
+      "change": "-7.8%",
+      "change_pct": -7.82,
       "up": false
     },
     "096760.KS": {
@@ -3082,38 +3082,38 @@
     },
     "000490.KS": {
       "ticker": "000490.KS",
-      "price": 8230,
-      "change": "-0.8%",
-      "change_pct": -0.84,
+      "price": 8170,
+      "change": "-1.6%",
+      "change_pct": -1.57,
       "up": false
     },
     "001340.KS": {
       "ticker": "001340.KS",
-      "price": 5100,
-      "change": "-0.6%",
-      "change_pct": -0.58,
+      "price": 5080,
+      "change": "-1.0%",
+      "change_pct": -0.97,
       "up": false
     },
     "002320.KS": {
       "ticker": "002320.KS",
-      "price": 15180,
-      "change": "-2.1%",
-      "change_pct": -2.06,
+      "price": 15160,
+      "change": "-2.2%",
+      "change_pct": -2.19,
       "up": false
     },
     "002900.KS": {
       "ticker": "002900.KS",
-      "price": 7150,
-      "change": "-3.1%",
-      "change_pct": -3.12,
+      "price": 7190,
+      "change": "-2.6%",
+      "change_pct": -2.57,
       "up": false
     },
     "003070.KS": {
       "ticker": "003070.KS",
-      "price": 10240,
-      "change": "+0.0%",
-      "change_pct": 0,
-      "up": true
+      "price": 10140,
+      "change": "-1.0%",
+      "change_pct": -0.98,
+      "up": false
     },
     "003200.KS": {
       "ticker": "003200.KS",
@@ -3124,58 +3124,58 @@
     },
     "004310.KS": {
       "ticker": "004310.KS",
-      "price": 6320,
-      "change": "+0.2%",
-      "change_pct": 0.16,
+      "price": 6350,
+      "change": "+0.6%",
+      "change_pct": 0.63,
       "up": true
     },
     "004360.KS": {
       "ticker": "004360.KS",
-      "price": 13310,
-      "change": "-0.5%",
-      "change_pct": -0.52,
+      "price": 13280,
+      "change": "-0.7%",
+      "change_pct": -0.75,
       "up": false
     },
     "005010.KS": {
       "ticker": "005010.KS",
-      "price": 3835,
-      "change": "-5.0%",
-      "change_pct": -4.96,
+      "price": 3805,
+      "change": "-5.7%",
+      "change_pct": -5.7,
       "up": false
     },
     "007160.KS": {
       "ticker": "007160.KS",
-      "price": 49800,
-      "change": "+0.6%",
-      "change_pct": 0.61,
+      "price": 49850,
+      "change": "+0.7%",
+      "change_pct": 0.71,
       "up": true
     },
     "009680.KS": {
       "ticker": "009680.KS",
-      "price": 10200,
-      "change": "-0.3%",
-      "change_pct": -0.29,
+      "price": 10150,
+      "change": "-0.8%",
+      "change_pct": -0.78,
       "up": false
     },
     "035510.KS": {
       "ticker": "035510.KS",
-      "price": 13670,
-      "change": "-0.8%",
-      "change_pct": -0.8,
+      "price": 13500,
+      "change": "-2.0%",
+      "change_pct": -2.03,
       "up": false
     },
     "053690.KS": {
       "ticker": "053690.KS",
-      "price": 17920,
-      "change": "-5.1%",
-      "change_pct": -5.08,
+      "price": 17730,
+      "change": "-6.1%",
+      "change_pct": -6.09,
       "up": false
     },
     "088260.KS": {
       "ticker": "088260.KS",
-      "price": 3185,
-      "change": "-0.6%",
-      "change_pct": -0.62,
+      "price": 3190,
+      "change": "-0.5%",
+      "change_pct": -0.47,
       "up": false
     },
     "092220.KS": {
@@ -3187,16 +3187,16 @@
     },
     "117580.KS": {
       "ticker": "117580.KS",
-      "price": 6900,
-      "change": "+0.4%",
-      "change_pct": 0.44,
+      "price": 6920,
+      "change": "+0.7%",
+      "change_pct": 0.73,
       "up": true
     },
     "241590.KS": {
       "ticker": "241590.KS",
-      "price": 3060,
-      "change": "-3.3%",
-      "change_pct": -3.32,
+      "price": 3035,
+      "change": "-4.1%",
+      "change_pct": -4.11,
       "up": false
     },
     "334890.KS": {
@@ -3215,10 +3215,10 @@
     },
     "900140.KS": {
       "ticker": "900140.KS",
-      "price": 1251,
-      "change": "+1.1%",
-      "change_pct": 1.05,
-      "up": true
+      "price": 1237,
+      "change": "-0.1%",
+      "change_pct": -0.08,
+      "up": false
     },
     "000050.KS": {
       "ticker": "000050.KS",
@@ -3229,23 +3229,23 @@
     },
     "000390.KS": {
       "ticker": "000390.KS",
-      "price": 6360,
-      "change": "+0.8%",
-      "change_pct": 0.79,
+      "price": 6320,
+      "change": "+0.2%",
+      "change_pct": 0.16,
       "up": true
     },
     "001130.KS": {
       "ticker": "001130.KS",
-      "price": 11530,
-      "change": "-2.3%",
-      "change_pct": -2.29,
+      "price": 11520,
+      "change": "-2.4%",
+      "change_pct": -2.37,
       "up": false
     },
     "001790.KS": {
       "ticker": "001790.KS",
-      "price": 2750,
-      "change": "-1.4%",
-      "change_pct": -1.43,
+      "price": 2740,
+      "change": "-1.8%",
+      "change_pct": -1.79,
       "up": false
     },
     "0030R0.KS": {
@@ -3257,30 +3257,30 @@
     },
     "003547.KS": {
       "ticker": "003547.KS",
-      "price": 19720,
-      "change": "-1.6%",
-      "change_pct": -1.65,
+      "price": 19840,
+      "change": "-1.0%",
+      "change_pct": -1.05,
       "up": false
     },
     "004560.KS": {
       "ticker": "004560.KS",
-      "price": 12070,
-      "change": "-2.6%",
-      "change_pct": -2.58,
+      "price": 11990,
+      "change": "-3.2%",
+      "change_pct": -3.23,
       "up": false
     },
     "009470.KS": {
       "ticker": "009470.KS",
-      "price": 24400,
-      "change": "-3.7%",
-      "change_pct": -3.75,
+      "price": 24250,
+      "change": "-4.3%",
+      "change_pct": -4.34,
       "up": false
     },
     "013580.KS": {
       "ticker": "013580.KS",
-      "price": 22750,
-      "change": "+5.3%",
-      "change_pct": 5.32,
+      "price": 22900,
+      "change": "+6.0%",
+      "change_pct": 6.02,
       "up": true
     },
     "02826K.KS": {
@@ -3292,37 +3292,37 @@
     },
     "030210.KS": {
       "ticker": "030210.KS",
-      "price": 3790,
-      "change": "-3.3%",
-      "change_pct": -3.32,
+      "price": 3780,
+      "change": "-3.6%",
+      "change_pct": -3.57,
       "up": false
     },
     "033920.KS": {
       "ticker": "033920.KS",
-      "price": 7840,
-      "change": "-2.4%",
-      "change_pct": -2.37,
+      "price": 7830,
+      "change": "-2.5%",
+      "change_pct": -2.49,
       "up": false
     },
     "035150.KS": {
       "ticker": "035150.KS",
-      "price": 10310,
-      "change": "-3.1%",
-      "change_pct": -3.1,
+      "price": 10330,
+      "change": "-2.9%",
+      "change_pct": -2.91,
       "up": false
     },
     "058430.KS": {
       "ticker": "058430.KS",
-      "price": 4645,
-      "change": "-1.4%",
-      "change_pct": -1.38,
+      "price": 4625,
+      "change": "-1.8%",
+      "change_pct": -1.8,
       "up": false
     },
     "108670.KS": {
       "ticker": "108670.KS",
-      "price": 33800,
-      "change": "-1.0%",
-      "change_pct": -1.02,
+      "price": 33700,
+      "change": "-1.3%",
+      "change_pct": -1.32,
       "up": false
     },
     "136490.KS": {
@@ -3334,44 +3334,44 @@
     },
     "244920.KS": {
       "ticker": "244920.KS",
-      "price": 13210,
-      "change": "+0.8%",
-      "change_pct": 0.84,
+      "price": 13300,
+      "change": "+1.5%",
+      "change_pct": 1.53,
       "up": true
     },
     "377190.KS": {
       "ticker": "377190.KS",
-      "price": 2155,
-      "change": "-2.0%",
-      "change_pct": -2.05,
+      "price": 2150,
+      "change": "-2.3%",
+      "change_pct": -2.27,
       "up": false
     },
     "404990.KS": {
       "ticker": "404990.KS",
-      "price": 4120,
-      "change": "+0.0%",
-      "change_pct": 0,
+      "price": 4125,
+      "change": "+0.1%",
+      "change_pct": 0.12,
       "up": true
     },
     "432320.KS": {
       "ticker": "432320.KS",
-      "price": 1444,
-      "change": "-1.2%",
-      "change_pct": -1.23,
+      "price": 1446,
+      "change": "-1.1%",
+      "change_pct": -1.09,
       "up": false
     },
     "000430.KS": {
       "ticker": "000430.KS",
-      "price": 4170,
-      "change": "+2.1%",
-      "change_pct": 2.08,
+      "price": 4135,
+      "change": "+1.2%",
+      "change_pct": 1.22,
       "up": true
     },
     "000680.KS": {
       "ticker": "000680.KS",
-      "price": 2975,
-      "change": "-2.5%",
-      "change_pct": -2.46,
+      "price": 2955,
+      "change": "-3.1%",
+      "change_pct": -3.11,
       "up": false
     },
     "001630.KS": {
@@ -3383,114 +3383,114 @@
     },
     "003220.KS": {
       "ticker": "003220.KS",
-      "price": 7750,
-      "change": "-2.6%",
-      "change_pct": -2.64,
+      "price": 7710,
+      "change": "-3.1%",
+      "change_pct": -3.14,
       "up": false
     },
     "003720.KS": {
       "ticker": "003720.KS",
-      "price": 7210,
-      "change": "-0.1%",
-      "change_pct": -0.14,
+      "price": 7100,
+      "change": "-1.7%",
+      "change_pct": -1.66,
       "up": false
     },
     "004980.KS": {
       "ticker": "004980.KS",
-      "price": 8210,
-      "change": "-1.4%",
-      "change_pct": -1.44,
+      "price": 8200,
+      "change": "-1.6%",
+      "change_pct": -1.56,
       "up": false
     },
     "005500.KS": {
       "ticker": "005500.KS",
-      "price": 18070,
-      "change": "-2.0%",
-      "change_pct": -2.01,
+      "price": 17990,
+      "change": "-2.4%",
+      "change_pct": -2.44,
       "up": false
     },
     "005960.KS": {
       "ticker": "005960.KS",
-      "price": 8110,
-      "change": "-2.1%",
-      "change_pct": -2.05,
+      "price": 8190,
+      "change": "-1.1%",
+      "change_pct": -1.09,
       "up": false
     },
     "007570.KS": {
       "ticker": "007570.KS",
-      "price": 8400,
-      "change": "-3.3%",
-      "change_pct": -3.34,
-      "up": false
-    },
-    "007860.KS": {
-      "ticker": "007860.KS",
-      "price": 8370,
-      "change": "-1.2%",
-      "change_pct": -1.18,
-      "up": false
-    },
-    "008490.KS": {
-      "ticker": "008490.KS",
-      "price": 23900,
-      "change": "-3.8%",
-      "change_pct": -3.82,
-      "up": false
-    },
-    "011690.KS": {
-      "ticker": "011690.KS",
-      "price": 3635,
-      "change": "-3.6%",
-      "change_pct": -3.58,
-      "up": false
-    },
-    "013890.KS": {
-      "ticker": "013890.KS",
-      "price": 7770,
-      "change": "-3.6%",
-      "change_pct": -3.6,
-      "up": false
-    },
-    "016880.KS": {
-      "ticker": "016880.KS",
-      "price": 2215,
-      "change": "+1.8%",
-      "change_pct": 1.84,
-      "up": true
-    },
-    "028100.KS": {
-      "ticker": "028100.KS",
-      "price": 17150,
+      "price": 8410,
       "change": "-3.2%",
       "change_pct": -3.22,
       "up": false
     },
+    "007860.KS": {
+      "ticker": "007860.KS",
+      "price": 8300,
+      "change": "-2.0%",
+      "change_pct": -2.01,
+      "up": false
+    },
+    "008490.KS": {
+      "ticker": "008490.KS",
+      "price": 23750,
+      "change": "-4.4%",
+      "change_pct": -4.43,
+      "up": false
+    },
+    "011690.KS": {
+      "ticker": "011690.KS",
+      "price": 3595,
+      "change": "-4.6%",
+      "change_pct": -4.64,
+      "up": false
+    },
+    "013890.KS": {
+      "ticker": "013890.KS",
+      "price": 7740,
+      "change": "-4.0%",
+      "change_pct": -3.97,
+      "up": false
+    },
+    "016880.KS": {
+      "ticker": "016880.KS",
+      "price": 2210,
+      "change": "+1.6%",
+      "change_pct": 1.61,
+      "up": true
+    },
+    "028100.KS": {
+      "ticker": "028100.KS",
+      "price": 17110,
+      "change": "-3.4%",
+      "change_pct": -3.44,
+      "up": false
+    },
     "044450.KS": {
       "ticker": "044450.KS",
-      "price": 10180,
-      "change": "-1.7%",
-      "change_pct": -1.74,
+      "price": 10170,
+      "change": "-1.8%",
+      "change_pct": -1.83,
       "up": false
     },
     "053210.KS": {
       "ticker": "053210.KS",
-      "price": 4075,
-      "change": "-2.6%",
-      "change_pct": -2.63,
+      "price": 4090,
+      "change": "-2.3%",
+      "change_pct": -2.27,
       "up": false
     },
     "122900.KS": {
       "ticker": "122900.KS",
-      "price": 7980,
-      "change": "+0.1%",
-      "change_pct": 0.13,
+      "price": 7970,
+      "change": "+0.0%",
+      "change_pct": 0,
       "up": true
     },
     "134380.KS": {
       "ticker": "134380.KS",
-      "price": 11090,
-      "change": "+2.0%",
-      "change_pct": 2.02,
+      "price": 11100,
+      "change": "+2.1%",
+      "change_pct": 2.12,
       "up": true
     },
     "210980.KS": {
@@ -3502,38 +3502,38 @@
     },
     "000140.KS": {
       "ticker": "000140.KS",
-      "price": 8140,
-      "change": "-3.6%",
-      "change_pct": -3.55,
+      "price": 8200,
+      "change": "-2.8%",
+      "change_pct": -2.84,
       "up": false
     },
     "000480.KS": {
       "ticker": "000480.KS",
-      "price": 4625,
-      "change": "-1.5%",
-      "change_pct": -1.49,
+      "price": 4630,
+      "change": "-1.4%",
+      "change_pct": -1.38,
       "up": false
     },
     "000520.KS": {
       "ticker": "000520.KS",
-      "price": 6460,
-      "change": "-4.4%",
-      "change_pct": -4.44,
+      "price": 6440,
+      "change": "-4.7%",
+      "change_pct": -4.73,
       "up": false
     },
     "001250.KS": {
       "ticker": "001250.KS",
-      "price": 2715,
-      "change": "-2.2%",
-      "change_pct": -2.16,
+      "price": 2705,
+      "change": "-2.5%",
+      "change_pct": -2.52,
       "up": false
     },
     "002150.KS": {
       "ticker": "002150.KS",
-      "price": 5270,
-      "change": "+0.4%",
-      "change_pct": 0.38,
-      "up": true
+      "price": 5240,
+      "change": "-0.2%",
+      "change_pct": -0.19,
+      "up": false
     },
     "003460.KS": {
       "ticker": "003460.KS",
@@ -3551,93 +3551,93 @@
     },
     "003610.KS": {
       "ticker": "003610.KS",
-      "price": 5490,
-      "change": "-1.3%",
-      "change_pct": -1.26,
+      "price": 5500,
+      "change": "-1.1%",
+      "change_pct": -1.08,
       "up": false
     },
     "004090.KS": {
       "ticker": "004090.KS",
-      "price": 11200,
-      "change": "+2.5%",
-      "change_pct": 2.47,
+      "price": 11140,
+      "change": "+1.9%",
+      "change_pct": 1.92,
       "up": true
     },
     "010580.KS": {
       "ticker": "010580.KS",
-      "price": 1540,
-      "change": "-2.6%",
-      "change_pct": -2.59,
+      "price": 1556,
+      "change": "-1.6%",
+      "change_pct": -1.58,
       "up": false
     },
     "010955.KS": {
       "ticker": "010955.KS",
-      "price": 70200,
-      "change": "+0.3%",
-      "change_pct": 0.29,
+      "price": 70300,
+      "change": "+0.4%",
+      "change_pct": 0.43,
       "up": true
     },
     "025000.KS": {
       "ticker": "025000.KS",
-      "price": 53900,
-      "change": "+6.7%",
-      "change_pct": 6.73,
+      "price": 54100,
+      "change": "+7.1%",
+      "change_pct": 7.13,
       "up": true
     },
     "033530.KS": {
       "ticker": "033530.KS",
-      "price": 7240,
-      "change": "+2.0%",
-      "change_pct": 1.97,
+      "price": 7190,
+      "change": "+1.3%",
+      "change_pct": 1.27,
       "up": true
     },
     "039570.KS": {
       "ticker": "039570.KS",
-      "price": 7520,
-      "change": "-3.6%",
-      "change_pct": -3.59,
+      "price": 7570,
+      "change": "-2.9%",
+      "change_pct": -2.95,
       "up": false
     },
     "051905.KS": {
       "ticker": "051905.KS",
-      "price": 107100,
-      "change": "-3.1%",
-      "change_pct": -3.08,
+      "price": 106800,
+      "change": "-3.3%",
+      "change_pct": -3.35,
       "up": false
     },
     "084680.KS": {
       "ticker": "084680.KS",
-      "price": 519,
-      "change": "-2.1%",
-      "change_pct": -2.08,
+      "price": 515,
+      "change": "-2.8%",
+      "change_pct": -2.83,
       "up": false
     },
     "095570.KS": {
       "ticker": "095570.KS",
-      "price": 4495,
-      "change": "-0.6%",
-      "change_pct": -0.55,
+      "price": 4480,
+      "change": "-0.9%",
+      "change_pct": -0.88,
       "up": false
     },
     "226320.KS": {
       "ticker": "226320.KS",
-      "price": 10700,
-      "change": "-2.2%",
-      "change_pct": -2.19,
+      "price": 10760,
+      "change": "-1.6%",
+      "change_pct": -1.65,
       "up": false
     },
     "298690.KS": {
       "ticker": "298690.KS",
-      "price": 1461,
-      "change": "-1.7%",
-      "change_pct": -1.75,
+      "price": 1455,
+      "change": "-2.2%",
+      "change_pct": -2.15,
       "up": false
     },
     "487570.KS": {
       "ticker": "487570.KS",
-      "price": 46100,
-      "change": "-3.8%",
-      "change_pct": -3.76,
+      "price": 45900,
+      "change": "-4.2%",
+      "change_pct": -4.18,
       "up": false
     },
     "000860.KS": {
@@ -3656,93 +3656,93 @@
     },
     "001080.KS": {
       "ticker": "001080.KS",
-      "price": 4035,
-      "change": "-4.9%",
-      "change_pct": -4.95,
+      "price": 3995,
+      "change": "-5.9%",
+      "change_pct": -5.89,
       "up": false
     },
     "001520.KS": {
       "ticker": "001520.KS",
-      "price": 1139,
-      "change": "-1.7%",
-      "change_pct": -1.73,
+      "price": 1133,
+      "change": "-2.2%",
+      "change_pct": -2.24,
       "up": false
     },
     "001780.KS": {
       "ticker": "001780.KS",
-      "price": 1844,
-      "change": "-2.4%",
-      "change_pct": -2.43,
+      "price": 1842,
+      "change": "-2.5%",
+      "change_pct": -2.54,
       "up": false
     },
     "002990.KS": {
       "ticker": "002990.KS",
-      "price": 13460,
-      "change": "+0.4%",
-      "change_pct": 0.45,
+      "price": 13410,
+      "change": "+0.1%",
+      "change_pct": 0.07,
       "up": true
     },
     "003350.KS": {
       "ticker": "003350.KS",
-      "price": 10950,
-      "change": "-4.9%",
-      "change_pct": -4.95,
+      "price": 10920,
+      "change": "-5.2%",
+      "change_pct": -5.21,
       "up": false
     },
     "003650.KS": {
       "ticker": "003650.KS",
-      "price": 152900,
-      "change": "+3.7%",
-      "change_pct": 3.73,
+      "price": 153500,
+      "change": "+4.1%",
+      "change_pct": 4.14,
       "up": true
     },
     "004380.KS": {
       "ticker": "004380.KS",
-      "price": 8930,
-      "change": "-0.7%",
-      "change_pct": -0.67,
+      "price": 8910,
+      "change": "-0.9%",
+      "change_pct": -0.89,
       "up": false
     },
     "004430.KS": {
       "ticker": "004430.KS",
-      "price": 12040,
-      "change": "+1.9%",
-      "change_pct": 1.86,
+      "price": 12010,
+      "change": "+1.6%",
+      "change_pct": 1.61,
       "up": true
     },
     "004960.KS": {
       "ticker": "004960.KS",
-      "price": 11060,
-      "change": "-5.4%",
-      "change_pct": -5.39,
+      "price": 11040,
+      "change": "-5.6%",
+      "change_pct": -5.56,
       "up": false
     },
     "005950.KS": {
       "ticker": "005950.KS",
-      "price": 13890,
-      "change": "-11.2%",
-      "change_pct": -11.25,
+      "price": 13870,
+      "change": "-11.4%",
+      "change_pct": -11.37,
       "up": false
     },
     "009070.KS": {
       "ticker": "009070.KS",
-      "price": 4105,
-      "change": "+0.7%",
-      "change_pct": 0.74,
+      "price": 4080,
+      "change": "+0.1%",
+      "change_pct": 0.12,
       "up": true
     },
     "016450.KS": {
       "ticker": "016450.KS",
-      "price": 4420,
-      "change": "+0.5%",
-      "change_pct": 0.45,
+      "price": 4435,
+      "change": "+0.8%",
+      "change_pct": 0.8,
       "up": true
     },
     "081000.KS": {
       "ticker": "081000.KS",
-      "price": 10040,
-      "change": "-0.1%",
-      "change_pct": -0.1,
+      "price": 10000,
+      "change": "-0.5%",
+      "change_pct": -0.5,
       "up": false
     },
     "102260.KS": {
@@ -3754,86 +3754,86 @@
     },
     "213500.KS": {
       "ticker": "213500.KS",
-      "price": 7720,
-      "change": "-1.4%",
-      "change_pct": -1.4,
+      "price": 7700,
+      "change": "-1.7%",
+      "change_pct": -1.66,
       "up": false
     },
     "234080.KS": {
       "ticker": "234080.KS",
-      "price": 11320,
-      "change": "-2.2%",
-      "change_pct": -2.16,
+      "price": 11330,
+      "change": "-2.1%",
+      "change_pct": -2.07,
       "up": false
     },
     "271980.KS": {
       "ticker": "271980.KS",
-      "price": 9910,
-      "change": "-1.6%",
-      "change_pct": -1.59,
+      "price": 9890,
+      "change": "-1.8%",
+      "change_pct": -1.79,
       "up": false
     },
     "339770.KS": {
       "ticker": "339770.KS",
-      "price": 3830,
-      "change": "-1.2%",
-      "change_pct": -1.16,
+      "price": 3825,
+      "change": "-1.3%",
+      "change_pct": -1.29,
       "up": false
     },
     "000700.KS": {
       "ticker": "000700.KS",
-      "price": 6520,
-      "change": "+4.3%",
-      "change_pct": 4.32,
+      "price": 6450,
+      "change": "+3.2%",
+      "change_pct": 3.2,
       "up": true
     },
     "001360.KS": {
       "ticker": "001360.KS",
-      "price": 1287,
-      "change": "-1.5%",
-      "change_pct": -1.45,
+      "price": 1278,
+      "change": "-2.1%",
+      "change_pct": -2.14,
       "up": false
     },
     "002100.KS": {
       "ticker": "002100.KS",
-      "price": 9420,
-      "change": "+1.6%",
-      "change_pct": 1.62,
+      "price": 9370,
+      "change": "+1.1%",
+      "change_pct": 1.08,
       "up": true
     },
     "003830.KS": {
       "ticker": "003830.KS",
-      "price": 115900,
-      "change": "-1.7%",
-      "change_pct": -1.7,
-      "up": false
+      "price": 118500,
+      "change": "+0.5%",
+      "change_pct": 0.51,
+      "up": true
     },
     "005430.KS": {
       "ticker": "005430.KS",
-      "price": 84400,
-      "change": "-2.1%",
-      "change_pct": -2.09,
+      "price": 85400,
+      "change": "-0.9%",
+      "change_pct": -0.93,
       "up": false
     },
     "006060.KS": {
       "ticker": "006060.KS",
-      "price": 2435,
-      "change": "-3.2%",
-      "change_pct": -3.18,
+      "price": 2425,
+      "change": "-3.6%",
+      "change_pct": -3.58,
       "up": false
     },
     "008350.KS": {
       "ticker": "008350.KS",
-      "price": 1023,
-      "change": "-0.6%",
-      "change_pct": -0.58,
+      "price": 1015,
+      "change": "-1.4%",
+      "change_pct": -1.36,
       "up": false
     },
     "008970.KS": {
       "ticker": "008970.KS",
-      "price": 1117,
-      "change": "-0.9%",
-      "change_pct": -0.89,
+      "price": 1116,
+      "change": "-1.0%",
+      "change_pct": -0.98,
       "up": false
     },
     "011785.KS": {
@@ -3845,23 +3845,23 @@
     },
     "012200.KS": {
       "ticker": "012200.KS",
-      "price": 4585,
-      "change": "+5.8%",
-      "change_pct": 5.77,
+      "price": 4605,
+      "change": "+6.2%",
+      "change_pct": 6.23,
       "up": true
     },
     "015230.KS": {
       "ticker": "015230.KS",
-      "price": 6320,
-      "change": "+1.9%",
-      "change_pct": 1.94,
+      "price": 6300,
+      "change": "+1.6%",
+      "change_pct": 1.61,
       "up": true
     },
     "016580.KS": {
       "ticker": "016580.KS",
-      "price": 10085,
-      "change": "-0.5%",
-      "change_pct": -0.54,
+      "price": 10040,
+      "change": "-1.0%",
+      "change_pct": -0.99,
       "up": false
     },
     "031440.KS": {
@@ -3873,16 +3873,16 @@
     },
     "037560.KS": {
       "ticker": "037560.KS",
-      "price": 1680,
-      "change": "-2.2%",
-      "change_pct": -2.21,
+      "price": 1675,
+      "change": "-2.5%",
+      "change_pct": -2.5,
       "up": false
     },
     "071840.KS": {
       "ticker": "071840.KS",
-      "price": 6460,
-      "change": "-0.8%",
-      "change_pct": -0.77,
+      "price": 6430,
+      "change": "-1.2%",
+      "change_pct": -1.23,
       "up": false
     },
     "101530.KS": {
@@ -3894,37 +3894,37 @@
     },
     "102460.KS": {
       "ticker": "102460.KS",
-      "price": 9990,
-      "change": "-1.2%",
-      "change_pct": -1.19,
+      "price": 10020,
+      "change": "-0.9%",
+      "change_pct": -0.89,
       "up": false
     },
     "272550.KS": {
       "ticker": "272550.KS",
-      "price": 9890,
-      "change": "-1.6%",
-      "change_pct": -1.59,
+      "price": 9900,
+      "change": "-1.5%",
+      "change_pct": -1.49,
       "up": false
     },
     "400760.KS": {
       "ticker": "400760.KS",
-      "price": 2917,
-      "change": "-1.0%",
-      "change_pct": -0.95,
+      "price": 2900,
+      "change": "-1.5%",
+      "change_pct": -1.53,
       "up": false
     },
     "460850.KS": {
       "ticker": "460850.KS",
-      "price": 5210,
-      "change": "-3.3%",
-      "change_pct": -3.34,
+      "price": 5220,
+      "change": "-3.2%",
+      "change_pct": -3.15,
       "up": false
     },
     "000020.KS": {
       "ticker": "000020.KS",
-      "price": 5210,
-      "change": "-1.9%",
-      "change_pct": -1.88,
+      "price": 5200,
+      "change": "-2.1%",
+      "change_pct": -2.07,
       "up": false
     },
     "000300.KS": {
@@ -3950,45 +3950,45 @@
     },
     "00279K.KS": {
       "ticker": "00279K.KS",
-      "price": 21050,
-      "change": "-3.4%",
-      "change_pct": -3.44,
+      "price": 20950,
+      "change": "-3.9%",
+      "change_pct": -3.9,
       "up": false
     },
     "011700.KS": {
       "ticker": "011700.KS",
-      "price": 2500,
-      "change": "-4.0%",
-      "change_pct": -4.03,
+      "price": 2505,
+      "change": "-3.8%",
+      "change_pct": -3.84,
       "up": false
     },
     "012610.KS": {
       "ticker": "012610.KS",
-      "price": 3360,
-      "change": "-0.7%",
-      "change_pct": -0.74,
+      "price": 3325,
+      "change": "-1.8%",
+      "change_pct": -1.77,
       "up": false
     },
     "021820.KS": {
       "ticker": "021820.KS",
-      "price": 10330,
-      "change": "-2.7%",
-      "change_pct": -2.73,
+      "price": 10280,
+      "change": "-3.2%",
+      "change_pct": -3.2,
       "up": false
     },
     "025620.KS": {
       "ticker": "025620.KS",
-      "price": 4840,
-      "change": "-4.7%",
-      "change_pct": -4.72,
+      "price": 4790,
+      "change": "-5.7%",
+      "change_pct": -5.71,
       "up": false
     },
     "025820.KS": {
       "ticker": "025820.KS",
-      "price": 4560,
-      "change": "+0.2%",
-      "change_pct": 0.22,
-      "up": true
+      "price": 4530,
+      "change": "-0.4%",
+      "change_pct": -0.44,
+      "up": false
     },
     "078000.KS": {
       "ticker": "078000.KS",
@@ -3999,51 +3999,51 @@
     },
     "089470.KS": {
       "ticker": "089470.KS",
-      "price": 3980,
-      "change": "-1.5%",
-      "change_pct": -1.49,
+      "price": 3975,
+      "change": "-1.6%",
+      "change_pct": -1.61,
       "up": false
     },
     "090350.KS": {
       "ticker": "090350.KS",
-      "price": 8150,
-      "change": "+3.8%",
-      "change_pct": 3.82,
+      "price": 8090,
+      "change": "+3.1%",
+      "change_pct": 3.06,
       "up": true
     },
     "097955.KS": {
       "ticker": "097955.KS",
-      "price": 124700,
-      "change": "-0.9%",
-      "change_pct": -0.87,
+      "price": 124900,
+      "change": "-0.7%",
+      "change_pct": -0.72,
       "up": false
     },
     "100250.KS": {
       "ticker": "100250.KS",
-      "price": 3140,
-      "change": "-1.4%",
-      "change_pct": -1.41,
+      "price": 3145,
+      "change": "-1.3%",
+      "change_pct": -1.26,
       "up": false
     },
     "214390.KS": {
       "ticker": "214390.KS",
-      "price": 5140,
-      "change": "-2.1%",
-      "change_pct": -2.1,
+      "price": 5100,
+      "change": "-2.9%",
+      "change_pct": -2.86,
       "up": false
     },
     "214420.KS": {
       "ticker": "214420.KS",
-      "price": 5390,
-      "change": "-8.0%",
-      "change_pct": -8.02,
+      "price": 5400,
+      "change": "-7.8%",
+      "change_pct": -7.85,
       "up": false
     },
     "293480.KS": {
       "ticker": "293480.KS",
-      "price": 8720,
-      "change": "-2.9%",
-      "change_pct": -2.9,
+      "price": 8710,
+      "change": "-3.0%",
+      "change_pct": -3.01,
       "up": false
     },
     "317400.KS": {
@@ -4062,51 +4062,51 @@
     },
     "000970.KS": {
       "ticker": "000970.KS",
-      "price": 6700,
-      "change": "-0.9%",
-      "change_pct": -0.89,
+      "price": 6710,
+      "change": "-0.7%",
+      "change_pct": -0.74,
       "up": false
     },
     "001290.KS": {
       "ticker": "001290.KS",
-      "price": 990,
-      "change": "-3.2%",
-      "change_pct": -3.23,
+      "price": 977,
+      "change": "-4.5%",
+      "change_pct": -4.5,
       "up": false
     },
     "002390.KS": {
       "ticker": "002390.KS",
-      "price": 9320,
-      "change": "-2.9%",
-      "change_pct": -2.92,
+      "price": 9290,
+      "change": "-3.2%",
+      "change_pct": -3.23,
       "up": false
     },
     "003480.KS": {
       "ticker": "003480.KS",
-      "price": 4805,
-      "change": "-1.1%",
-      "change_pct": -1.13,
+      "price": 4815,
+      "change": "-0.9%",
+      "change_pct": -0.93,
       "up": false
     },
     "004710.KS": {
       "ticker": "004710.KS",
-      "price": 7800,
-      "change": "-1.6%",
-      "change_pct": -1.64,
+      "price": 7850,
+      "change": "-1.0%",
+      "change_pct": -1.01,
       "up": false
     },
     "004970.KS": {
       "ticker": "004970.KS",
-      "price": 9120,
-      "change": "-3.6%",
-      "change_pct": -3.59,
+      "price": 9140,
+      "change": "-3.4%",
+      "change_pct": -3.38,
       "up": false
     },
     "005800.KS": {
       "ticker": "005800.KS",
-      "price": 13320,
-      "change": "-1.8%",
-      "change_pct": -1.84,
+      "price": 13300,
+      "change": "-2.0%",
+      "change_pct": -1.99,
       "up": false
     },
     "007540.KS": {
@@ -4132,44 +4132,44 @@
     },
     "009270.KS": {
       "ticker": "009270.KS",
-      "price": 1197,
-      "change": "+11.9%",
-      "change_pct": 11.87,
+      "price": 1226,
+      "change": "+14.6%",
+      "change_pct": 14.58,
       "up": true
     },
     "009580.KS": {
       "ticker": "009580.KS",
-      "price": 1686,
-      "change": "-2.0%",
-      "change_pct": -1.98,
+      "price": 1684,
+      "change": "-2.1%",
+      "change_pct": -2.09,
       "up": false
     },
     "014280.KS": {
       "ticker": "014280.KS",
-      "price": 4545,
-      "change": "+1.5%",
-      "change_pct": 1.45,
+      "price": 4505,
+      "change": "+0.6%",
+      "change_pct": 0.56,
       "up": true
     },
     "018470.KS": {
       "ticker": "018470.KS",
-      "price": 1038,
-      "change": "-1.0%",
-      "change_pct": -1.05,
+      "price": 1030,
+      "change": "-1.8%",
+      "change_pct": -1.81,
       "up": false
     },
     "019180.KS": {
       "ticker": "019180.KS",
-      "price": 5720,
-      "change": "-12.3%",
-      "change_pct": -12.27,
+      "price": 5730,
+      "change": "-12.1%",
+      "change_pct": -12.12,
       "up": false
     },
     "044820.KS": {
       "ticker": "044820.KS",
-      "price": 23450,
-      "change": "-13.8%",
-      "change_pct": -13.79,
+      "price": 23200,
+      "change": "-14.7%",
+      "change_pct": -14.71,
       "up": false
     },
     "079430.KS": {
@@ -4181,44 +4181,44 @@
     },
     "107590.KS": {
       "ticker": "107590.KS",
-      "price": 56800,
-      "change": "+1.4%",
-      "change_pct": 1.43,
+      "price": 56900,
+      "change": "+1.6%",
+      "change_pct": 1.61,
       "up": true
     },
     "210540.KS": {
       "ticker": "210540.KS",
-      "price": 11910,
-      "change": "-0.8%",
-      "change_pct": -0.75,
+      "price": 11860,
+      "change": "-1.2%",
+      "change_pct": -1.17,
       "up": false
     },
     "363280.KS": {
       "ticker": "363280.KS",
-      "price": 1921,
-      "change": "-0.2%",
-      "change_pct": -0.21,
+      "price": 1910,
+      "change": "-0.8%",
+      "change_pct": -0.78,
       "up": false
     },
     "002620.KS": {
       "ticker": "002620.KS",
-      "price": 7390,
-      "change": "-3.3%",
-      "change_pct": -3.27,
+      "price": 7370,
+      "change": "-3.5%",
+      "change_pct": -3.53,
       "up": false
     },
     "004140.KS": {
       "ticker": "004140.KS",
-      "price": 1877,
-      "change": "-0.7%",
-      "change_pct": -0.74,
+      "price": 1875,
+      "change": "-0.8%",
+      "change_pct": -0.85,
       "up": false
     },
     "004150.KS": {
       "ticker": "004150.KS",
-      "price": 3370,
-      "change": "-3.2%",
-      "change_pct": -3.16,
+      "price": 3360,
+      "change": "-3.4%",
+      "change_pct": -3.45,
       "up": false
     },
     "004250.KS": {
@@ -4230,44 +4230,44 @@
     },
     "010100.KS": {
       "ticker": "010100.KS",
-      "price": 3695,
-      "change": "-4.4%",
-      "change_pct": -4.4,
+      "price": 3680,
+      "change": "-4.8%",
+      "change_pct": -4.79,
       "up": false
     },
     "012320.KS": {
       "ticker": "012320.KS",
-      "price": 48300,
-      "change": "-1.7%",
-      "change_pct": -1.73,
+      "price": 48100,
+      "change": "-2.1%",
+      "change_pct": -2.14,
       "up": false
     },
     "013520.KS": {
       "ticker": "013520.KS",
-      "price": 2625,
-      "change": "-3.5%",
-      "change_pct": -3.49,
+      "price": 2630,
+      "change": "-3.3%",
+      "change_pct": -3.31,
       "up": false
     },
     "013570.KS": {
       "ticker": "013570.KS",
-      "price": 4460,
-      "change": "-1.1%",
-      "change_pct": -1.11,
+      "price": 4445,
+      "change": "-1.4%",
+      "change_pct": -1.44,
       "up": false
     },
     "015890.KS": {
       "ticker": "015890.KS",
-      "price": 4840,
-      "change": "-0.8%",
-      "change_pct": -0.82,
+      "price": 4830,
+      "change": "-1.0%",
+      "change_pct": -1.02,
       "up": false
     },
     "016710.KS": {
       "ticker": "016710.KS",
-      "price": 6920,
-      "change": "-2.1%",
-      "change_pct": -2.12,
+      "price": 6960,
+      "change": "-1.6%",
+      "change_pct": -1.56,
       "up": false
     },
     "019680.KS": {
@@ -4279,44 +4279,44 @@
     },
     "024090.KS": {
       "ticker": "024090.KS",
-      "price": 11510,
-      "change": "+0.4%",
-      "change_pct": 0.44,
-      "up": true
+      "price": 11430,
+      "change": "-0.3%",
+      "change_pct": -0.26,
+      "up": false
     },
     "027970.KS": {
       "ticker": "027970.KS",
-      "price": 2750,
-      "change": "+0.0%",
-      "change_pct": 0,
-      "up": true
+      "price": 2715,
+      "change": "-1.3%",
+      "change_pct": -1.27,
+      "up": false
     },
     "03473K.KS": {
       "ticker": "03473K.KS",
-      "price": 374000,
-      "change": "+2.3%",
-      "change_pct": 2.33,
+      "price": 380500,
+      "change": "+4.1%",
+      "change_pct": 4.1,
       "up": true
     },
     "035000.KS": {
       "ticker": "035000.KS",
-      "price": 6810,
-      "change": "-1.7%",
-      "change_pct": -1.73,
+      "price": 6790,
+      "change": "-2.0%",
+      "change_pct": -2.02,
       "up": false
     },
     "070960.KS": {
       "ticker": "070960.KS",
-      "price": 2350,
-      "change": "+7.1%",
-      "change_pct": 7.06,
+      "price": 2355,
+      "change": "+7.3%",
+      "change_pct": 7.29,
       "up": true
     },
     "077500.KS": {
       "ticker": "077500.KS",
-      "price": 7710,
-      "change": "+13.4%",
-      "change_pct": 13.38,
+      "price": 7600,
+      "change": "+11.8%",
+      "change_pct": 11.76,
       "up": true
     },
     "094280.KS": {
@@ -4328,23 +4328,23 @@
     },
     "095720.KS": {
       "ticker": "095720.KS",
-      "price": 1231,
-      "change": "-2.8%",
-      "change_pct": -2.76,
+      "price": 1264,
+      "change": "-0.2%",
+      "change_pct": -0.16,
       "up": false
     },
     "298000.KS": {
       "ticker": "298000.KS",
-      "price": 74700,
-      "change": "-2.1%",
-      "change_pct": -2.1,
+      "price": 73500,
+      "change": "-3.7%",
+      "change_pct": -3.67,
       "up": false
     },
     "002460.KS": {
       "ticker": "002460.KS",
-      "price": 11050,
-      "change": "-6.2%",
-      "change_pct": -6.2,
+      "price": 11080,
+      "change": "-5.9%",
+      "change_pct": -5.94,
       "up": false
     },
     "004080.KS": {
@@ -4356,114 +4356,114 @@
     },
     "007210.KS": {
       "ticker": "007210.KS",
-      "price": 1489,
-      "change": "-1.1%",
-      "change_pct": -1.13,
+      "price": 1476,
+      "change": "-2.0%",
+      "change_pct": -1.99,
       "up": false
     },
     "008700.KS": {
       "ticker": "008700.KS",
-      "price": 1239,
-      "change": "+0.8%",
-      "change_pct": 0.81,
+      "price": 1237,
+      "change": "+0.7%",
+      "change_pct": 0.65,
       "up": true
     },
     "010660.KS": {
       "ticker": "010660.KS",
-      "price": 2815,
-      "change": "-4.7%",
-      "change_pct": -4.74,
+      "price": 2820,
+      "change": "-4.6%",
+      "change_pct": -4.57,
       "up": false
     },
     "011280.KS": {
       "ticker": "011280.KS",
-      "price": 1695,
-      "change": "-1.9%",
-      "change_pct": -1.91,
+      "price": 1693,
+      "change": "-2.0%",
+      "change_pct": -2.03,
       "up": false
     },
     "014530.KS": {
       "ticker": "014530.KS",
-      "price": 3270,
-      "change": "+0.3%",
-      "change_pct": 0.31,
+      "price": 3290,
+      "change": "+0.9%",
+      "change_pct": 0.92,
       "up": true
     },
     "014710.KS": {
       "ticker": "014710.KS",
-      "price": 9530,
-      "change": "-2.6%",
-      "change_pct": -2.56,
+      "price": 9620,
+      "change": "-1.6%",
+      "change_pct": -1.64,
       "up": false
     },
     "014790.KS": {
       "ticker": "014790.KS",
-      "price": 2490,
-      "change": "-3.3%",
-      "change_pct": -3.3,
+      "price": 2480,
+      "change": "-3.7%",
+      "change_pct": -3.69,
       "up": false
     },
     "016740.KS": {
       "ticker": "016740.KS",
-      "price": 3310,
-      "change": "-2.6%",
-      "change_pct": -2.65,
+      "price": 3300,
+      "change": "-2.9%",
+      "change_pct": -2.94,
       "up": false
     },
     "036420.KS": {
       "ticker": "036420.KS",
-      "price": 1527,
-      "change": "-6.5%",
-      "change_pct": -6.55,
+      "price": 1515,
+      "change": "-7.3%",
+      "change_pct": -7.28,
       "up": false
     },
     "036580.KS": {
       "ticker": "036580.KS",
-      "price": 2600,
-      "change": "-5.5%",
-      "change_pct": -5.45,
+      "price": 2585,
+      "change": "-6.0%",
+      "change_pct": -6,
       "up": false
     },
     "067830.KS": {
       "ticker": "067830.KS",
-      "price": 2480,
-      "change": "-0.6%",
-      "change_pct": -0.6,
+      "price": 2460,
+      "change": "-1.4%",
+      "change_pct": -1.4,
       "up": false
     },
     "083420.KS": {
       "ticker": "083420.KS",
-      "price": 4950,
-      "change": "+3.6%",
-      "change_pct": 3.56,
+      "price": 4915,
+      "change": "+2.8%",
+      "change_pct": 2.82,
       "up": true
     },
     "084670.KS": {
       "ticker": "084670.KS",
-      "price": 25400,
-      "change": "-3.8%",
-      "change_pct": -3.79,
+      "price": 25350,
+      "change": "-4.0%",
+      "change_pct": -3.98,
       "up": false
     },
     "120030.KS": {
       "ticker": "120030.KS",
-      "price": 84100,
-      "change": "-0.8%",
-      "change_pct": -0.83,
+      "price": 84000,
+      "change": "-0.9%",
+      "change_pct": -0.94,
       "up": false
     },
     "123690.KS": {
       "ticker": "123690.KS",
-      "price": 6370,
-      "change": "-4.4%",
-      "change_pct": -4.35,
+      "price": 6360,
+      "change": "-4.5%",
+      "change_pct": -4.5,
       "up": false
     },
     "248170.KS": {
       "ticker": "248170.KS",
-      "price": 23750,
-      "change": "-1.2%",
-      "change_pct": -1.25,
+      "price": 23550,
+      "change": "-2.1%",
+      "change_pct": -2.08,
       "up": false
     },
     "267290.KS": {
@@ -4475,23 +4475,23 @@
     },
     "350520.KS": {
       "ticker": "350520.KS",
-      "price": 3440,
-      "change": "-0.3%",
-      "change_pct": -0.29,
+      "price": 3425,
+      "change": "-0.7%",
+      "change_pct": -0.72,
       "up": false
     },
     "000230.KS": {
       "ticker": "000230.KS",
-      "price": 6320,
-      "change": "-3.1%",
-      "change_pct": -3.07,
+      "price": 6290,
+      "change": "-3.5%",
+      "change_pct": -3.53,
       "up": false
     },
     "001020.KS": {
       "ticker": "001020.KS",
-      "price": 2155,
-      "change": "+9.8%",
-      "change_pct": 9.78,
+      "price": 2145,
+      "change": "+9.3%",
+      "change_pct": 9.27,
       "up": true
     },
     "001275.KS": {
@@ -4510,23 +4510,23 @@
     },
     "004100.KS": {
       "ticker": "004100.KS",
-      "price": 2355,
-      "change": "-1.9%",
-      "change_pct": -1.87,
+      "price": 2345,
+      "change": "-2.3%",
+      "change_pct": -2.29,
       "up": false
     },
     "004840.KS": {
       "ticker": "004840.KS",
-      "price": 4375,
-      "change": "-2.5%",
-      "change_pct": -2.45,
+      "price": 4370,
+      "change": "-2.6%",
+      "change_pct": -2.56,
       "up": false
     },
     "005870.KS": {
       "ticker": "005870.KS",
-      "price": 4705,
-      "change": "+2.4%",
-      "change_pct": 2.39,
+      "price": 4730,
+      "change": "+2.9%",
+      "change_pct": 2.94,
       "up": true
     },
     "007110.KS": {
@@ -4538,66 +4538,66 @@
     },
     "007460.KS": {
       "ticker": "007460.KS",
-      "price": 2475,
-      "change": "-3.7%",
-      "change_pct": -3.7,
+      "price": 2465,
+      "change": "-4.1%",
+      "change_pct": -4.09,
       "up": false
     },
     "012800.KS": {
       "ticker": "012800.KS",
-      "price": 1197,
-      "change": "-1.3%",
-      "change_pct": -1.32,
+      "price": 1192,
+      "change": "-1.7%",
+      "change_pct": -1.73,
       "up": false
     },
     "014160.KS": {
       "ticker": "014160.KS",
-      "price": 749,
-      "change": "+6.2%",
-      "change_pct": 6.24,
+      "price": 770,
+      "change": "+9.2%",
+      "change_pct": 9.22,
       "up": true
     },
     "014580.KS": {
       "ticker": "014580.KS",
-      "price": 4100,
-      "change": "-0.6%",
-      "change_pct": -0.61,
+      "price": 4090,
+      "change": "-0.8%",
+      "change_pct": -0.85,
       "up": false
     },
     "015590.KS": {
       "ticker": "015590.KS",
-      "price": 1621,
-      "change": "-0.4%",
-      "change_pct": -0.43,
+      "price": 1619,
+      "change": "-0.6%",
+      "change_pct": -0.55,
       "up": false
     },
     "017550.KS": {
       "ticker": "017550.KS",
-      "price": 1841,
-      "change": "-1.8%",
-      "change_pct": -1.76,
+      "price": 1822,
+      "change": "-2.8%",
+      "change_pct": -2.77,
       "up": false
     },
     "017900.KS": {
       "ticker": "017900.KS",
-      "price": 8270,
-      "change": "-2.9%",
-      "change_pct": -2.93,
+      "price": 8330,
+      "change": "-2.2%",
+      "change_pct": -2.23,
       "up": false
     },
     "020120.KS": {
       "ticker": "020120.KS",
-      "price": 3740,
-      "change": "-2.6%",
-      "change_pct": -2.6,
+      "price": 3735,
+      "change": "-2.7%",
+      "change_pct": -2.73,
       "up": false
     },
     "034590.KS": {
       "ticker": "034590.KS",
-      "price": 26650,
-      "change": "-0.2%",
-      "change_pct": -0.19,
-      "up": false
+      "price": 26700,
+      "change": "+0.0%",
+      "change_pct": 0,
+      "up": true
     },
     "139990.KS": {
       "ticker": "139990.KS",
@@ -4608,16 +4608,16 @@
     },
     "227840.KS": {
       "ticker": "227840.KS",
-      "price": 13380,
-      "change": "-2.2%",
-      "change_pct": -2.19,
+      "price": 13360,
+      "change": "-2.3%",
+      "change_pct": -2.34,
       "up": false
     },
     "267850.KS": {
       "ticker": "267850.KS",
-      "price": 9350,
-      "change": "-2.2%",
-      "change_pct": -2.2,
+      "price": 9340,
+      "change": "-2.3%",
+      "change_pct": -2.3,
       "up": false
     },
     "000105.KS": {
@@ -4629,72 +4629,72 @@
     },
     "000180.KS": {
       "ticker": "000180.KS",
-      "price": 5400,
-      "change": "-0.7%",
-      "change_pct": -0.74,
+      "price": 5370,
+      "change": "-1.3%",
+      "change_pct": -1.29,
       "up": false
     },
     "001560.KS": {
       "ticker": "001560.KS",
-      "price": 9130,
-      "change": "+2.5%",
-      "change_pct": 2.47,
+      "price": 9070,
+      "change": "+1.8%",
+      "change_pct": 1.8,
       "up": true
     },
     "002220.KS": {
       "ticker": "002220.KS",
-      "price": 3290,
-      "change": "-0.9%",
-      "change_pct": -0.9,
+      "price": 3265,
+      "change": "-1.7%",
+      "change_pct": -1.66,
       "up": false
     },
     "002450.KS": {
       "ticker": "002450.KS",
-      "price": 1110,
-      "change": "-1.3%",
-      "change_pct": -1.33,
+      "price": 1107,
+      "change": "-1.6%",
+      "change_pct": -1.6,
       "up": false
     },
     "002720.KS": {
       "ticker": "002720.KS",
-      "price": 3280,
-      "change": "-2.2%",
-      "change_pct": -2.24,
+      "price": 3270,
+      "change": "-2.5%",
+      "change_pct": -2.53,
       "up": false
     },
     "003580.KS": {
       "ticker": "003580.KS",
-      "price": 1647,
-      "change": "-0.8%",
-      "change_pct": -0.78,
+      "price": 1643,
+      "change": "-1.0%",
+      "change_pct": -1.02,
       "up": false
     },
     "004060.KS": {
       "ticker": "004060.KS",
-      "price": 2410,
-      "change": "-2.4%",
-      "change_pct": -2.43,
+      "price": 2400,
+      "change": "-2.8%",
+      "change_pct": -2.83,
       "up": false
     },
     "005740.KS": {
       "ticker": "005740.KS",
-      "price": 5940,
-      "change": "-1.2%",
-      "change_pct": -1.16,
+      "price": 5900,
+      "change": "-1.8%",
+      "change_pct": -1.83,
       "up": false
     },
     "006840.KS": {
       "ticker": "006840.KS",
-      "price": 7150,
-      "change": "-2.9%",
-      "change_pct": -2.85,
+      "price": 7130,
+      "change": "-3.1%",
+      "change_pct": -3.12,
       "up": false
     },
     "008260.KS": {
       "ticker": "008260.KS",
-      "price": 3185,
-      "change": "-1.4%",
-      "change_pct": -1.39,
+      "price": 3180,
+      "change": "-1.5%",
+      "change_pct": -1.55,
       "up": false
     },
     "011810.KS": {
@@ -4706,58 +4706,58 @@
     },
     "013360.KS": {
       "ticker": "013360.KS",
-      "price": 1577,
-      "change": "+2.3%",
-      "change_pct": 2.34,
+      "price": 1566,
+      "change": "+1.6%",
+      "change_pct": 1.62,
       "up": true
     },
     "013870.KS": {
       "ticker": "013870.KS",
-      "price": 3980,
-      "change": "-0.9%",
-      "change_pct": -0.87,
+      "price": 3995,
+      "change": "-0.5%",
+      "change_pct": -0.5,
       "up": false
     },
     "017370.KS": {
       "ticker": "017370.KS",
-      "price": 3790,
-      "change": "-6.0%",
-      "change_pct": -5.96,
+      "price": 3770,
+      "change": "-6.5%",
+      "change_pct": -6.45,
       "up": false
     },
     "023450.KS": {
       "ticker": "023450.KS",
-      "price": 30300,
-      "change": "-0.3%",
-      "change_pct": -0.33,
+      "price": 30350,
+      "change": "-0.2%",
+      "change_pct": -0.16,
       "up": false
     },
     "023800.KS": {
       "ticker": "023800.KS",
-      "price": 5390,
-      "change": "-0.7%",
-      "change_pct": -0.74,
+      "price": 5380,
+      "change": "-0.9%",
+      "change_pct": -0.92,
       "up": false
     },
     "058850.KS": {
       "ticker": "058850.KS",
-      "price": 2240,
-      "change": "-1.3%",
-      "change_pct": -1.32,
+      "price": 2225,
+      "change": "-2.0%",
+      "change_pct": -1.98,
       "up": false
     },
     "063160.KS": {
       "ticker": "063160.KS",
-      "price": 13960,
+      "price": 13970,
       "change": "-1.6%",
-      "change_pct": -1.62,
+      "change_pct": -1.55,
       "up": false
     },
     "264900.KS": {
       "ticker": "264900.KS",
-      "price": 8190,
-      "change": "-1.0%",
-      "change_pct": -0.97,
+      "price": 8170,
+      "change": "-1.2%",
+      "change_pct": -1.21,
       "up": false
     },
     "000590.KS": {
@@ -4769,23 +4769,23 @@
     },
     "002700.KS": {
       "ticker": "002700.KS",
-      "price": 1018,
+      "price": 1015,
+      "change": "-0.3%",
+      "change_pct": -0.29,
+      "up": false
+    },
+    "004890.KS": {
+      "ticker": "004890.KS",
+      "price": 35650,
       "change": "+0.0%",
       "change_pct": 0,
       "up": true
     },
-    "004890.KS": {
-      "ticker": "004890.KS",
-      "price": 35450,
-      "change": "-0.6%",
-      "change_pct": -0.56,
-      "up": false
-    },
     "005750.KS": {
       "ticker": "005750.KS",
-      "price": 4730,
-      "change": "-0.8%",
-      "change_pct": -0.84,
+      "price": 4765,
+      "change": "-0.1%",
+      "change_pct": -0.1,
       "up": false
     },
     "006660.KS": {
@@ -4797,65 +4797,65 @@
     },
     "006890.KS": {
       "ticker": "006890.KS",
-      "price": 5460,
-      "change": "-1.3%",
-      "change_pct": -1.27,
+      "price": 5420,
+      "change": "-2.0%",
+      "change_pct": -1.99,
       "up": false
     },
     "007980.KS": {
       "ticker": "007980.KS",
-      "price": 1906,
-      "change": "+0.1%",
-      "change_pct": 0.11,
-      "up": true
+      "price": 1901,
+      "change": "-0.2%",
+      "change_pct": -0.16,
+      "up": false
     },
     "010960.KS": {
       "ticker": "010960.KS",
-      "price": 3230,
-      "change": "-1.5%",
-      "change_pct": -1.52,
+      "price": 3195,
+      "change": "-2.6%",
+      "change_pct": -2.59,
       "up": false
     },
     "011150.KS": {
       "ticker": "011150.KS",
-      "price": 2020,
-      "change": "-1.2%",
-      "change_pct": -1.22,
+      "price": 2015,
+      "change": "-1.5%",
+      "change_pct": -1.47,
       "up": false
     },
     "023000.KS": {
       "ticker": "023000.KS",
-      "price": 2230,
-      "change": "-0.9%",
-      "change_pct": -0.89,
+      "price": 2220,
+      "change": "-1.3%",
+      "change_pct": -1.33,
       "up": false
     },
     "032560.KS": {
       "ticker": "032560.KS",
-      "price": 5830,
-      "change": "+1.9%",
-      "change_pct": 1.92,
+      "price": 5790,
+      "change": "+1.2%",
+      "change_pct": 1.22,
       "up": true
     },
     "058860.KS": {
       "ticker": "058860.KS",
-      "price": 2555,
-      "change": "+0.0%",
-      "change_pct": 0,
-      "up": true
+      "price": 2535,
+      "change": "-0.8%",
+      "change_pct": -0.78,
+      "up": false
     },
     "078935.KS": {
       "ticker": "078935.KS",
-      "price": 63400,
-      "change": "-0.3%",
-      "change_pct": -0.31,
+      "price": 63000,
+      "change": "-0.9%",
+      "change_pct": -0.94,
       "up": false
     },
     "101140.KS": {
       "ticker": "101140.KS",
-      "price": 5280,
-      "change": "-0.8%",
-      "change_pct": -0.75,
+      "price": 5250,
+      "change": "-1.3%",
+      "change_pct": -1.32,
       "up": false
     },
     "119650.KS": {
@@ -4867,58 +4867,58 @@
     },
     "163560.KS": {
       "ticker": "163560.KS",
-      "price": 6000,
-      "change": "-1.8%",
-      "change_pct": -1.8,
+      "price": 6010,
+      "change": "-1.6%",
+      "change_pct": -1.64,
       "up": false
     },
     "214330.KS": {
       "ticker": "214330.KS",
-      "price": 5600,
-      "change": "-3.6%",
-      "change_pct": -3.61,
+      "price": 5720,
+      "change": "-1.5%",
+      "change_pct": -1.55,
       "up": false
     },
     "33626K.KS": {
       "ticker": "33626K.KS",
-      "price": 5260,
-      "change": "-2.8%",
-      "change_pct": -2.77,
+      "price": 5160,
+      "change": "-4.6%",
+      "change_pct": -4.62,
       "up": false
     },
     "37550L.KS": {
       "ticker": "37550L.KS",
-      "price": 46300,
-      "change": "-5.4%",
-      "change_pct": -5.41,
+      "price": 46200,
+      "change": "-5.6%",
+      "change_pct": -5.62,
       "up": false
     },
     "396690.KS": {
       "ticker": "396690.KS",
-      "price": 1572,
-      "change": "-1.4%",
-      "change_pct": -1.44,
+      "price": 1570,
+      "change": "-1.6%",
+      "change_pct": -1.57,
       "up": false
     },
     "000850.KS": {
       "ticker": "000850.KS",
-      "price": 36600,
-      "change": "+7.2%",
-      "change_pct": 7.17,
+      "price": 37550,
+      "change": "+10.0%",
+      "change_pct": 9.96,
       "up": true
     },
     "001260.KS": {
       "ticker": "001260.KS",
-      "price": 8000,
-      "change": "+3.8%",
-      "change_pct": 3.76,
+      "price": 7970,
+      "change": "+3.4%",
+      "change_pct": 3.37,
       "up": true
     },
     "001550.KS": {
       "ticker": "001550.KS",
-      "price": 10880,
-      "change": "+9.0%",
-      "change_pct": 9.02,
+      "price": 11010,
+      "change": "+10.3%",
+      "change_pct": 10.32,
       "up": true
     },
     "002600.KS": {
@@ -4930,23 +4930,23 @@
     },
     "003925.KS": {
       "ticker": "003925.KS",
-      "price": 30100,
-      "change": "-2.9%",
-      "change_pct": -2.9,
+      "price": 30000,
+      "change": "-3.2%",
+      "change_pct": -3.23,
       "up": false
     },
     "004440.KS": {
       "ticker": "004440.KS",
-      "price": 5020,
-      "change": "-0.8%",
-      "change_pct": -0.79,
+      "price": 5040,
+      "change": "-0.4%",
+      "change_pct": -0.4,
       "up": false
     },
     "004720.KS": {
       "ticker": "004720.KS",
-      "price": 3210,
-      "change": "-2.9%",
-      "change_pct": -2.87,
+      "price": 3195,
+      "change": "-3.3%",
+      "change_pct": -3.33,
       "up": false
     },
     "006880.KS": {
@@ -4958,9 +4958,9 @@
     },
     "007280.KS": {
       "ticker": "007280.KS",
-      "price": 2240,
-      "change": "-2.4%",
-      "change_pct": -2.4,
+      "price": 2245,
+      "change": "-2.2%",
+      "change_pct": -2.18,
       "up": false
     },
     "009180.KS": {
@@ -4972,9 +4972,9 @@
     },
     "009200.KS": {
       "ticker": "009200.KS",
-      "price": 1535,
-      "change": "-1.0%",
-      "change_pct": -0.97,
+      "price": 1527,
+      "change": "-1.5%",
+      "change_pct": -1.48,
       "up": false
     },
     "011000.KS": {
@@ -4986,65 +4986,65 @@
     },
     "014440.KS": {
       "ticker": "014440.KS",
-      "price": 4690,
-      "change": "+0.4%",
-      "change_pct": 0.43,
+      "price": 4700,
+      "change": "+0.6%",
+      "change_pct": 0.64,
       "up": true
     },
     "031820.KS": {
       "ticker": "031820.KS",
-      "price": 6010,
-      "change": "-1.3%",
-      "change_pct": -1.31,
+      "price": 5910,
+      "change": "-3.0%",
+      "change_pct": -2.96,
       "up": false
     },
     "068290.KS": {
       "ticker": "068290.KS",
-      "price": 6350,
-      "change": "-1.2%",
-      "change_pct": -1.24,
+      "price": 6320,
+      "change": "-1.7%",
+      "change_pct": -1.71,
       "up": false
     },
     "079980.KS": {
       "ticker": "079980.KS",
-      "price": 2040,
-      "change": "-2.4%",
-      "change_pct": -2.39,
+      "price": 2025,
+      "change": "-3.1%",
+      "change_pct": -3.11,
       "up": false
     },
     "085310.KS": {
       "ticker": "085310.KS",
-      "price": 9550,
-      "change": "-0.2%",
-      "change_pct": -0.21,
-      "up": false
+      "price": 9570,
+      "change": "+0.0%",
+      "change_pct": 0,
+      "up": true
     },
     "096775.KS": {
       "ticker": "096775.KS",
-      "price": 67900,
-      "change": "+1.6%",
-      "change_pct": 1.65,
+      "price": 68000,
+      "change": "+1.8%",
+      "change_pct": 1.8,
       "up": true
     },
     "111380.KS": {
       "ticker": "111380.KS",
-      "price": 14140,
-      "change": "-1.9%",
-      "change_pct": -1.87,
+      "price": 14150,
+      "change": "-1.8%",
+      "change_pct": -1.8,
       "up": false
     },
     "338100.KS": {
       "ticker": "338100.KS",
-      "price": 3800,
-      "change": "-1.2%",
-      "change_pct": -1.17,
+      "price": 3810,
+      "change": "-0.9%",
+      "change_pct": -0.91,
       "up": false
     },
     "000725.KS": {
       "ticker": "000725.KS",
-      "price": 52000,
-      "change": "-1.0%",
-      "change_pct": -0.95,
+      "price": 52300,
+      "change": "-0.4%",
+      "change_pct": -0.38,
       "up": false
     },
     "001470.KS": {
@@ -5056,16 +5056,16 @@
     },
     "002795.KS": {
       "ticker": "002795.KS",
-      "price": 10740,
-      "change": "-3.1%",
-      "change_pct": -3.07,
+      "price": 10750,
+      "change": "-3.0%",
+      "change_pct": -2.98,
       "up": false
     },
     "004410.KS": {
       "ticker": "004410.KS",
-      "price": 1181,
-      "change": "+2.6%",
-      "change_pct": 2.61,
+      "price": 1180,
+      "change": "+2.5%",
+      "change_pct": 2.52,
       "up": true
     },
     "006090.KS": {
@@ -5091,58 +5091,58 @@
     },
     "009835.KS": {
       "ticker": "009835.KS",
-      "price": 18350,
-      "change": "-1.1%",
-      "change_pct": -1.08,
+      "price": 18190,
+      "change": "-1.9%",
+      "change_pct": -1.94,
       "up": false
     },
     "010040.KS": {
       "ticker": "010040.KS",
-      "price": 1733,
-      "change": "+0.5%",
-      "change_pct": 0.46,
+      "price": 1735,
+      "change": "+0.6%",
+      "change_pct": 0.58,
       "up": true
     },
     "011330.KS": {
       "ticker": "011330.KS",
-      "price": 4920,
-      "change": "+1.1%",
-      "change_pct": 1.13,
+      "price": 4900,
+      "change": "+0.7%",
+      "change_pct": 0.72,
       "up": true
     },
     "011390.KS": {
       "ticker": "011390.KS",
-      "price": 50800,
-      "change": "+23.6%",
-      "change_pct": 23.6,
+      "price": 53400,
+      "change": "+29.9%",
+      "change_pct": 29.93,
       "up": true
     },
     "012690.KS": {
       "ticker": "012690.KS",
-      "price": 1479,
-      "change": "-3.1%",
-      "change_pct": -3.14,
+      "price": 1471,
+      "change": "-3.7%",
+      "change_pct": -3.67,
       "up": false
     },
     "013700.KS": {
       "ticker": "013700.KS",
-      "price": 1670,
-      "change": "-5.1%",
-      "change_pct": -5.06,
+      "price": 1667,
+      "change": "-5.2%",
+      "change_pct": -5.23,
       "up": false
     },
     "016090.KS": {
       "ticker": "016090.KS",
-      "price": 1487,
-      "change": "+0.3%",
-      "change_pct": 0.34,
+      "price": 1491,
+      "change": "+0.6%",
+      "change_pct": 0.61,
       "up": true
     },
     "018500.KS": {
       "ticker": "018500.KS",
-      "price": 1492,
-      "change": "-1.8%",
-      "change_pct": -1.78,
+      "price": 1495,
+      "change": "-1.6%",
+      "change_pct": -1.58,
       "up": false
     },
     "023810.KS": {
@@ -5154,16 +5154,16 @@
     },
     "058730.KS": {
       "ticker": "058730.KS",
-      "price": 3665,
-      "change": "-0.1%",
-      "change_pct": -0.14,
+      "price": 3620,
+      "change": "-1.4%",
+      "change_pct": -1.36,
       "up": false
     },
     "071090.KS": {
       "ticker": "071090.KS",
-      "price": 3105,
-      "change": "-1.3%",
-      "change_pct": -1.27,
+      "price": 3060,
+      "change": "-2.7%",
+      "change_pct": -2.7,
       "up": false
     },
     "120115.KS": {
@@ -5175,171 +5175,171 @@
     },
     "129260.KS": {
       "ticker": "129260.KS",
-      "price": 1945,
-      "change": "-0.7%",
-      "change_pct": -0.71,
+      "price": 1950,
+      "change": "-0.5%",
+      "change_pct": -0.46,
       "up": false
     },
     "000220.KS": {
       "ticker": "000220.KS",
-      "price": 3745,
-      "change": "-2.0%",
-      "change_pct": -1.96,
+      "price": 3730,
+      "change": "-2.4%",
+      "change_pct": -2.36,
       "up": false
     },
     "000910.KS": {
       "ticker": "000910.KS",
-      "price": 2930,
-      "change": "-0.3%",
-      "change_pct": -0.34,
+      "price": 2935,
+      "change": "-0.2%",
+      "change_pct": -0.17,
       "up": false
     },
     "001620.KS": {
       "ticker": "001620.KS",
-      "price": 2265,
-      "change": "-1.3%",
-      "change_pct": -1.31,
+      "price": 2245,
+      "change": "-2.2%",
+      "change_pct": -2.18,
       "up": false
     },
     "002140.KS": {
       "ticker": "002140.KS",
-      "price": 2205,
-      "change": "+1.8%",
-      "change_pct": 1.85,
+      "price": 2195,
+      "change": "+1.4%",
+      "change_pct": 1.39,
       "up": true
     },
     "002760.KS": {
       "ticker": "002760.KS",
-      "price": 1009,
-      "change": "-0.3%",
-      "change_pct": -0.3,
+      "price": 1008,
+      "change": "-0.4%",
+      "change_pct": -0.4,
       "up": false
     },
     "003010.KS": {
       "ticker": "003010.KS",
-      "price": 11370,
-      "change": "+17.3%",
-      "change_pct": 17.34,
+      "price": 11360,
+      "change": "+17.2%",
+      "change_pct": 17.23,
       "up": true
     },
     "003780.KS": {
       "ticker": "003780.KS",
-      "price": 3815,
-      "change": "-1.9%",
-      "change_pct": -1.93,
+      "price": 3825,
+      "change": "-1.7%",
+      "change_pct": -1.67,
       "up": false
     },
     "004540.KS": {
       "ticker": "004540.KS",
-      "price": 1218,
-      "change": "-0.9%",
-      "change_pct": -0.9,
+      "price": 1207,
+      "change": "-1.8%",
+      "change_pct": -1.79,
       "up": false
     },
     "004830.KS": {
       "ticker": "004830.KS",
-      "price": 3520,
-      "change": "+4.3%",
-      "change_pct": 4.3,
+      "price": 3525,
+      "change": "+4.4%",
+      "change_pct": 4.44,
       "up": true
     },
     "006980.KS": {
       "ticker": "006980.KS",
-      "price": 15800,
-      "change": "-3.1%",
-      "change_pct": -3.13,
+      "price": 15770,
+      "change": "-3.3%",
+      "change_pct": -3.31,
       "up": false
     },
     "047400.KS": {
       "ticker": "047400.KS",
-      "price": 917,
-      "change": "+0.0%",
-      "change_pct": 0,
-      "up": true
+      "price": 912,
+      "change": "-0.5%",
+      "change_pct": -0.55,
+      "up": false
     },
     "055490.KS": {
       "ticker": "055490.KS",
-      "price": 14380,
-      "change": "-1.6%",
-      "change_pct": -1.64,
+      "price": 14340,
+      "change": "-1.9%",
+      "change_pct": -1.92,
       "up": false
     },
     "069730.KS": {
       "ticker": "069730.KS",
-      "price": 5830,
-      "change": "-2.3%",
-      "change_pct": -2.35,
+      "price": 5840,
+      "change": "-2.2%",
+      "change_pct": -2.18,
       "up": false
     },
     "072130.KS": {
       "ticker": "072130.KS",
-      "price": 4860,
-      "change": "-0.7%",
-      "change_pct": -0.72,
+      "price": 4890,
+      "change": "-0.1%",
+      "change_pct": -0.1,
       "up": false
     },
     "092440.KS": {
       "ticker": "092440.KS",
-      "price": 1998,
-      "change": "-2.3%",
-      "change_pct": -2.3,
+      "price": 1989,
+      "change": "-2.7%",
+      "change_pct": -2.74,
       "up": false
     },
     "100220.KS": {
       "ticker": "100220.KS",
-      "price": 4950,
-      "change": "-4.3%",
-      "change_pct": -4.26,
+      "price": 4915,
+      "change": "-4.9%",
+      "change_pct": -4.93,
       "up": false
     },
     "111110.KS": {
       "ticker": "111110.KS",
-      "price": 6740,
-      "change": "+0.0%",
-      "change_pct": 0,
-      "up": true
+      "price": 6700,
+      "change": "-0.6%",
+      "change_pct": -0.59,
+      "up": false
     },
     "155660.KS": {
       "ticker": "155660.KS",
-      "price": 4680,
-      "change": "-2.3%",
-      "change_pct": -2.3,
+      "price": 4670,
+      "change": "-2.5%",
+      "change_pct": -2.51,
       "up": false
     },
     "372910.KS": {
       "ticker": "372910.KS",
-      "price": 1904,
-      "change": "+1.0%",
-      "change_pct": 1.01,
+      "price": 1887,
+      "change": "+0.1%",
+      "change_pct": 0.11,
       "up": true
     },
     "378850.KS": {
       "ticker": "378850.KS",
-      "price": 2945,
-      "change": "-2.6%",
-      "change_pct": -2.64,
+      "price": 2935,
+      "change": "-3.0%",
+      "change_pct": -2.98,
       "up": false
     },
     "000950.KS": {
       "ticker": "000950.KS",
-      "price": 32150,
-      "change": "+0.8%",
-      "change_pct": 0.78,
+      "price": 33000,
+      "change": "+3.4%",
+      "change_pct": 3.45,
       "up": true
     },
     "001380.KS": {
       "ticker": "001380.KS",
-      "price": 1335,
-      "change": "-2.0%",
-      "change_pct": -1.98,
+      "price": 1336,
+      "change": "-1.9%",
+      "change_pct": -1.91,
       "up": false
     },
     "001465.KS": {
       "ticker": "001465.KS",
-      "price": 26400,
-      "change": "-0.4%",
-      "change_pct": -0.38,
-      "up": false
+      "price": 26750,
+      "change": "+0.9%",
+      "change_pct": 0.94,
+      "up": true
     },
     "002630.KS": {
       "ticker": "002630.KS",
@@ -5350,9 +5350,9 @@
     },
     "003060.KS": {
       "ticker": "003060.KS",
-      "price": 1968,
-      "change": "-4.2%",
-      "change_pct": -4.23,
+      "price": 1964,
+      "change": "-4.4%",
+      "change_pct": -4.43,
       "up": false
     },
     "003465.KS": {
@@ -5364,107 +5364,107 @@
     },
     "003475.KS": {
       "ticker": "003475.KS",
-      "price": 4275,
-      "change": "-2.1%",
-      "change_pct": -2.06,
+      "price": 4270,
+      "change": "-2.2%",
+      "change_pct": -2.18,
       "up": false
     },
     "004450.KS": {
       "ticker": "004450.KS",
-      "price": 26850,
-      "change": "-1.5%",
-      "change_pct": -1.47,
+      "price": 27050,
+      "change": "-0.7%",
+      "change_pct": -0.73,
       "up": false
     },
     "004910.KS": {
       "ticker": "004910.KS",
-      "price": 3670,
-      "change": "-0.4%",
-      "change_pct": -0.41,
+      "price": 3660,
+      "change": "-0.7%",
+      "change_pct": -0.68,
       "up": false
     },
     "005305.KS": {
       "ticker": "005305.KS",
-      "price": 67600,
-      "change": "-2.0%",
-      "change_pct": -2.03,
+      "price": 67300,
+      "change": "-2.5%",
+      "change_pct": -2.46,
       "up": false
     },
     "007120.KS": {
       "ticker": "007120.KS",
-      "price": 1226,
-      "change": "-2.3%",
-      "change_pct": -2.31,
-      "up": false
+      "price": 1258,
+      "change": "+0.2%",
+      "change_pct": 0.24,
+      "up": true
     },
     "017180.KS": {
       "ticker": "017180.KS",
-      "price": 1198,
-      "change": "-4.4%",
-      "change_pct": -4.39,
+      "price": 1191,
+      "change": "-4.9%",
+      "change_pct": -4.95,
       "up": false
     },
     "021050.KS": {
       "ticker": "021050.KS",
-      "price": 1120,
-      "change": "+1.0%",
-      "change_pct": 0.99,
+      "price": 1112,
+      "change": "+0.3%",
+      "change_pct": 0.27,
       "up": true
     },
     "024900.KS": {
       "ticker": "024900.KS",
-      "price": 1779,
-      "change": "-1.1%",
-      "change_pct": -1.11,
+      "price": 1775,
+      "change": "-1.3%",
+      "change_pct": -1.33,
       "up": false
     },
     "025560.KS": {
       "ticker": "025560.KS",
-      "price": 10360,
-      "change": "+1.8%",
-      "change_pct": 1.77,
+      "price": 10390,
+      "change": "+2.1%",
+      "change_pct": 2.06,
       "up": true
     },
     "092780.KS": {
       "ticker": "092780.KS",
-      "price": 3615,
-      "change": "-0.1%",
-      "change_pct": -0.14,
-      "up": false
+      "price": 3625,
+      "change": "+0.1%",
+      "change_pct": 0.14,
+      "up": true
     },
     "093240.KS": {
       "ticker": "093240.KS",
-      "price": 421,
-      "change": "+8.5%",
-      "change_pct": 8.51,
+      "price": 420,
+      "change": "+8.2%",
+      "change_pct": 8.25,
       "up": true
     },
     "109070.KS": {
       "ticker": "109070.KS",
-      "price": 1644,
-      "change": "-3.9%",
-      "change_pct": -3.86,
+      "price": 1630,
+      "change": "-4.7%",
+      "change_pct": -4.68,
       "up": false
     },
     "357250.KS": {
       "ticker": "357250.KS",
-      "price": 1893,
-      "change": "-0.4%",
-      "change_pct": -0.37,
+      "price": 1895,
+      "change": "-0.3%",
+      "change_pct": -0.26,
       "up": false
     },
     "37550K.KS": {
       "ticker": "37550K.KS",
-      "price": 24750,
-      "change": "-1.2%",
-      "change_pct": -1.2,
+      "price": 24650,
+      "change": "-1.6%",
+      "change_pct": -1.6,
       "up": false
     },
     "000890.KS": {
       "ticker": "000890.KS",
-      "price": 1423,
-      "change": "-4.1%",
-      "change_pct": -4.11,
+      "price": 1425,
+      "change": "-4.0%",
+      "change_pct": -3.98,
       "up": false
     },
     "002410.KS": {
@@ -5476,9 +5476,9 @@
     },
     "002920.KS": {
       "ticker": "002920.KS",
-      "price": 1827,
+      "price": 1826,
       "change": "-1.8%",
-      "change_pct": -1.77,
+      "change_pct": -1.83,
       "up": false
     },
     "003080.KS": {
@@ -5504,9 +5504,9 @@
     },
     "007610.KS": {
       "ticker": "007610.KS",
-      "price": 4425,
-      "change": "-2.2%",
-      "change_pct": -2.21,
+      "price": 4440,
+      "change": "-1.9%",
+      "change_pct": -1.88,
       "up": false
     },
     "007815.KS": {
@@ -5518,23 +5518,23 @@
     },
     "009190.KS": {
       "ticker": "009190.KS",
-      "price": 1714,
-      "change": "-1.8%",
-      "change_pct": -1.83,
+      "price": 1720,
+      "change": "-1.5%",
+      "change_pct": -1.49,
       "up": false
     },
     "010770.KS": {
       "ticker": "010770.KS",
-      "price": 3775,
-      "change": "-2.2%",
-      "change_pct": -2.2,
+      "price": 3780,
+      "change": "-2.1%",
+      "change_pct": -2.07,
       "up": false
     },
     "012160.KS": {
       "ticker": "012160.KS",
-      "price": 2470,
-      "change": "+0.4%",
-      "change_pct": 0.41,
+      "price": 2490,
+      "change": "+1.2%",
+      "change_pct": 1.22,
       "up": true
     },
     "012280.KS": {
@@ -5553,30 +5553,30 @@
     },
     "023960.KS": {
       "ticker": "023960.KS",
-      "price": 974,
-      "change": "-1.3%",
-      "change_pct": -1.32,
+      "price": 972,
+      "change": "-1.5%",
+      "change_pct": -1.52,
       "up": false
     },
     "025530.KS": {
       "ticker": "025530.KS",
-      "price": 3555,
-      "change": "+0.4%",
-      "change_pct": 0.42,
+      "price": 3550,
+      "change": "+0.3%",
+      "change_pct": 0.28,
       "up": true
     },
     "027740.KS": {
       "ticker": "027740.KS",
-      "price": 1176,
-      "change": "-1.1%",
-      "change_pct": -1.09,
+      "price": 1188,
+      "change": "-0.1%",
+      "change_pct": -0.08,
       "up": false
     },
     "041650.KS": {
       "ticker": "041650.KS",
-      "price": 2190,
-      "change": "-2.7%",
-      "change_pct": -2.67,
+      "price": 2185,
+      "change": "-2.9%",
+      "change_pct": -2.89,
       "up": false
     },
     "075180.KS": {
@@ -5588,9 +5588,9 @@
     },
     "123700.KS": {
       "ticker": "123700.KS",
-      "price": 3430,
-      "change": "-0.6%",
-      "change_pct": -0.58,
+      "price": 3425,
+      "change": "-0.7%",
+      "change_pct": -0.72,
       "up": false
     },
     "28513K.KS": {
@@ -5602,51 +5602,51 @@
     },
     "000215.KS": {
       "ticker": "000215.KS",
-      "price": 23800,
-      "change": "-0.4%",
-      "change_pct": -0.42,
+      "price": 23650,
+      "change": "-1.0%",
+      "change_pct": -1.05,
       "up": false
     },
     "001210.KS": {
       "ticker": "001210.KS",
-      "price": 6020,
-      "change": "-7.2%",
-      "change_pct": -7.24,
+      "price": 6040,
+      "change": "-6.9%",
+      "change_pct": -6.93,
       "up": false
     },
     "006125.KS": {
       "ticker": "006125.KS",
-      "price": 38900,
-      "change": "-0.3%",
-      "change_pct": -0.26,
+      "price": 38850,
+      "change": "-0.4%",
+      "change_pct": -0.38,
       "up": false
     },
     "006370.KS": {
       "ticker": "006370.KS",
-      "price": 4410,
-      "change": "-10.3%",
-      "change_pct": -10.27,
+      "price": 4520,
+      "change": "-8.0%",
+      "change_pct": -8.04,
       "up": false
     },
     "008420.KS": {
       "ticker": "008420.KS",
-      "price": 2220,
-      "change": "-0.9%",
-      "change_pct": -0.89,
+      "price": 2200,
+      "change": "-1.8%",
+      "change_pct": -1.79,
       "up": false
     },
     "008870.KS": {
       "ticker": "008870.KS",
-      "price": 38850,
-      "change": "-6.5%",
-      "change_pct": -6.5,
+      "price": 39150,
+      "change": "-5.8%",
+      "change_pct": -5.78,
       "up": false
     },
     "009320.KS": {
       "ticker": "009320.KS",
-      "price": 1045,
-      "change": "+0.3%",
-      "change_pct": 0.29,
+      "price": 1042,
+      "change": "+0.0%",
+      "change_pct": 0,
       "up": true
     },
     "011230.KS": {
@@ -5658,9 +5658,9 @@
     },
     "011300.KS": {
       "ticker": "011300.KS",
-      "price": 3480,
-      "change": "-3.5%",
-      "change_pct": -3.47,
+      "price": 3375,
+      "change": "-6.4%",
+      "change_pct": -6.38,
       "up": false
     },
     "011420.KS": {
@@ -5686,23 +5686,23 @@
     },
     "023350.KS": {
       "ticker": "023350.KS",
-      "price": 3935,
-      "change": "-4.3%",
-      "change_pct": -4.26,
+      "price": 3930,
+      "change": "-4.4%",
+      "change_pct": -4.38,
       "up": false
     },
     "049800.KS": {
       "ticker": "049800.KS",
-      "price": 1806,
-      "change": "-3.4%",
-      "change_pct": -3.37,
+      "price": 1799,
+      "change": "-3.7%",
+      "change_pct": -3.75,
       "up": false
     },
     "051630.KS": {
       "ticker": "051630.KS",
-      "price": 1038,
-      "change": "-1.6%",
-      "change_pct": -1.61,
+      "price": 1046,
+      "change": "-0.9%",
+      "change_pct": -0.85,
       "up": false
     },
     "069460.KS": {
@@ -5714,10 +5714,10 @@
     },
     "090080.KS": {
       "ticker": "090080.KS",
-      "price": 1063,
-      "change": "+0.1%",
-      "change_pct": 0.09,
-      "up": true
+      "price": 1060,
+      "change": "-0.2%",
+      "change_pct": -0.19,
+      "up": false
     },
     "133820.KS": {
       "ticker": "133820.KS",
@@ -5728,58 +5728,58 @@
     },
     "465770.KS": {
       "ticker": "465770.KS",
-      "price": 3015,
-      "change": "+6.7%",
-      "change_pct": 6.73,
+      "price": 3275,
+      "change": "+15.9%",
+      "change_pct": 15.93,
       "up": true
     },
     "481850.KS": {
       "ticker": "481850.KS",
-      "price": 1011,
-      "change": "+0.2%",
-      "change_pct": 0.2,
+      "price": 1009,
+      "change": "+0.0%",
+      "change_pct": 0,
       "up": true
     },
     "000760.KS": {
       "ticker": "000760.KS",
-      "price": 13060,
-      "change": "+4.6%",
-      "change_pct": 4.65,
+      "price": 12910,
+      "change": "+3.4%",
+      "change_pct": 3.45,
       "up": true
     },
     "002360.KS": {
       "ticker": "002360.KS",
-      "price": 1686,
-      "change": "-3.8%",
-      "change_pct": -3.77,
+      "price": 1699,
+      "change": "-3.0%",
+      "change_pct": -3.03,
       "up": false
     },
     "002870.KS": {
       "ticker": "002870.KS",
-      "price": 957,
-      "change": "-0.5%",
-      "change_pct": -0.52,
+      "price": 952,
+      "change": "-1.0%",
+      "change_pct": -1.04,
       "up": false
     },
     "002880.KS": {
       "ticker": "002880.KS",
-      "price": 841,
-      "change": "+0.1%",
-      "change_pct": 0.12,
+      "price": 840,
+      "change": "+0.0%",
+      "change_pct": 0,
       "up": true
     },
     "003535.KS": {
       "ticker": "003535.KS",
-      "price": 5730,
-      "change": "-3.4%",
-      "change_pct": -3.37,
+      "price": 5700,
+      "change": "-3.9%",
+      "change_pct": -3.88,
       "up": false
     },
     "004870.KS": {
       "ticker": "004870.KS",
-      "price": 1183,
-      "change": "-3.7%",
-      "change_pct": -3.66,
+      "price": 1181,
+      "change": "-3.8%",
+      "change_pct": -3.83,
       "up": false
     },
     "005030.KS": {
@@ -5798,9 +5798,9 @@
     },
     "008250.KS": {
       "ticker": "008250.KS",
-      "price": 2530,
-      "change": "-1.9%",
-      "change_pct": -1.94,
+      "price": 2525,
+      "change": "-2.1%",
+      "change_pct": -2.13,
       "up": false
     },
     "019490.KS": {
@@ -5812,16 +5812,16 @@
     },
     "025750.KS": {
       "ticker": "025750.KS",
-      "price": 1870,
-      "change": "-2.2%",
-      "change_pct": -2.25,
+      "price": 1889,
+      "change": "-1.3%",
+      "change_pct": -1.25,
       "up": false
     },
     "026940.KS": {
       "ticker": "026940.KS",
-      "price": 2160,
-      "change": "-3.1%",
-      "change_pct": -3.14,
+      "price": 2140,
+      "change": "-4.0%",
+      "change_pct": -4.04,
       "up": false
     },
     "074610.KS": {
@@ -5833,79 +5833,79 @@
     },
     "084870.KS": {
       "ticker": "084870.KS",
-      "price": 2160,
-      "change": "-0.7%",
-      "change_pct": -0.69,
+      "price": 2115,
+      "change": "-2.8%",
+      "change_pct": -2.76,
       "up": false
     },
     "118000.KS": {
       "ticker": "118000.KS",
-      "price": 1377,
-      "change": "-0.7%",
-      "change_pct": -0.72,
+      "price": 1374,
+      "change": "-0.9%",
+      "change_pct": -0.94,
       "up": false
     },
     "134790.KS": {
       "ticker": "134790.KS",
-      "price": 18445,
-      "change": "-10.9%",
-      "change_pct": -10.89,
+      "price": 18390,
+      "change": "-11.2%",
+      "change_pct": -11.16,
       "up": false
     },
     "145270.KS": {
       "ticker": "145270.KS",
-      "price": 799,
-      "change": "-0.2%",
-      "change_pct": -0.25,
+      "price": 798,
+      "change": "-0.4%",
+      "change_pct": -0.37,
       "up": false
     },
     "308170.KS": {
       "ticker": "308170.KS",
-      "price": 3680,
-      "change": "+2.1%",
-      "change_pct": 2.08,
+      "price": 3610,
+      "change": "+0.1%",
+      "change_pct": 0.14,
       "up": true
     },
     "35320K.KS": {
       "ticker": "35320K.KS",
-      "price": 24350,
-      "change": "-1.8%",
-      "change_pct": -1.81,
+      "price": 24500,
+      "change": "-1.2%",
+      "change_pct": -1.21,
       "up": false
     },
     "357430.KS": {
       "ticker": "357430.KS",
-      "price": 880,
-      "change": "+1.6%",
-      "change_pct": 1.62,
+      "price": 866,
+      "change": "+0.0%",
+      "change_pct": 0,
       "up": true
     },
     "000040.KS": {
       "ticker": "000040.KS",
-      "price": 1566,
-      "change": "+28.3%",
-      "change_pct": 28.26,
+      "price": 1530,
+      "change": "+25.3%",
+      "change_pct": 25.31,
       "up": true
     },
     "001070.KS": {
       "ticker": "001070.KS",
-      "price": 6090,
-      "change": "+0.2%",
-      "change_pct": 0.16,
+      "price": 6110,
+      "change": "+0.5%",
+      "change_pct": 0.49,
       "up": true
     },
     "002420.KS": {
       "ticker": "002420.KS",
-      "price": 5770,
-      "change": "-1.4%",
-      "change_pct": -1.37,
+      "price": 5730,
+      "change": "-2.1%",
+      "change_pct": -2.05,
       "up": false
     },
     "002690.KS": {
       "ticker": "002690.KS",
-      "price": 1548,
-      "change": "+0.2%",
-      "change_pct": 0.19,
+      "price": 1557,
+      "change": "+0.8%",
+      "change_pct": 0.78,
       "up": true
     },
     "004365.KS": {
@@ -5917,128 +5917,128 @@
     },
     "005320.KS": {
       "ticker": "005320.KS",
-      "price": 879,
-      "change": "+22.8%",
-      "change_pct": 22.77,
+      "price": 877,
+      "change": "+22.5%",
+      "change_pct": 22.49,
       "up": true
     },
     "005360.KS": {
       "ticker": "005360.KS",
-      "price": 1621,
-      "change": "-3.5%",
-      "change_pct": -3.51,
+      "price": 1606,
+      "change": "-4.4%",
+      "change_pct": -4.4,
       "up": false
     },
     "005820.KS": {
       "ticker": "005820.KS",
-      "price": 15180,
-      "change": "-1.1%",
-      "change_pct": -1.11,
+      "price": 15230,
+      "change": "-0.8%",
+      "change_pct": -0.78,
       "up": false
     },
     "006200.KS": {
       "ticker": "006200.KS",
-      "price": 1988,
-      "change": "+5.4%",
-      "change_pct": 5.35,
+      "price": 2015,
+      "change": "+6.8%",
+      "change_pct": 6.78,
       "up": true
     },
     "009140.KS": {
       "ticker": "009140.KS",
-      "price": 21050,
-      "change": "-5.6%",
-      "change_pct": -5.61,
+      "price": 20950,
+      "change": "-6.1%",
+      "change_pct": -6.05,
       "up": false
     },
     "009810.KS": {
       "ticker": "009810.KS",
-      "price": 1835,
-      "change": "-1.6%",
-      "change_pct": -1.61,
+      "price": 1822,
+      "change": "-2.3%",
+      "change_pct": -2.31,
       "up": false
     },
     "013000.KS": {
       "ticker": "013000.KS",
-      "price": 1192,
-      "change": "-2.9%",
-      "change_pct": -2.93,
+      "price": 1191,
+      "change": "-3.0%",
+      "change_pct": -3.01,
       "up": false
     },
     "014130.KS": {
       "ticker": "014130.KS",
-      "price": 2505,
-      "change": "-4.2%",
-      "change_pct": -4.21,
+      "price": 2490,
+      "change": "-4.8%",
+      "change_pct": -4.78,
       "up": false
     },
     "014910.KS": {
       "ticker": "014910.KS",
-      "price": 2030,
-      "change": "+0.2%",
-      "change_pct": 0.25,
+      "price": 2025,
+      "change": "+0.0%",
+      "change_pct": 0,
       "up": true
     },
     "019175.KS": {
       "ticker": "019175.KS",
-      "price": 12700,
-      "change": "-4.4%",
-      "change_pct": -4.44,
+      "price": 12530,
+      "change": "-5.7%",
+      "change_pct": -5.72,
       "up": false
     },
     "024890.KS": {
       "ticker": "024890.KS",
-      "price": 2050,
-      "change": "-0.7%",
-      "change_pct": -0.73,
+      "price": 2040,
+      "change": "-1.2%",
+      "change_pct": -1.21,
       "up": false
     },
     "088790.KS": {
       "ticker": "088790.KS",
-      "price": 2150,
-      "change": "-3.8%",
-      "change_pct": -3.8,
+      "price": 2115,
+      "change": "-5.4%",
+      "change_pct": -5.37,
       "up": false
     },
     "090370.KS": {
       "ticker": "090370.KS",
-      "price": 1103,
-      "change": "-1.2%",
-      "change_pct": -1.16,
+      "price": 1097,
+      "change": "-1.7%",
+      "change_pct": -1.7,
       "up": false
     },
     "33637K.KS": {
       "ticker": "33637K.KS",
-      "price": 1485,
-      "change": "-3.7%",
-      "change_pct": -3.7,
+      "price": 1483,
+      "change": "-3.8%",
+      "change_pct": -3.83,
       "up": false
     },
     "446070.KS": {
       "ticker": "446070.KS",
-      "price": 3630,
-      "change": "+0.3%",
-      "change_pct": 0.28,
+      "price": 3665,
+      "change": "+1.2%",
+      "change_pct": 1.24,
       "up": true
     },
     "002025.KS": {
       "ticker": "002025.KS",
-      "price": 14530,
-      "change": "+0.8%",
-      "change_pct": 0.83,
+      "price": 14450,
+      "change": "+0.3%",
+      "change_pct": 0.28,
       "up": true
     },
     "002355.KS": {
       "ticker": "002355.KS",
-      "price": 3885,
-      "change": "-0.4%",
-      "change_pct": -0.38,
+      "price": 3870,
+      "change": "-0.8%",
+      "change_pct": -0.77,
       "up": false
     },
     "002820.KS": {
       "ticker": "002820.KS",
-      "price": 1486,
-      "change": "-0.7%",
-      "change_pct": -0.67,
+      "price": 1488,
+      "change": "-0.5%",
+      "change_pct": -0.53,
       "up": false
     },
     "003495.KS": {
@@ -6050,9 +6050,9 @@
     },
     "003680.KS": {
       "ticker": "003680.KS",
-      "price": 5660,
-      "change": "-4.1%",
-      "change_pct": -4.07,
+      "price": 5670,
+      "change": "-3.9%",
+      "change_pct": -3.9,
       "up": false
     },
     "004270.KS": {
@@ -6064,9 +6064,9 @@
     },
     "006570.KS": {
       "ticker": "006570.KS",
-      "price": 1997,
-      "change": "+7.4%",
-      "change_pct": 7.42,
+      "price": 1980,
+      "change": "+6.5%",
+      "change_pct": 6.51,
       "up": true
     },
     "006740.KS": {
@@ -6085,16 +6085,16 @@
     },
     "010400.KS": {
       "ticker": "010400.KS",
-      "price": 4320,
-      "change": "-1.6%",
-      "change_pct": -1.59,
+      "price": 4310,
+      "change": "-1.8%",
+      "change_pct": -1.82,
       "up": false
     },
     "011090.KS": {
       "ticker": "011090.KS",
-      "price": 1640,
-      "change": "+8.0%",
-      "change_pct": 8.04,
+      "price": 1643,
+      "change": "+8.2%",
+      "change_pct": 8.23,
       "up": true
     },
     "015260.KS": {
@@ -6113,65 +6113,65 @@
     },
     "024070.KS": {
       "ticker": "024070.KS",
-      "price": 1949,
-      "change": "+2.6%",
-      "change_pct": 2.63,
+      "price": 1900,
+      "change": "+0.1%",
+      "change_pct": 0.05,
       "up": true
     },
     "030720.KS": {
       "ticker": "030720.KS",
-      "price": 5870,
-      "change": "-2.5%",
-      "change_pct": -2.49,
+      "price": 5860,
+      "change": "-2.7%",
+      "change_pct": -2.66,
       "up": false
     },
     "033250.KS": {
       "ticker": "033250.KS",
-      "price": 3970,
-      "change": "+1.4%",
-      "change_pct": 1.4,
-      "up": true
+      "price": 3900,
+      "change": "-0.4%",
+      "change_pct": -0.38,
+      "up": false
     },
     "069640.KS": {
       "ticker": "069640.KS",
-      "price": 1462,
-      "change": "-1.9%",
-      "change_pct": -1.88,
+      "price": 1459,
+      "change": "-2.1%",
+      "change_pct": -2.08,
       "up": false
     },
     "071950.KS": {
       "ticker": "071950.KS",
-      "price": 1809,
-      "change": "+4.7%",
-      "change_pct": 4.75,
+      "price": 1811,
+      "change": "+4.9%",
+      "change_pct": 4.86,
       "up": true
     },
     "33626L.KS": {
       "ticker": "33626L.KS",
-      "price": 7580,
-      "change": "-1.7%",
-      "change_pct": -1.69,
+      "price": 7420,
+      "change": "-3.8%",
+      "change_pct": -3.76,
       "up": false
     },
     "480370.KS": {
       "ticker": "480370.KS",
-      "price": 1524,
-      "change": "+4.5%",
-      "change_pct": 4.53,
+      "price": 1482,
+      "change": "+1.6%",
+      "change_pct": 1.65,
       "up": true
     },
     "001420.KS": {
       "ticker": "001420.KS",
-      "price": 2150,
-      "change": "+7.0%",
-      "change_pct": 6.97,
+      "price": 2155,
+      "change": "+7.2%",
+      "change_pct": 7.21,
       "up": true
     },
     "001685.KS": {
       "ticker": "001685.KS",
-      "price": 14660,
-      "change": "-0.5%",
-      "change_pct": -0.48,
+      "price": 14680,
+      "change": "-0.3%",
+      "change_pct": -0.34,
       "up": false
     },
     "001770.KS": {
@@ -6183,16 +6183,16 @@
     },
     "002210.KS": {
       "ticker": "002210.KS",
-      "price": 1706,
-      "change": "+1.1%",
-      "change_pct": 1.07,
+      "price": 1690,
+      "change": "+0.1%",
+      "change_pct": 0.12,
       "up": true
     },
     "00499K.KS": {
       "ticker": "00499K.KS",
-      "price": 23050,
-      "change": "-3.2%",
-      "change_pct": -3.15,
+      "price": 23200,
+      "change": "-2.5%",
+      "change_pct": -2.52,
       "up": false
     },
     "005110.KS": {
@@ -6218,9 +6218,9 @@
     },
     "008775.KS": {
       "ticker": "008775.KS",
-      "price": 29650,
-      "change": "-0.5%",
-      "change_pct": -0.5,
+      "price": 29550,
+      "change": "-0.8%",
+      "change_pct": -0.84,
       "up": false
     },
     "009310.KS": {
@@ -6239,9 +6239,9 @@
     },
     "010640.KS": {
       "ticker": "010640.KS",
-      "price": 1743,
-      "change": "-0.3%",
-      "change_pct": -0.29,
+      "price": 1724,
+      "change": "-1.4%",
+      "change_pct": -1.37,
       "up": false
     },
     "012170.KS": {
@@ -6267,17 +6267,17 @@
     },
     "025890.KS": {
       "ticker": "025890.KS",
-      "price": 2450,
-      "change": "-2.4%",
-      "change_pct": -2.39,
+      "price": 2445,
+      "change": "-2.6%",
+      "change_pct": -2.59,
       "up": false
     },
     "044380.KS": {
       "ticker": "044380.KS",
-      "price": 857,
-      "change": "-0.2%",
-      "change_pct": -0.23,
-      "up": false
+      "price": 872,
+      "change": "+1.5%",
+      "change_pct": 1.51,
+      "up": true
     },
     "143210.KS": {
       "ticker": "143210.KS",
@@ -6288,9 +6288,9 @@
     },
     "18064K.KS": {
       "ticker": "18064K.KS",
-      "price": 28950,
-      "change": "-1.0%",
-      "change_pct": -1.03,
+      "price": 29050,
+      "change": "-0.7%",
+      "change_pct": -0.68,
       "up": false
     },
     "45226K.KS": {
@@ -6323,23 +6323,23 @@
     },
     "001755.KS": {
       "ticker": "001755.KS",
-      "price": 19680,
-      "change": "-0.1%",
-      "change_pct": -0.1,
+      "price": 19290,
+      "change": "-2.1%",
+      "change_pct": -2.08,
       "up": false
     },
     "001795.KS": {
       "ticker": "001795.KS",
-      "price": 2130,
-      "change": "-0.2%",
-      "change_pct": -0.23,
+      "price": 2125,
+      "change": "-0.5%",
+      "change_pct": -0.47,
       "up": false
     },
     "002070.KS": {
       "ticker": "002070.KS",
-      "price": 6060,
-      "change": "+2.7%",
-      "change_pct": 2.71,
+      "price": 6230,
+      "change": "+5.6%",
+      "change_pct": 5.59,
       "up": true
     },
     "003075.KS": {
@@ -6351,16 +6351,16 @@
     },
     "004105.KS": {
       "ticker": "004105.KS",
-      "price": 2785,
-      "change": "-1.4%",
-      "change_pct": -1.42,
+      "price": 2790,
+      "change": "-1.2%",
+      "change_pct": -1.24,
       "up": false
     },
     "004255.KS": {
       "ticker": "004255.KS",
-      "price": 1846,
-      "change": "-1.4%",
-      "change_pct": -1.39,
+      "price": 1854,
+      "change": "-1.0%",
+      "change_pct": -0.96,
       "up": false
     },
     "005725.KS": {
@@ -6372,9 +6372,9 @@
     },
     "00806K.KS": {
       "ticker": "00806K.KS",
-      "price": 11040,
-      "change": "-0.4%",
-      "change_pct": -0.36,
+      "price": 10960,
+      "change": "-1.1%",
+      "change_pct": -1.08,
       "up": false
     },
     "008500.KS": {
@@ -6386,16 +6386,16 @@
     },
     "084695.KS": {
       "ticker": "084695.KS",
-      "price": 11900,
-      "change": "+0.3%",
-      "change_pct": 0.25,
+      "price": 11920,
+      "change": "+0.4%",
+      "change_pct": 0.42,
       "up": true
     },
     "108675.KS": {
       "ticker": "108675.KS",
-      "price": 18210,
-      "change": "-1.6%",
-      "change_pct": -1.57,
+      "price": 18230,
+      "change": "-1.5%",
+      "change_pct": -1.46,
       "up": false
     },
     "140910.KS": {
@@ -6407,9 +6407,9 @@
     },
     "145995.KS": {
       "ticker": "145995.KS",
-      "price": 32050,
-      "change": "-2.6%",
-      "change_pct": -2.58,
+      "price": 32150,
+      "change": "-2.3%",
+      "change_pct": -2.28,
       "up": false
     },
     "152550.KS": {
@@ -6428,16 +6428,16 @@
     },
     "33637L.KS": {
       "ticker": "33637L.KS",
-      "price": 2330,
-      "change": "-3.5%",
-      "change_pct": -3.52,
+      "price": 2325,
+      "change": "-3.7%",
+      "change_pct": -3.73,
       "up": false
     },
     "38380K.KS": {
       "ticker": "38380K.KS",
-      "price": 7450,
-      "change": "+0.4%",
-      "change_pct": 0.4,
+      "price": 7430,
+      "change": "+0.1%",
+      "change_pct": 0.13,
       "up": true
     },
     "000145.KS": {
@@ -6449,9 +6449,9 @@
     },
     "000225.KS": {
       "ticker": "000225.KS",
-      "price": 3740,
-      "change": "+1.5%",
-      "change_pct": 1.49,
+      "price": 3735,
+      "change": "+1.4%",
+      "change_pct": 1.36,
       "up": true
     },
     "000325.KS": {
@@ -6463,9 +6463,9 @@
     },
     "000545.KS": {
       "ticker": "000545.KS",
-      "price": 5470,
-      "change": "+0.2%",
-      "change_pct": 0.18,
+      "price": 5460,
+      "change": "+0.0%",
+      "change_pct": 0,
       "up": true
     },
     "001065.KS": {
@@ -6477,16 +6477,16 @@
     },
     "002995.KS": {
       "ticker": "002995.KS",
-      "price": 22400,
-      "change": "-1.1%",
-      "change_pct": -1.1,
-      "up": false
+      "price": 22750,
+      "change": "+0.4%",
+      "change_pct": 0.44,
+      "up": true
     },
     "004835.KS": {
       "ticker": "004835.KS",
-      "price": 4900,
-      "change": "+20.5%",
-      "change_pct": 20.54,
+      "price": 4970,
+      "change": "+22.3%",
+      "change_pct": 22.26,
       "up": true
     },
     "004985.KS": {
@@ -6512,37 +6512,37 @@
     },
     "006345.KS": {
       "ticker": "006345.KS",
-      "price": 10030,
-      "change": "-2.1%",
-      "change_pct": -2.15,
+      "price": 10130,
+      "change": "-1.2%",
+      "change_pct": -1.17,
       "up": false
     },
     "007575.KS": {
       "ticker": "007575.KS",
-      "price": 8300,
-      "change": "-0.8%",
-      "change_pct": -0.84,
+      "price": 8230,
+      "change": "-1.7%",
+      "change_pct": -1.67,
       "up": false
     },
     "00781K.KS": {
       "ticker": "00781K.KS",
-      "price": 13810,
-      "change": "-0.4%",
-      "change_pct": -0.36,
-      "up": false
+      "price": 13900,
+      "change": "+0.3%",
+      "change_pct": 0.29,
+      "up": true
     },
     "009415.KS": {
       "ticker": "009415.KS",
-      "price": 6530,
-      "change": "-1.1%",
-      "change_pct": -1.06,
+      "price": 6520,
+      "change": "-1.2%",
+      "change_pct": -1.21,
       "up": false
     },
     "012205.KS": {
       "ticker": "012205.KS",
-      "price": 6830,
-      "change": "+4.0%",
-      "change_pct": 3.96,
+      "price": 6710,
+      "change": "+2.1%",
+      "change_pct": 2.13,
       "up": true
     },
     "014825.KS": {
@@ -6582,9 +6582,9 @@
     },
     "000227.KS": {
       "ticker": "000227.KS",
-      "price": 7480,
-      "change": "-4.1%",
-      "change_pct": -4.1,
+      "price": 7520,
+      "change": "-3.6%",
+      "change_pct": -3.59,
       "up": false
     },
     "001525.KS": {
@@ -6596,9 +6596,9 @@
     },
     "001527.KS": {
       "ticker": "001527.KS",
-      "price": 6560,
-      "change": "-1.2%",
-      "change_pct": -1.2,
+      "price": 6570,
+      "change": "-1.1%",
+      "change_pct": -1.05,
       "up": false
     },
     "002785.KS": {
@@ -6624,9 +6624,9 @@
     },
     "004545.KS": {
       "ticker": "004545.KS",
-      "price": 4600,
-      "change": "-2.1%",
-      "change_pct": -2.13,
+      "price": 4595,
+      "change": "-2.2%",
+      "change_pct": -2.23,
       "up": false
     },
     "008355.KS": {
@@ -6638,16 +6638,16 @@
     },
     "011155.KS": {
       "ticker": "011155.KS",
-      "price": 6800,
-      "change": "-15.4%",
-      "change_pct": -15.42,
+      "price": 6810,
+      "change": "-15.3%",
+      "change_pct": -15.3,
       "up": false
     },
     "014285.KS": {
       "ticker": "014285.KS",
-      "price": 5810,
-      "change": "-0.5%",
-      "change_pct": -0.51,
+      "price": 5780,
+      "change": "-1.0%",
+      "change_pct": -1.03,
       "up": false
     },
     "014915.KS": {
@@ -6658,5 +6658,5 @@
       "up": false
     }
   },
-  "updated_at": "2026-08-18T03:28:24.216Z"
+  "updated_at": "2026-08-18T04:10:18.458Z"
 }
