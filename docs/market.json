@@ -11,8 +11,8 @@
       "key": "kosdaq",
       "label": "코스닥",
       "value": "893.29",
-      "change": "+37.38 (+4.37%)",
-      "up": true
+      "change": "-1.00 (-0.11%)",
+      "up": false
     },
     {
       "key": "usdkrw",
@@ -29,5 +29,5 @@
       "up": true
     }
   ],
-  "updated_at": "2026-10-02T21:03:08.224Z"
+  "updated_at": "2026-10-03T00:25:55.680Z"
 }
