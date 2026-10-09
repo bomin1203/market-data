@@ -1493,8 +1493,8 @@
     },
     "082640.KS": {
       "ticker": "082640.KS",
-      "price": 8250,
-      "change": "+0.0%",
+      "price": 0,
+      "change": "-",
       "change_pct": 0,
       "up": true
     },
@@ -6658,5 +6658,5 @@
       "up": true
     }
   },
-  "updated_at": "2026-10-08T12:12:05.013Z"
+  "updated_at": "2026-10-09T05:31:04.746Z"
 }
