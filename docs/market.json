@@ -11,14 +11,14 @@
       "key": "kosdaq",
       "label": "코스닥",
       "value": "699.66",
-      "change": "-5.44 (-0.77%)",
-      "up": false
+      "change": "+3.13 (+0.45%)",
+      "up": true
     },
     {
       "key": "usdkrw",
       "label": "원/달러 환율",
-      "value": "1,336.49",
-      "change": "+2.13 (+0.16%)",
+      "value": "1,335.11",
+      "change": "+0.75 (+0.06%)",
       "up": true
     },
     {
@@ -29,5 +29,5 @@
       "up": false
     }
   ],
-  "updated_at": "2026-11-13T21:28:40.735Z"
+  "updated_at": "2026-11-14T01:41:02.941Z"
 }
